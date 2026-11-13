@@ -1,0 +1,616 @@
+{
+  "id": "bitdefender",
+  "name": "Bitdefender",
+  "kind": "Suite",
+  "domain": "bitdefender.com",
+  "checkedAt": "2026-11-06T14:44:49.730Z",
+  "priceAnnual": 89.99,
+  "priceLabel": "$89.99 first year — Bitdefender Ultimate Security (US official site; $159.99 list price)",
+  "priceNote": "First-year price verified on the official Bitdefender Ultimate Security page; $159.99 is the struck-through list price. Base Ultimate Security tier — Plus Standard ($119.99 first year) and Plus Extended ($139.99 first year) are higher tiers on the same page. Do not use prices from reviews.",
+  "brokerCount": null,
+  "brokerCountLabel": "Not stated on official site — Digital Identity Protection is breach/dark-web monitoring, not broker removal",
+  "rescanDays": null,
+  "rescanLabel": "Not stated on official site (for brokers)",
+  "features": [
+    {
+      "group": "Privacy",
+      "icon": "🔍",
+      "key": "scan",
+      "label": "Broker scan",
+      "norton": "Yes — scans supported people-search & data broker sites and shows which have your data",
+      "note": null,
+      "rival": "No broker scan stated — breach / dark-web scan and footprint visualisation only. Broker removal: Not stated on official site"
+    },
+    {
+      "group": "Privacy",
+      "icon": "🤖",
+      "key": "auto",
+      "label": "Automated removal included",
+      "norton": "No — included Privacy Monitor is manual opt-out. Automated removal only with Privacy Monitor Assistant add-on, $109.99/yr or $12.99/mo",
+      "note": "Privacy Monitor Assistant product page says 'Included in Norton 360 with LifeLock Ultimate Plus', but the Norton 360 with LifeLock Ultimate Plus product page lists only 'Privacy Monitor' ('how to manually remove it') and does not list Privacy Monitor Assistant.",
+      "rival": "Not stated on official site — no removal service stated in any tier"
+    },
+    {
+      "group": "Privacy",
+      "icon": "🔢",
+      "key": "count",
+      "label": "Broker count stated",
+      "norton": "Page by page on norton.com — the Privacy Monitor Assistant product page (us.norton.com/products/privacy-monitor-assistant) says 'over 2,000' data broker sites; the Privacy Monitor feature page (us.norton.com/feature/privacy-monitor) says 'over 200'; the support list names sites individually with no total. Used in this comparison: 'over 2,000' from the Assistant product page on the main site — the Assistant is the removal product. No staging page is used as a source anywhere in this comparison",
+      "note": "Neither side prints a comparable removal count: Norton states 'over 2,000' on its Assistant product page, Bitdefender states no removal service.",
+      "rival": "Not stated on official site"
+    },
+    {
+      "group": "Privacy",
+      "icon": "🔄",
+      "key": "rescan",
+      "label": "Rescan speed",
+      "norton": "Every 90 days (Privacy Monitor Assistant); Privacy Monitor scan re-run every 3 months",
+      "note": null,
+      "rival": "Not stated on official site (for brokers)"
+    },
+    {
+      "group": "Privacy",
+      "icon": "✉️",
+      "key": "custom",
+      "label": "Custom removal requests",
+      "norton": "Offered via Reputation Defender executive/corporate products only (quote-led, 'when possible', no published price, no consumer product): ExecutivePrivacy — “Custom removal requests, when possible”; Total Radius — “Custom Data Removals”; VIP Services — “Deep Web privacy protection, including custom removal requests”. No Norton consumer product offers custom removals — Privacy Monitor Assistant covers its supported broker list only",
+      "note": null,
+      "rival": "Not stated on official site"
+    },
+    {
+      "group": "Privacy",
+      "icon": "🌐",
+      "key": "google",
+      "label": "Google results removal",
+      "norton": "Yes — via Reputation Defender (separate purchase, reputationdefender.com): “Push negative content or misleading search results down to pages where virtually nobody will ever see them”; its FAQ: “in certain cases online content in your search results can be permanently deleted”. Reputation Defender suppresses negative content in search results and deletes content where possible — it does not make de-indexing requests to Google",
+      "note": null,
+      "rival": "Not stated on official site"
+    },
+    {
+      "group": "Privacy",
+      "icon": "📸",
+      "key": "proof",
+      "label": "Removal proof",
+      "norton": "Results list + opt-out tracking; email once a batch of opt-outs has been sent. Screenshots: Not stated on official site",
+      "note": null,
+      "rival": "Dashboard for breach/footprint — not removal proof"
+    },
+    {
+      "group": "AntiTrack",
+      "icon": "🛡️",
+      "key": "tracker",
+      "label": "Tracker & cookie blocking",
+      "norton": "Yes — Tracker & Cookie Blocking (support). Full ad blocking: Not stated on official site ('limit targeted ads')",
+      "note": null,
+      "rival": "Yes — 'System-wide Ad blocker & Anti-tracker' stated in the pricing table; no tracker/cookie elaboration stated. Cookie wording: Not stated on official site"
+    },
+    {
+      "group": "AntiTrack",
+      "icon": "👆",
+      "key": "fingerprint",
+      "label": "Fingerprint protection",
+      "norton": "\"Disguise your digital fingerprint automatically each time you browse\" — support: anti-fingerprinting will 'return dummy data' to websites",
+      "note": null,
+      "rival": "Not stated on official site"
+    },
+    {
+      "group": "AntiTrack",
+      "icon": "📧",
+      "key": "email",
+      "label": "Email aliases + tracker blocking",
+      "norton": "Yes — create unlimited email aliases (AntiTrack Private Email) and block hidden email trackers",
+      "note": null,
+      "rival": "Aliases: Not stated on official site. Email Protection tags emails 'safe'/'unsafe' — tracker blocking Not stated on official site"
+    },
+    {
+      "group": "AntiTrack",
+      "icon": "📱",
+      "key": "appOs",
+      "label": "App / OS-level protection",
+      "norton": "Yes — Windows OS Tracker Blocking: blocks tracking activities and targeted ads by the Windows operating system (support)",
+      "note": null,
+      "rival": "'System-wide Ad blocker & Anti-tracker' stated — app-tracking scope Not stated on official site"
+    },
+    {
+      "group": "AntiTrack",
+      "icon": "📊",
+      "key": "dashboard",
+      "label": "Tracking dashboard",
+      "norton": "Yes — Tracking Dashboard shows real-time blocked trackers, ranked by level of concern / risk",
+      "note": null,
+      "rival": "Not stated on official site — only 'Anti-tracker' / 'System-wide Ad blocker & Anti-tracker' stated, with no dashboard wording"
+    }
+  ],
+  "tiers": [
+    {
+      "highlight": "Entry antivirus tiers from Bitdefender's US offer pages",
+      "name": "Antivirus Plus / Internet Security (Windows offers)",
+      "note": null,
+      "priceAnnual": 19.99,
+      "priceLabel": "Antivirus Plus $19.99 first yr (was $59.99) · Internet Security $32.99 first yr (was $84.99) — 3 Windows PCs, official US offer page",
+      "removal": "no",
+      "renewalLabel": null,
+      "scan": "no",
+      "suite": "in",
+      "tracking": "no"
+    },
+    {
+      "highlight": "Total Security: 5 devices, VPN + password manager · Premium adds unlimited VPN traffic",
+      "name": "Total Security / Premium Security",
+      "note": null,
+      "priceAnnual": null,
+      "priceLabel": "US price not rendered on the official portfolio page (price fields show as placeholders)",
+      "removal": "no",
+      "renewalLabel": null,
+      "scan": "no",
+      "suite": "in",
+      "tracking": "in"
+    },
+    {
+      "highlight": "Breach / dark-web monitoring and footprint view — NOT broker removal",
+      "name": "Digital Identity Protection",
+      "note": "No tier states a broker removal service. Also bundled in Ultimate Security below.",
+      "priceAnnual": null,
+      "priceLabel": "Price not stated — prices rendered hidden on official pricing pages (its store shows it as a $40.00 cart add-on, was $79.99)",
+      "removal": "no",
+      "renewalLabel": null,
+      "scan": "no",
+      "suite": "no",
+      "tracking": "no"
+    },
+    {
+      "highlight": "Everything in Premium + Digital Identity Protection + Dark Web Monitoring · still no broker removal stated",
+      "name": "Ultimate Security",
+      "note": "Bitdefender's Australian page prices this ladder (A$50 / A$89.99 / A$99.99 / A$109.99 first year) — not quoted here as US prices.",
+      "priceAnnual": null,
+      "priceLabel": "Price not stated — prices rendered hidden on official pricing pages",
+      "removal": "no",
+      "renewalLabel": null,
+      "scan": "no",
+      "suite": "in",
+      "tracking": "in"
+    }
+  ],
+  "refs": [
+    {
+      "label": "Bitdefender Digital Identity Protection",
+      "proves": "Monitoring not removal, $1M Ultimate Plus, prices hidden in index",
+      "url": "https://www.bitdefender.com/en-us/consumer/digital-identity-protection"
+    },
+    {
+      "label": "Bitdefender Ultimate Security",
+      "proves": "Anti-tracker wording, up to $2M note, US/SSN requirement",
+      "url": "https://www.bitdefender.com/en-us/consumer/ultimate-security"
+    },
+    {
+      "label": "Bitdefender Premium Security (UK)",
+      "proves": "Anti-tracker wording",
+      "url": "https://www.bitdefender.com/en-gb/consumer/premium-security"
+    }
+  ],
+  "gaps": [
+    {
+      "biz": false,
+      "detail": "Norton states no identity protection score. (Fraud assistance itself is offered via LifeLock restoration specialists; Reputation Defender's free Report Card grades search-result reputation by name — a different job.)",
+      "eco": false,
+      "name": "Identity Protection Score + Fraud Assistance",
+      "nortonEvidence": [],
+      "rivalHowSold": "Included in Digital Identity Protection",
+      "rivalPrice": null,
+      "rivalQuote": "Get your identity health assesed. To determine it we take into account many factors, such as the number of breaches you've been linked to or the type of information that's been exposed.",
+      "rivalUrl": "https://www.bitdefender.com/en-us/consumer/digital-identity-protection",
+      "state": "gap"
+    }
+  ],
+  "partials": [
+    {
+      "biz": false,
+      "detail": "Norton Wi-Fi Security (360 for Mobile / Mobile Security) detects and alerts when a network you join is dangerous; a Wi-Fi router security assessment is not stated.",
+      "eco": false,
+      "name": "Wi-Fi Security Advisor",
+      "nortonEvidence": [
+        {
+          "note": null,
+          "product": "Norton 360 for Mobile (Wi-Fi Security)",
+          "quote": "Wi-Fi Security to help detect and alert you when a network you join is dangerous.",
+          "url": "https://us.norton.com/products/norton-mobile-security"
+        },
+        {
+          "note": null,
+          "product": "Norton VPN",
+          "quote": "Helps block your online activities from being tracked",
+          "url": "https://us.norton.com/products/norton-vpn"
+        }
+      ],
+      "rivalHowSold": "Included in Total Security and above",
+      "rivalPrice": null,
+      "rivalQuote": "Assess the security of your Wi-Fi network and router, no matter where you connect.",
+      "rivalUrl": "https://www.bitdefender.com/en-us/consumer/total-security",
+      "state": "partial"
+    },
+    {
+      "biz": false,
+      "detail": "Norton blocks trackers via the free Norton Private Browser - no Norton 360 tier includes tracker blocking; Bitdefender includes anti-tracker in its tiers.",
+      "eco": false,
+      "name": "Anti-tracker (browser extension)",
+      "nortonEvidence": [
+        {
+          "note": "Separate purchase, not in any Norton 360 tier.",
+          "product": "Norton — tracker blocking",
+          "quote": "Help prevent websites and data collection companies from tracking your every move online.",
+          "url": "https://us.norton.com/products/norton-antitrack"
+        },
+        {
+          "note": null,
+          "product": "Norton Private Browser (free)",
+          "quote": "Block ads and trackers and get anti-fingerprinting protection to help keep your actions unprofiled.",
+          "url": "https://us.norton.com/products/norton-private-browser"
+        }
+      ],
+      "rivalHowSold": "Included in Total Security and above",
+      "rivalPrice": null,
+      "rivalQuote": "The Anti-tracker extension blocks trackers that collect your data, and it allows you to view and manage this information on each website you visit. It keeps your browsing data private and enhances performance by loading webpages faster.",
+      "rivalUrl": "https://www.bitdefender.com/en-us/consumer/total-security",
+      "state": "partial"
+    },
+    {
+      "biz": false,
+      "detail": "Norton blocks ads/trackers in the browser via the free Private Browser, blocks Windows OS tracking and ads via the VPN Ad Blocker; system-wide in-app ad blocking is not stated.",
+      "eco": false,
+      "name": "System-wide Ad blocker & Anti-tracker",
+      "nortonEvidence": [
+        {
+          "note": "Separate purchase, not in any Norton 360 tier.",
+          "product": "Norton — tracker blocking",
+          "quote": "Help prevent websites and data collection companies from tracking your every move online.",
+          "url": "https://us.norton.com/products/norton-antitrack"
+        },
+        {
+          "note": null,
+          "product": "Norton Private Browser (free)",
+          "quote": "Block ads and trackers and get anti-fingerprinting protection to help keep your actions unprofiled.",
+          "url": "https://us.norton.com/products/norton-private-browser"
+        },
+        {
+          "note": null,
+          "product": "Norton — Windows OS tracker blocking",
+          "quote": "The Windows OS Tracker blocking feature in Norton AntiTrack helps you keep your online activities private by blocking tracking and targeted advertising from the Windows operating system.",
+          "url": "https://support.norton.com/sp/en/us/norton-antitrack/current/solutions/v20230512131947273"
+        },
+        {
+          "note": null,
+          "product": "Norton Secure VPN (Ad Blocker)",
+          "quote": "Ad Blocker to browse without annoying ads.",
+          "url": "https://us.norton.com/products/norton-vpn"
+        }
+      ],
+      "rivalHowSold": "Included in Ultimate Security and Ultimate Security Plus",
+      "rivalPrice": null,
+      "rivalQuote": "Blocks ads, hinders ad targeting, and prevents online behavior profiling.",
+      "rivalUrl": "https://www.bitdefender.com/en-us/consumer/ultimate-security",
+      "state": "partial"
+    },
+    {
+      "biz": false,
+      "detail": "Norton Private Browser is a general secure browser; a dedicated banking mode (SafePay) is not stated.",
+      "eco": false,
+      "name": "Bitdefender SafePay",
+      "nortonEvidence": [
+        {
+          "note": null,
+          "product": "Norton Private Browser (free)",
+          "quote": "Block ads and trackers and get anti-fingerprinting protection to help keep your actions unprofiled.",
+          "url": "https://us.norton.com/products/norton-private-browser"
+        }
+      ],
+      "rivalHowSold": "Included in Total Security and above",
+      "rivalPrice": null,
+      "rivalQuote": "Bank and shop from a unique, dedicated browser that secures your transactions to prevent fraud. Bitdefender Safepay can now also automatically fill out credit card details in billing fields.",
+      "rivalUrl": "https://www.bitdefender.com/en-us/consumer/total-security",
+      "state": "partial"
+    },
+    {
+      "biz": false,
+      "detail": "Norton offers scam protection via Safe Email, Safe SMS, Safe Web, Genie and Deepfake Protection; Genie checks pasted or uploaded screenshots of messages and social posts on demand, but automatic in-chat-app scam protection is not stated.",
+      "eco": false,
+      "name": "Scam Protection Pro (AI-powered)",
+      "nortonEvidence": [
+        {
+          "note": "Scam scanning, not email tracker blocking; 360 with LifeLock tiers only (Scam Protection Pro).",
+          "product": "Norton 360 (Safe Email)",
+          "quote": "Safe Email uses AI to proactively scan emails, flag suspicious ones, and find scams hidden in email text.",
+          "url": "https://us.norton.com/products/norton-360"
+        },
+        {
+          "note": null,
+          "product": "Norton 360 (Deepfake Protection)",
+          "quote": "Detects scams in texts and deepfake videos",
+          "url": "https://us.norton.com/products"
+        },
+        {
+          "note": null,
+          "product": "Norton Private Browser (Web Shield)",
+          "quote": "Stop online attacks by blocking phishing, malware, and fake and/or dangerous websites, URLs, downloads, and scams.",
+          "url": "https://us.norton.com/products/norton-private-browser"
+        },
+        {
+          "note": null,
+          "product": "Norton Genie",
+          "quote": "Simply copy and paste or upload a screenshot of the text message, social media post, email, or website you want to be checked into Genie (Android app, iOS app or Genie.Norton.com), and in seconds, it will help determine if they appear to be a scam and why.",
+          "url": "https://support.norton.com/sp/en/us/home/current/solutions/v20230717145233467"
+        }
+      ],
+      "rivalHowSold": "Included in Ultimate Security and Ultimate Security Plus",
+      "rivalPrice": null,
+      "rivalQuote": "AI-powered scam protection. Shields you across all devices by providing Email Protection, Chat Protection, SMS Protection, Web Scam Protection, and more.",
+      "rivalUrl": "https://www.bitdefender.com/en-us/consumer/ultimate-security",
+      "state": "partial"
+    },
+    {
+      "biz": false,
+      "detail": "Norton offers scam reimbursement in LifeLock Advanced (up to $5,000) and Total / 360 Ultimate Plus (up to $10,000) vs Bitdefender's $25K; social-engineering resolution is covered by LifeLock restoration specialists.",
+      "eco": false,
+      "name": "Social Engineering Resolution & Refund",
+      "nortonEvidence": [
+        {
+          "note": "Up to $10,000 in coverage for certain scams.",
+          "product": "LifeLock Ultimate Plus (Scam Protection Pro)",
+          "quote": "Scam Protection Pro with 10k reimbursement",
+          "url": "https://us.norton.com/products/norton-360"
+        },
+        {
+          "note": null,
+          "product": "LifeLock Core",
+          "quote": "We're here to provide unparalleled identity monitoring, restoration support, and coverage you can rely on. We consistently resolve nearly 99% of our members' identity theft issues. In the unlikely event that we can't fully restore your identity, we'll refund up to 12 months of your subscription payments.",
+          "url": "https://lifelock.norton.com/products/lifelock-core"
+        },
+        {
+          "note": null,
+          "product": "LifeLock Total",
+          "quote": "Yes. Total includes scam support and up to $10,000 in scam reimbursement from financial losses from certain scams.",
+          "url": "https://lifelock.norton.com/products/lifelock-total"
+        },
+        {
+          "note": null,
+          "product": "LifeLock Advanced",
+          "quote": "Yes. You'll receive scam support plus up to $5,000 in scam reimbursement for eligible losses.",
+          "url": "https://lifelock.norton.com/products/lifelock-advanced"
+        }
+      ],
+      "rivalHowSold": "Included in Ultimate Security Plus Extended",
+      "rivalPrice": null,
+      "rivalQuote": "If ever duped by a social engineering scam that leads to financial losses, you're covered with reimbursement up to $25,000 - your ultimate safety net against schemes designed to exploit human trust and error.",
+      "rivalUrl": "https://www.bitdefender.com/en-us/consumer/ultimate-security",
+      "state": "partial"
+    },
+    {
+      "biz": false,
+      "detail": "Norton offers ransomware protection and a 100% Virus Protection Promise (refund if Norton experts cannot remove a virus); reimbursement for ransomware damage is not stated.",
+      "eco": false,
+      "name": "Ransomware Resolution & refund",
+      "nortonEvidence": [
+        {
+          "note": "RE-CHECK 12 Nov 2026: all 360 tiers; '100% Virus Protection Promise' - refund if Norton experts cannot remove a virus.",
+          "product": "Norton 360 / Norton AntiVirus Plus",
+          "quote": "Antivirus, malware, ransomware, and hacking protection",
+          "url": "https://us.norton.com/products/norton-360"
+        },
+        {
+          "note": null,
+          "product": "Norton AntiVirus Plus (100% Virus Protection Promise)",
+          "quote": "If your device gets a virus our Norton experts can't remove, you get your money back!",
+          "url": "https://us.norton.com/products/norton-antivirus-plus"
+        }
+      ],
+      "rivalHowSold": "Included in Ultimate Security Plus Extended",
+      "rivalPrice": null,
+      "rivalQuote": "In the rare case you end up a victim of ransomware attacks, you get reimbursed up to $25,000 to recover from ransomware's damages.",
+      "rivalUrl": "https://www.bitdefender.com/en-us/consumer/ultimate-security",
+      "state": "partial"
+    },
+    {
+      "biz": false,
+      "detail": "Norton offers the scan (Privacy Monitor, plus a free LifeLock exposure scan) and breach monitoring (Dark Web Monitoring) separately; a single unified digital-footprint visualisation is not stated. (Reputation Defender's Report Card grades search results by name — a reputation grade, not a data-exposure footprint view.)",
+      "eco": false,
+      "name": "Digital Footprint Visualization",
+      "nortonEvidence": [
+        {
+          "note": "Included in all Norton 360 with LifeLock tiers; scan + manual opt-out instructions.",
+          "product": "Privacy Monitor",
+          "quote": "Once you click on Privacy Monitor, we will scan popular data broker sites for your personal info. You can then request to opt out with the data broker.",
+          "url": "https://us.norton.com/feature/privacy-monitor"
+        },
+        {
+          "note": "All three bundled tiers; also in Norton 360 Standard and above.",
+          "product": "LifeLock / Norton 360 with LifeLock",
+          "quote": "Dark Web Monitoring",
+          "url": "https://us.norton.com/products/norton-360"
+        },
+        {
+          "note": null,
+          "product": "LifeLock free personal data exposure scan",
+          "quote": "you can also run a free one-time, deep-dive personal data exposure scan right now by following these simple steps: 1. Enter your email: Type your email address into our free personal data exposure scanner and click 'Run your free scan.' 2. Share identifying details: Input your full name, city, and state to enable a more complete exposure scan.",
+          "url": "https://lifelock.norton.com/learn/internet-security/dark-web-scan"
+        }
+      ],
+      "rivalHowSold": "Included in Digital Identity Protection",
+      "rivalPrice": null,
+      "rivalQuote": "This service lets you see your digital footprint, even traces from services you no longer use but still have your data. After years of online activity, you'll finally know what sensitive data of yours is out there and where.",
+      "rivalUrl": "https://www.bitdefender.com/en-us/consumer/digital-identity-protection",
+      "state": "partial"
+    },
+    {
+      "biz": false,
+      "detail": "Norton SafeCam protects the webcam (360 Standard and above); microphone monitoring is not stated.",
+      "eco": false,
+      "name": "Microphone Monitor + Webcam Protection",
+      "nortonEvidence": [
+        {
+          "note": "RE-CHECK 12 Nov 2026: feature-table tick in Norton 360 Standard and above (not AntiVirus Plus); webcam protection.",
+          "product": "Norton 360 (SafeCam)",
+          "quote": "SafeCam alerts you to attempts to access your Windows PC webcam and gives you the option to block those who are not authorized to access it.",
+          "url": "https://us.norton.com/feature/safecam"
+        }
+      ],
+      "rivalHowSold": "Included in Total Security and above",
+      "rivalPrice": null,
+      "rivalQuote": "Regain control over your own devices with Microphone Monitor. Use it and you can see what apps have access to your device's microphone and when.",
+      "rivalUrl": "https://www.bitdefender.com/en-us/consumer/total-security",
+      "state": "partial"
+    },
+    {
+      "biz": false,
+      "detail": "Norton Safe Email scans emails for scams; spam filtering for local mail clients is not stated.",
+      "eco": false,
+      "name": "Antispam",
+      "nortonEvidence": [
+        {
+          "note": "Scam scanning, not email tracker blocking; 360 with LifeLock tiers only (Scam Protection Pro).",
+          "product": "Norton 360 (Safe Email)",
+          "quote": "Safe Email uses AI to proactively scan emails, flag suspicious ones, and find scams hidden in email text.",
+          "url": "https://us.norton.com/products/norton-360"
+        }
+      ],
+      "rivalHowSold": "Included in Total Security and above",
+      "rivalPrice": null,
+      "rivalQuote": "Filters irrelevant messages in your Inbox. It is available for local email clients (Microsoft Outlook, Thunderbird).",
+      "rivalUrl": "https://www.bitdefender.com/en-us/consumer/total-security",
+      "state": "partial"
+    }
+  ],
+  "nortonOnly": [
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of bitdefender.com: its absent-categories list records 'credit_lock_freeze'.",
+      "key": "credit_lock",
+      "name": "Credit lock (TransUnion file)",
+      "nortonProducts": [
+        "LifeLock Core",
+        "LifeLock Advanced",
+        "LifeLock Total"
+      ],
+      "nortonQuote": "Allows you to lock your credit file and helps block many new payday loans in your name, with alerts if someone tries to access it.",
+      "nortonUrl": "https://lifelock.norton.com/products/lifelock-core",
+      "overlapNote": "Norton offers a TransUnion credit lock plus a guided Freeze Center; Norton does not place credit freezes itself. A company is counted as offering this job if it offers any credit lock or freeze product."
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of bitdefender.com: its absent-categories list records 'fingerprint_protection'.",
+      "key": "fingerprint",
+      "name": "Fingerprint protection",
+      "nortonProducts": [
+        "Norton AntiTrack",
+        "Norton Private Browser"
+      ],
+      "nortonQuote": "Disguise your digital fingerprint automatically each time you browse so you can't be identified.",
+      "nortonUrl": "https://us.norton.com/products/norton-antitrack",
+      "overlapNote": "Was in the dashboard's old AntiTrack feature group until 2026-11-13; NOT one of the current 7 privacy features."
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of bitdefender.com: its absent-categories list records 'email_protection_aliases (Email Protection tags mail safe/unsafe only — no aliases, no tracker blocking stated)'.",
+      "key": "email_aliases",
+      "name": "Email aliases & email tracker blocking",
+      "nortonProducts": [
+        "Norton AntiTrack (Private Email)"
+      ],
+      "nortonQuote": "Create unlimited email aliases and block hidden email trackers, all without changing your current provider (Windows, Mac).",
+      "nortonUrl": "https://us.norton.com/products/norton-antitrack",
+      "overlapNote": "Was in the dashboard's old AntiTrack feature group ('Email aliases + tracker blocking') until 2026-11-13; NOT one of the current 7 privacy features."
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of bitdefender.com: its absent-categories list records 'social_media_monitoring (Digital Identity Protection FAQ mentions preventing 'social media impersonations' via breach alerts, but no social-media monitoring product is described)'.",
+      "key": "social_monitoring",
+      "name": "Social media monitoring",
+      "nortonProducts": [
+        "LifeLock Core",
+        "LifeLock Advanced",
+        "LifeLock Total"
+      ],
+      "nortonQuote": "We monitor your linked accounts on the most popular social media sites and notify you if we think your account may be compromised.",
+      "nortonUrl": "https://www.norton.com/BenefitPremier",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of bitdefender.com: its absent-categories list records 'cloud_backup_storage'.",
+      "key": "cloud_backup",
+      "name": "Cloud backup",
+      "nortonProducts": [
+        "Norton Cloud Backup",
+        "Norton 360"
+      ],
+      "nortonQuote": "Store important files, photos, and documents in the cloud, and easily recover them if your device is lost, stolen, or crashes.",
+      "nortonUrl": "https://us.norton.com/feature/backup",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of bitdefender.com: its absent-categories list records 'google_search_removal'.",
+      "key": "google_removal",
+      "name": "Google search-result removal / suppression",
+      "nortonProducts": [
+        "Reputation Defender - Defender (Online Content Suppression)",
+        "Reputation Defender - VIP Services / Special Projects"
+      ],
+      "nortonQuote": "Push negative content or misleading search results down to pages where virtually nobody will ever see them.",
+      "nortonUrl": "https://www.reputationdefender.com/search-results",
+      "overlapNote": "OVERLAPS the dashboard privacy feature 'Google results removal' (key 'google'). If the pie's only-Norton segment switches to these product-level items, do NOT also count the privacy-feature version of this job."
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of bitdefender.com: its absent-categories list records 'reputation_management (closest adjacent offering is business-only: Business Assets Exposure alerts on breaches/leaks for business assets — no removal or suppression; per reputation research 12 Nov 2026)'.",
+      "key": "reputation_mgmt",
+      "name": "Reputation management (review management, reputation score, personal branding)",
+      "nortonProducts": [
+        "Reputation Defender - Defender Local",
+        "Reputation Defender - Reputation Report Card",
+        "Reputation Defender - ReputationGrower"
+      ],
+      "nortonQuote": "Our AI-powered system does an online search based on your name, city, and profession, then sorts them according to the impact on your reputation. By looking at which results appear and how prominently, we are able to assign you a reputation grade.",
+      "nortonUrl": "https://www.reputationdefender.com/report-card",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "No such product among the 31 products inventoried on bitdefender.com in the 12 Nov 2026 full official-site inventory (product list and absent-categories list both checked).",
+      "key": "home_title",
+      "name": "Home title monitoring",
+      "nortonProducts": [
+        "LifeLock Home Title Protect",
+        "LifeLock Total"
+      ],
+      "nortonQuote": "Home Title Monitoring covers your primary home, second home, rental properties, and other properties where you are listed as an owner.",
+      "nortonUrl": "https://lifelock.norton.com/home-title-protect",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "No such product among the 31 products inventoried on bitdefender.com in the 12 Nov 2026 full official-site inventory (product list and absent-categories list both checked).",
+      "key": "bank_alerts",
+      "name": "Bank & financial account transaction alerts",
+      "nortonProducts": [
+        "LifeLock Core",
+        "LifeLock Advanced",
+        "LifeLock Total"
+      ],
+      "nortonQuote": "Credit, Checking and Savings Activity Alerts: 5 Accounts. Notifies you of suspicious activity across your bank, credit, and savings accounts, including unauthorized charges and account changes .",
+      "nortonUrl": "https://lifelock.norton.com/products/lifelock-advanced",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "No such product among the 31 products inventoried on bitdefender.com in the 12 Nov 2026 full official-site inventory (product list and absent-categories list both checked).",
+      "key": "child_identity",
+      "name": "Child identity protection (child SSN monitoring & credit file detection)",
+      "nortonProducts": [
+        "LifeLock Junior",
+        "LifeLock Family Plans"
+      ],
+      "nortonQuote": "The existence of credit information for a child can be a sign of identity theft. LifeLock monitors your child's Social Security number to detect credit information associated with your child's identity.",
+      "nortonUrl": "https://lifelock.norton.com/products/lifelock-junior",
+      "overlapNote": null
+    }
+  ],
+  "productsTotal": 31,
+  "detail": {
+    "brokerList": {
+      "categories": [],
+      "kind": "none",
+      "label": "No broker removal service",
+      "note": "This company states no data-broker scan or removal service on its official site, so it publishes no broker list — every broker in Norton's list is marked ✗ for it.",
+      "url": null
+    }
+  }
+}

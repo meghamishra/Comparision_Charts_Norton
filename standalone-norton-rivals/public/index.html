@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Norton vs Other Companies</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="header-inner">
+    <div>
+      <h1>Norton <span class="vs">vs</span> Other Companies</h1>
+      <p class="subtitle">Live comparison from each company&rsquo;s own official site. Every claim links to its proof.</p>
+    </div>
+    <button id="refreshBtn" class="refresh-btn" type="button">Refresh data</button>
+  </div>
+  <p id="refreshStatus" class="refresh-status" aria-live="polite"></p>
+</header>
+
+<div class="picker-bar">
+  <label for="companySelect">Compare Norton with</label>
+  <select id="companySelect" aria-label="Select company"></select>
+  <span id="companyKind" class="kind-badge"></span>
+  <span id="checkedAt" class="checked-at"></span>
+</div>
+
+<nav id="tabs" class="tabs" aria-label="Comparison sections"></nav>
+
+<main id="content" class="content" aria-live="polite">
+  <p class="loading">Loading comparison data…</p>
+</main>
+
+<footer class="site-footer">
+  <p>Sources: each company&rsquo;s own official website only. Figures carry the date they were checked; where a company states different figures on different official pages, each page&rsquo;s figure is shown with its page.</p>
+</footer>
+
+<div id="modalRoot" class="modal-root" hidden>
+  <div class="modal-backdrop" id="modalBackdrop"></div>
+  <div class="modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+    <button id="modalClose" class="modal-close" type="button" aria-label="Close">✕</button>
+    <h2 id="modalTitle"></h2>
+    <div id="modalBody" class="modal-body"></div>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

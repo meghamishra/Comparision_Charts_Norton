@@ -1,0 +1,132 @@
+[
+  {
+    "id": "aura",
+    "name": "Aura",
+    "kind": "Suite"
+  },
+  {
+    "id": "malwarebytes",
+    "name": "Malwarebytes",
+    "kind": "Suite"
+  },
+  {
+    "id": "duckduckgo",
+    "name": "DuckDuckGo",
+    "kind": "Suite"
+  },
+  {
+    "id": "surfshark",
+    "name": "Surfshark One+",
+    "kind": "Suite"
+  },
+  {
+    "id": "nord",
+    "name": "Nord Security (NordVPN + Coveron)",
+    "kind": "Suite"
+  },
+  {
+    "id": "mcafee",
+    "name": "McAfee+",
+    "kind": "Suite"
+  },
+  {
+    "id": "bitdefender",
+    "name": "Bitdefender",
+    "kind": "Suite"
+  },
+  {
+    "id": "proton",
+    "name": "Proton",
+    "kind": "Suite"
+  },
+  {
+    "id": "expressvpn",
+    "name": "ExpressVPN",
+    "kind": "Suite"
+  },
+  {
+    "id": "experian",
+    "name": "Experian",
+    "kind": "Suite"
+  },
+  {
+    "id": "apple",
+    "name": "Apple iCloud+",
+    "kind": "Suite"
+  },
+  {
+    "id": "adguard",
+    "name": "AdGuard",
+    "kind": "Suite"
+  },
+  {
+    "id": "pureprivacy",
+    "name": "PurePrivacy",
+    "kind": "Suite"
+  },
+  {
+    "id": "cloaked",
+    "name": "Cloaked",
+    "kind": "Suite"
+  },
+  {
+    "id": "incogni",
+    "name": "Incogni",
+    "kind": "Specialist"
+  },
+  {
+    "id": "optery",
+    "name": "Optery",
+    "kind": "Specialist"
+  },
+  {
+    "id": "deleteme",
+    "name": "DeleteMe",
+    "kind": "Specialist"
+  },
+  {
+    "id": "kanary",
+    "name": "Kanary",
+    "kind": "Specialist"
+  },
+  {
+    "id": "dataseal",
+    "name": "DataSeal",
+    "kind": "Specialist"
+  },
+  {
+    "id": "helloprivacy",
+    "name": "HelloPrivacy",
+    "kind": "Specialist"
+  },
+  {
+    "id": "easyoptouts",
+    "name": "EasyOptOuts",
+    "kind": "Specialist"
+  },
+  {
+    "id": "privacyduck",
+    "name": "PrivacyDuck",
+    "kind": "Specialist"
+  },
+  {
+    "id": "brave",
+    "name": "Brave Browser",
+    "kind": "Free browser"
+  },
+  {
+    "id": "onerep",
+    "name": "OneRep",
+    "kind": "Specialist"
+  },
+  {
+    "id": "privacybee",
+    "name": "Privacy Bee",
+    "kind": "Specialist"
+  },
+  {
+    "id": "firefox",
+    "name": "Firefox",
+    "kind": "Free browser"
+  }
+]

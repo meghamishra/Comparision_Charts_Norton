@@ -1,0 +1,24 @@
+{
+  "brokers": "data/brokers/norton.json = 374 names (367 supported list + 7 opt-out guide, guide_names marked). Named lists: deleteme 956, onerep 876, incogni 420 (also served for surfshark and nord), privacyduck 377, easyoptouts 214, optery 178, dataseal 100, helloprivacy 93, duckduckgo 54. Name matching applies the 12 Nov 2026 audit (substring variants, key overrides, 411.ca / yellowpages.ca splits).",
+  "companies": 26,
+  "extractedAt": "2026-11-13",
+  "removedCompany": "One company removed by the user on 2026-11-12 is absent from this package and must never be re-added.",
+  "norton": "stackTotal 209.98 (Select Plus $99.99 + Privacy Monitor Assistant add-on $109.99); 4 tiers; 18 refs.",
+  "notes": [
+    "Figures carry their checkedAt date from the hosted data; where a company states different figures on different official pages, each page's figure is kept with its page.",
+    "The scraper (scripts/scrape.js) re-checks canonical official pages only. The generic engine may only REPORT a differing figure, never auto-write; only the Norton/Aura/Incogni/Optery parsers may auto-write cleanly-read figures.",
+    "This package is a snapshot: it does not receive hosted-dashboard fixes automatically. Re-extract to update."
+  ],
+  "perCompanyFiles": "data/<id>.json holds the company's comparison in the hosted shape minus legacy fields: nortonGaps/rivalGaps (stale, dropped), the per-feature verdict field (never displayed), detail.atSubs and detail.reputation (not displayed in the current hosted UI; reputation.shown is false for every company). nortonOnly items are served in full, with proof fields.",
+  "rebuilt": "2026-11-13 rebuild from the CURRENT hosted state: 5 tabs (Only {company} · Privacy Features · Brokers · Tiers & Cost · Proof), Optery default, first-page products pie with exactly 3 segments, data brokers counted as ONE item, reverse-matrix Norton-only segment, Norton stack = 2 bills totalling $209.98.",
+  "source": "Hosted dashboard artifact (slug: norton-vs-rivals-live-comparison), pulled fresh via its published actions only: listrivals, getalloverview, getcomparison (per company). The hosted artifact was not edited.",
+  "staticVersion": "static/ contains the same UI and data with client-side loading (no server needed), verified by serving it with a plain static file server.",
+  "totals": {
+    "nortonNamedBrokers": 374,
+    "nortonOnlyItems": 479,
+    "notOfferedByNorton": 56,
+    "offeredByBoth": 217,
+    "offeredDifferently": 118,
+    "products": 391
+  }
+}

@@ -1,0 +1,606 @@
+{
+  "id": "apple",
+  "name": "Apple iCloud+",
+  "kind": "Suite",
+  "domain": "apple.com",
+  "checkedAt": "2026-11-06T14:38:31.502Z",
+  "priceAnnual": null,
+  "priceLabel": "Not stated on official site as a privacy price — iCloud+ is priced by storage: 50 GB $0.99/mo, 200 GB $2.99/mo, 2 TB $9.99/mo, 6 TB $29.99/mo, 12 TB $59.99/mo (US, billed monthly)",
+  "priceNote": "Every iCloud+ tier includes the same privacy features (Private Relay + Hide My Email) — the tiers differ by storage and by HomeKit Secure Video cameras (1 camera on 50 GB, up to 5 on 200 GB / 2 TB, unlimited on 6 TB / 12 TB). Mail Privacy Protection and Safari's tracking prevention are free with the devices. No data-broker removal exists in any Apple plan.",
+  "brokerCount": null,
+  "brokerCountLabel": "No broker removal — not applicable",
+  "rescanDays": null,
+  "rescanLabel": "Not applicable — no broker removal",
+  "features": [
+    {
+      "group": "Privacy",
+      "icon": "🔍",
+      "key": "scan",
+      "label": "Broker scan",
+      "norton": "Yes — scans supported people-search & data broker sites and shows which have your data",
+      "note": null,
+      "rival": "No — Apple offers no data-broker scan"
+    },
+    {
+      "group": "Privacy",
+      "icon": "🤖",
+      "key": "auto",
+      "label": "Automated removal included",
+      "norton": "No — included Privacy Monitor is manual opt-out. Automated removal only with Privacy Monitor Assistant add-on, $109.99/yr or $12.99/mo",
+      "note": null,
+      "rival": "No"
+    },
+    {
+      "group": "Privacy",
+      "icon": "🔢",
+      "key": "count",
+      "label": "Broker count stated",
+      "norton": "Page by page on norton.com — the Privacy Monitor Assistant product page (us.norton.com/products/privacy-monitor-assistant) says 'over 2,000' data broker sites; the Privacy Monitor feature page (us.norton.com/feature/privacy-monitor) says 'over 200'; the support list names sites individually with no total. Used in this comparison: 'over 2,000' from the Assistant product page on the main site — the Assistant is the removal product. No staging page is used as a source anywhere in this comparison",
+      "note": null,
+      "rival": "No removal service"
+    },
+    {
+      "group": "Privacy",
+      "icon": "🔄",
+      "key": "rescan",
+      "label": "Rescan speed",
+      "norton": "Every 90 days (Privacy Monitor Assistant); Privacy Monitor scan re-run every 3 months",
+      "note": null,
+      "rival": "Not applicable"
+    },
+    {
+      "group": "Privacy",
+      "icon": "✉️",
+      "key": "custom",
+      "label": "Custom removal requests",
+      "norton": "Offered via Reputation Defender executive/corporate products only (quote-led, 'when possible', no published price, no consumer product): ExecutivePrivacy — “Custom removal requests, when possible”; Total Radius — “Custom Data Removals”; VIP Services — “Deep Web privacy protection, including custom removal requests”. No Norton consumer product offers custom removals — Privacy Monitor Assistant covers its supported broker list only",
+      "note": null,
+      "rival": "No"
+    },
+    {
+      "group": "Privacy",
+      "icon": "🌐",
+      "key": "google",
+      "label": "Google results removal",
+      "norton": "Yes — via Reputation Defender (separate purchase, reputationdefender.com): “Push negative content or misleading search results down to pages where virtually nobody will ever see them”; its FAQ: “in certain cases online content in your search results can be permanently deleted”. Reputation Defender suppresses negative content in search results and deletes content where possible — it does not make de-indexing requests to Google",
+      "note": null,
+      "rival": "No"
+    },
+    {
+      "group": "Privacy",
+      "icon": "📸",
+      "key": "proof",
+      "label": "Removal proof",
+      "norton": "Results list + opt-out tracking; email once a batch of opt-outs has been sent. Screenshots: Not stated on official site",
+      "note": null,
+      "rival": "Safari Privacy Report covers trackers encountered — not broker-removal proof"
+    },
+    {
+      "group": "AntiTrack",
+      "icon": "🛡️",
+      "key": "tracker",
+      "label": "Tracker & cookie blocking",
+      "norton": "Yes — Tracker & Cookie Blocking (support). Full ad blocking: Not stated on official site ('limit targeted ads')",
+      "note": null,
+      "rival": "Yes — Safari Intelligent Tracking Prevention: 'Prevent Cross-Site Tracking: Safari limits third-party cookies and data by default'; iCloud Private Relay stops sites building a profile from your IP / location / browsing history"
+    },
+    {
+      "group": "AntiTrack",
+      "icon": "👆",
+      "key": "fingerprint",
+      "label": "Fingerprint protection",
+      "norton": "\"Disguise your digital fingerprint automatically each time you browse\" — support: anti-fingerprinting will 'return dummy data' to websites",
+      "note": null,
+      "rival": "Partly — Safari 'presents a simplified version of your system configuration' so your device 'looks more like everyone else's'. A simplified profile — not disguise / randomisation wording"
+    },
+    {
+      "group": "AntiTrack",
+      "icon": "📧",
+      "key": "email",
+      "label": "Email aliases + tracker blocking",
+      "norton": "Yes — create unlimited email aliases (AntiTrack Private Email) and block hidden email trackers",
+      "note": null,
+      "rival": "Aliases: Yes — Hide My Email: 'Generate unique, random email addresses that automatically forward to your personal inbox' (iCloud+). Email tracker blocking: Yes — Mail Privacy Protection (free) 'prevents senders from seeing if you've opened the email'"
+    },
+    {
+      "group": "AntiTrack",
+      "icon": "📱",
+      "key": "appOs",
+      "label": "App / OS-level protection",
+      "norton": "Yes — Windows OS Tracker Blocking: blocks tracking activities and targeted ads by the Windows operating system (support)",
+      "note": null,
+      "rival": "Partly — App Tracking Transparency: apps must ask permission to track you across other companies' apps and websites (iPhone). OS-level tracker blocking: Not stated on official site"
+    },
+    {
+      "group": "AntiTrack",
+      "icon": "📊",
+      "key": "dashboard",
+      "label": "Tracking dashboard",
+      "norton": "Yes — Tracking Dashboard shows real-time blocked trackers, ranked by level of concern / risk",
+      "note": null,
+      "rival": "Yes — Safari Privacy Report 'shows a summary of trackers that have been encountered and prevented by Intelligent Tracking Prevention'"
+    }
+  ],
+  "tiers": [
+    {
+      "highlight": "Safari Intelligent Tracking Prevention + Mail Privacy Protection are free with Apple devices",
+      "name": "iCloud (free)",
+      "note": "No Private Relay or Hide My Email at this tier — those need iCloud+.",
+      "priceAnnual": 0,
+      "priceLabel": "$0 — 5 GB",
+      "removal": "no",
+      "renewalLabel": null,
+      "scan": "no",
+      "suite": "no",
+      "tracking": "part"
+    },
+    {
+      "highlight": "Cheapest tier with Private Relay + Hide My Email — every iCloud+ tier includes the same privacy features",
+      "name": "iCloud+ 50 GB",
+      "note": null,
+      "priceAnnual": 11.88,
+      "priceLabel": "$0.99/mo (≈$11.88/yr)",
+      "removal": "no",
+      "renewalLabel": null,
+      "scan": "no",
+      "suite": "no",
+      "tracking": "in"
+    },
+    {
+      "highlight": "Same privacy features — the tiers differ only by storage",
+      "name": "iCloud+ 200 GB",
+      "note": null,
+      "priceAnnual": 35.88,
+      "priceLabel": "$2.99/mo (≈$35.88/yr)",
+      "removal": "no",
+      "renewalLabel": null,
+      "scan": "no",
+      "suite": "no",
+      "tracking": "in"
+    },
+    {
+      "highlight": "Same privacy features, 2 TB storage",
+      "name": "iCloud+ 2 TB",
+      "note": null,
+      "priceAnnual": 119.88,
+      "priceLabel": "$9.99/mo (≈$119.88/yr)",
+      "removal": "no",
+      "renewalLabel": null,
+      "scan": "no",
+      "suite": "no",
+      "tracking": "in"
+    },
+    {
+      "highlight": "Same privacy features, more storage",
+      "name": "iCloud+ 6 TB / 12 TB",
+      "note": "No Apple tier at any price offers data-broker scan or removal.",
+      "priceAnnual": 359.88,
+      "priceLabel": "$29.99/mo (6 TB) · $59.99/mo (12 TB)",
+      "removal": "no",
+      "renewalLabel": null,
+      "scan": "no",
+      "suite": "no",
+      "tracking": "in"
+    }
+  ],
+  "refs": [
+    {
+      "label": "Apple support: iCloud+ plans and pricing",
+      "proves": "US prices by storage — $0.99 / $2.99 / $9.99 / $29.99 / $59.99 per month; every tier includes Private Relay + Hide My Email",
+      "url": "https://support.apple.com/en-us/108047"
+    },
+    {
+      "label": "Apple iCloud+",
+      "proves": "Private Relay + Hide My Email wording; no removal product mentioned",
+      "url": "https://www.apple.com/icloud/"
+    },
+    {
+      "label": "Apple support: Mail Privacy Protection",
+      "proves": "Hides IP address and prevents senders seeing if you opened the email",
+      "url": "https://support.apple.com/guide/icloud/use-mail-privacy-protection-mm90f7d05c96/icloud"
+    },
+    {
+      "label": "Apple support: Safari fingerprinting protection",
+      "proves": "Safari 'presents a simplified version of your system configuration' — the exact fingerprinting mechanism",
+      "url": "https://support.apple.com/en-gb/guide/safari/sfri40732/mac"
+    }
+  ],
+  "gaps": [
+    {
+      "biz": false,
+      "detail": "Norton states no custom email domain product. (Checked Norton's email-alias add-on — aliases only, no custom domain — and Norton 360/LifeLock pages.)",
+      "eco": false,
+      "name": "Custom Email Domain",
+      "nortonEvidence": [],
+      "rivalHowSold": "Included in iCloud+",
+      "rivalPrice": "From $0.99/mo (iCloud+ 50 GB)",
+      "rivalQuote": "when you subscribe to iCloud+, you'll be able to personalize your email with a custom domain.",
+      "rivalUrl": "https://www.apple.com/icloud/",
+      "state": "gap"
+    },
+    {
+      "biz": false,
+      "detail": "Norton states no end-to-end-encrypted cloud data protection product. (Norton Cloud Backup encrypts files before upload, but end-to-end encryption is not stated.)",
+      "eco": false,
+      "name": "Advanced Data Protection",
+      "nortonEvidence": [],
+      "rivalHowSold": "Free opt-in (iCloud)",
+      "rivalPrice": "$0",
+      "rivalQuote": "Innovative features like two-factor authentication and Advanced Data Protection provide the highest level of cloud data security.",
+      "rivalUrl": "https://www.apple.com/icloud/",
+      "state": "gap"
+    },
+    {
+      "biz": false,
+      "detail": "Norton states no home-security-camera video product. (Checked SafeCam — webcam protection on Windows PCs, not home cameras — and all 360/LifeLock pages.)",
+      "eco": true,
+      "name": "HomeKit Secure Video",
+      "nortonEvidence": [],
+      "rivalHowSold": "Included in iCloud+",
+      "rivalPrice": "From $0.99/mo (iCloud+ 50 GB)",
+      "rivalQuote": "Any activity detected by your security cameras will be recorded, analyzed on your home hub device, and uploaded to iCloud so you can view it in the Home app from anywhere. Footage is end-to-end encrypted, so you can trust that only the people you choose can access it.",
+      "rivalUrl": "https://www.apple.com/icloud/",
+      "state": "gap"
+    },
+    {
+      "biz": false,
+      "detail": "Norton states no sign-in-with-provider identity product. (Checked Password Manager and all LifeLock/360 pages — no sign-in-with-provider service stated.)",
+      "eco": true,
+      "name": "Sign in with Apple",
+      "nortonEvidence": [],
+      "rivalHowSold": "Free with Apple devices",
+      "rivalPrice": "$0 (free with device)",
+      "rivalQuote": "Sign in with Apple: Lets you use your Apple Account to sign in, and limits the information shared about you.",
+      "rivalUrl": "https://support.apple.com/guide/iphone/automatically-fill-in-strong-passwords-iphf9219d8c9/18.0/ios/18.0",
+      "state": "gap"
+    }
+  ],
+  "partials": [
+    {
+      "biz": false,
+      "detail": "Norton offers unlimited email aliases via a separate Norton add-on (Windows/Mac only); Apple includes Hide My Email in iCloud+ from $0.99/mo.",
+      "eco": false,
+      "name": "Hide My Email",
+      "nortonEvidence": [
+        {
+          "note": "Windows/Mac only; part of a paid Norton add-on.",
+          "product": "Norton — email aliases add-on",
+          "quote": "Create unlimited email aliases and block hidden email trackers, all without changing your current provider (Windows, Mac).",
+          "url": "https://us.norton.com/products/norton-antitrack"
+        }
+      ],
+      "rivalHowSold": "Included in every iCloud+ tier",
+      "rivalPrice": "From $0.99/mo (iCloud+ 50 GB)",
+      "rivalQuote": "Generate unique, random email addresses that automatically forward to your personal inbox, so you don't have to share your real email address when filling out a form on the web or signing up for a newsletter.",
+      "rivalUrl": "https://www.apple.com/icloud/",
+      "state": "partial"
+    },
+    {
+      "biz": false,
+      "detail": "Norton blocks hidden email trackers via a separate Norton add-on (Windows/Mac only); Apple's Mail Privacy Protection is free and built in.",
+      "eco": false,
+      "name": "Mail Privacy Protection",
+      "nortonEvidence": [
+        {
+          "note": "Windows/Mac only; part of a paid Norton add-on.",
+          "product": "Norton — email aliases add-on",
+          "quote": "Create unlimited email aliases and block hidden email trackers, all without changing your current provider (Windows, Mac).",
+          "url": "https://us.norton.com/products/norton-antitrack"
+        }
+      ],
+      "rivalHowSold": "Free with Apple devices / iCloud",
+      "rivalPrice": "$0 (free with device)",
+      "rivalQuote": "Mail Privacy Protection hides your IP address so senders can't link it to your other online activity or determine your exact location. It also prevents senders from seeing if you've opened the email they sent you.",
+      "rivalUrl": "https://support.apple.com/guide/icloud/use-mail-privacy-protection-mm90f7d05c96/icloud",
+      "state": "partial"
+    },
+    {
+      "biz": false,
+      "detail": "Norton Password Manager stores passwords and has 2FA for vault login; passkeys and verification codes are stated for Apple's Passwords app but not stated for Norton. (Apple's compromised-password alerts are covered separately by LifeLock Dark Web Monitoring.)",
+      "eco": false,
+      "name": "Passwords app",
+      "nortonEvidence": [
+        {
+          "note": "Free standalone; included in Norton 360 tiers and VPN Ultimate; blog feature list: 'Passwordless vault unlock, safety dashboard, password generator'; no email aliases; passkeys/2FA authenticator not stated.",
+          "product": "Norton Password Manager",
+          "quote": "Securely create, store, and manage passwords.",
+          "url": "https://us.norton.com/feature/password-manager"
+        },
+        {
+          "note": null,
+          "product": "Norton Password Manager",
+          "quote": "Two-Factor Authentication helps stop cybercriminals from accessing your info by adding another layer of security when you log in to Password Manager to make sure it's really you.",
+          "url": "https://us.norton.com/feature/password-manager"
+        },
+        {
+          "note": null,
+          "product": "LifeLock / Norton 360 with LifeLock",
+          "quote": "Dark Web Monitoring",
+          "url": "https://us.norton.com/products/norton-360"
+        }
+      ],
+      "rivalHowSold": "Free app (iOS 18, iPadOS 18, macOS Sequoia, visionOS 2+)",
+      "rivalPrice": "$0 (free app)",
+      "rivalQuote": "Starting in iOS 18, iPadOS 18, macOS Sequoia, and visionOS 2, the Passwords app helps you manage your passwords, passkeys, and verification codes. You can generate, create and save strong passwords, share credentials with friends and families, customize passwords, and more.",
+      "rivalUrl": "https://support.apple.com/en-us/120758",
+      "state": "partial"
+    },
+    {
+      "biz": false,
+      "detail": "Norton Cloud Backup stores secure copies of files (2 GB-500 GB by tier, Windows only) - backup, not a photo/file sync drive.",
+      "eco": false,
+      "name": "iCloud Backup, Photos & Drive",
+      "nortonEvidence": [
+        {
+          "note": "RE-CHECK 12 Nov 2026: 2 GB (AntiVirus Plus/Standard) to 250 GB+ (360 with LifeLock; Ultimate Plus 500 GB); Windows only (plan-page footnote 4); backup, not a general cloud drive.",
+          "product": "Norton 360 (Cloud Backup)",
+          "quote": "Store important files, photos, and documents in the cloud, and easily recover them if your device is lost, stolen, or crashes.",
+          "url": "https://us.norton.com/feature/backup"
+        }
+      ],
+      "rivalHowSold": "Free 5 GB; iCloud+ tiers by storage",
+      "rivalPrice": "Free 5 GB; iCloud+ 50 GB $0.99/mo, 200 GB $2.99/mo, 2 TB $9.99/mo, 6 TB $29.99/mo, 12 TB $59.99/mo (US, billed monthly)",
+      "rivalQuote": "iCloud automatically keeps all your photos, files, and more backed up and available anywhere you go.",
+      "rivalUrl": "https://www.apple.com/icloud/",
+      "state": "partial"
+    },
+    {
+      "biz": false,
+      "detail": "Norton Safe Email scans emails for scams; spam filtering for a Norton mail service does not apply - Norton offers no mail service.",
+      "eco": false,
+      "name": "iCloud Mail spam protection & antiphishing",
+      "nortonEvidence": [
+        {
+          "note": "Scam scanning, not email tracker blocking; 360 with LifeLock tiers only (Scam Protection Pro).",
+          "product": "Norton 360 (Safe Email)",
+          "quote": "Safe Email uses AI to proactively scan emails, flag suspicious ones, and find scams hidden in email text.",
+          "url": "https://us.norton.com/products/norton-360"
+        }
+      ],
+      "rivalHowSold": "Included with iCloud / iCloud+",
+      "rivalPrice": "$0 (free with iCloud)",
+      "rivalQuote": "Security features like spam protection and antiphishing are built in to detect and block junk mail before it reaches your inbox.",
+      "rivalUrl": "https://www.apple.com/icloud/",
+      "state": "partial"
+    }
+  ],
+  "nortonOnly": [
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of apple.com: its absent-categories list records 'antivirus_malware'.",
+      "key": "antivirus",
+      "name": "Antivirus & malware protection",
+      "nortonProducts": [
+        "Norton 360",
+        "Norton AntiVirus Plus",
+        "Norton Mobile Security"
+      ],
+      "nortonQuote": "Antivirus, malware, ransomware, and hacking protection",
+      "nortonUrl": "https://us.norton.com/products/norton-360-standard",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of apple.com: its absent-categories list records 'vpn'.",
+      "key": "vpn",
+      "name": "VPN",
+      "nortonProducts": [
+        "Norton Secure VPN",
+        "Norton 360"
+      ],
+      "nortonQuote": "Norton VPN uses bank-grade encryption to make your data unreadable to unauthorized parties.",
+      "nortonUrl": "https://us.norton.com/products/norton-vpn",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of apple.com: its absent-categories list records 'identity_theft_protection'.",
+      "key": "identity_protection",
+      "name": "Identity theft protection (identity monitoring, alerts & restoration specialists)",
+      "nortonProducts": [
+        "LifeLock Core",
+        "LifeLock Advanced",
+        "LifeLock Total"
+      ],
+      "nortonQuote": "If your identity is compromised, an Identity Restoration Specialist will personally handle your case and help restore your identity.",
+      "nortonUrl": "https://lifelock.norton.com/products/lifelock-junior",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of apple.com: its absent-categories list records 'identity_theft_insurance'.",
+      "key": "identity_insurance",
+      "name": "Identity theft insurance",
+      "nortonProducts": [
+        "LifeLock Core",
+        "LifeLock Advanced",
+        "LifeLock Total"
+      ],
+      "nortonQuote": "LifeLock Core covers up to $1,050,000.",
+      "nortonUrl": "https://lifelock.norton.com/learn/identity-theft-resources/million-dollar-protection",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of apple.com: its absent-categories list records 'credit_monitoring'.",
+      "key": "credit_monitoring",
+      "name": "Credit monitoring (up to 3 bureaus)",
+      "nortonProducts": [
+        "LifeLock Core",
+        "LifeLock Advanced",
+        "LifeLock Total"
+      ],
+      "nortonQuote": "Yes. LifeLock Advanced includes three-bureau credit monitoring, annual three-bureau credit reports, and monthly one-bureau reports.",
+      "nortonUrl": "https://lifelock.norton.com/products/lifelock-advanced",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of apple.com: its absent-categories list records 'credit_lock_freeze'.",
+      "key": "credit_lock",
+      "name": "Credit lock (TransUnion file)",
+      "nortonProducts": [
+        "LifeLock Core",
+        "LifeLock Advanced",
+        "LifeLock Total"
+      ],
+      "nortonQuote": "Allows you to lock your credit file and helps block many new payday loans in your name, with alerts if someone tries to access it.",
+      "nortonUrl": "https://lifelock.norton.com/products/lifelock-core",
+      "overlapNote": "Norton offers a TransUnion credit lock plus a guided Freeze Center; Norton does not place credit freezes itself. A company is counted as offering this job if it offers any credit lock or freeze product."
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of apple.com: its absent-categories list records 'dark_web_monitoring'.",
+      "key": "dark_web",
+      "name": "Dark web monitoring",
+      "nortonProducts": [
+        "LifeLock Core",
+        "LifeLock Advanced",
+        "LifeLock Total",
+        "Norton 360"
+      ],
+      "nortonQuote": "Yes. LifeLock Core continuously monitors dark web marketplaces and notifies you if your personal information is found. You'll also receive breach alerts if a major data breach may have exposed your information.",
+      "nortonUrl": "https://lifelock.norton.com/products/lifelock-core",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of apple.com: its absent-categories list records 'social_media_monitoring'.",
+      "key": "social_monitoring",
+      "name": "Social media monitoring",
+      "nortonProducts": [
+        "LifeLock Core",
+        "LifeLock Advanced",
+        "LifeLock Total"
+      ],
+      "nortonQuote": "We monitor your linked accounts on the most popular social media sites and notify you if we think your account may be compromised.",
+      "nortonUrl": "https://www.norton.com/BenefitPremier",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of apple.com: its absent-categories list records 'wifi_network_protection'.",
+      "key": "wifi_protection",
+      "name": "Wi-Fi / network protection",
+      "nortonProducts": [
+        "Norton 360 for Mobile",
+        "Norton Secure VPN"
+      ],
+      "nortonQuote": "Wi-Fi Security to help detect and alert you when a network you join is dangerous.",
+      "nortonUrl": "https://us.norton.com/products/norton-mobile-security",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of apple.com: its absent-categories list records 'google_search_removal'.",
+      "key": "google_removal",
+      "name": "Google search-result removal / suppression",
+      "nortonProducts": [
+        "Reputation Defender - Defender (Online Content Suppression)",
+        "Reputation Defender - VIP Services / Special Projects"
+      ],
+      "nortonQuote": "Push negative content or misleading search results down to pages where virtually nobody will ever see them.",
+      "nortonUrl": "https://www.reputationdefender.com/search-results",
+      "overlapNote": "OVERLAPS the dashboard privacy feature 'Google results removal' (key 'google'). If the pie's only-Norton segment switches to these product-level items, do NOT also count the privacy-feature version of this job."
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of apple.com: its absent-categories list records 'reputation_management'.",
+      "key": "reputation_mgmt",
+      "name": "Reputation management (review management, reputation score, personal branding)",
+      "nortonProducts": [
+        "Reputation Defender - Defender Local",
+        "Reputation Defender - Reputation Report Card",
+        "Reputation Defender - ReputationGrower"
+      ],
+      "nortonQuote": "Our AI-powered system does an online search based on your name, city, and profession, then sorts them according to the impact on your reputation. By looking at which results appear and how prominently, we are able to assign you a reputation grade.",
+      "nortonUrl": "https://www.reputationdefender.com/report-card",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "No such product among the 14 products inventoried on apple.com in the 12 Nov 2026 full official-site inventory (product list and absent-categories list both checked).",
+      "key": "home_title",
+      "name": "Home title monitoring",
+      "nortonProducts": [
+        "LifeLock Home Title Protect",
+        "LifeLock Total"
+      ],
+      "nortonQuote": "Home Title Monitoring covers your primary home, second home, rental properties, and other properties where you are listed as an owner.",
+      "nortonUrl": "https://lifelock.norton.com/home-title-protect",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "No such product among the 14 products inventoried on apple.com in the 12 Nov 2026 full official-site inventory (product list and absent-categories list both checked).",
+      "key": "investment_alerts",
+      "name": "Investment / 401(k) account monitoring",
+      "nortonProducts": [
+        "LifeLock Total"
+      ],
+      "nortonQuote": "Investment and 401(k) activity alerts warn you of potentially identity-fraudulent cash withdrawals and balance transfers.",
+      "nortonUrl": "https://support.norton.com/sp/en/us/home/current/solutions/v20250925172133820",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "No such product among the 14 products inventoried on apple.com in the 12 Nov 2026 full official-site inventory (product list and absent-categories list both checked).",
+      "key": "bank_alerts",
+      "name": "Bank & financial account transaction alerts",
+      "nortonProducts": [
+        "LifeLock Core",
+        "LifeLock Advanced",
+        "LifeLock Total"
+      ],
+      "nortonQuote": "Credit, Checking and Savings Activity Alerts: 5 Accounts. Notifies you of suspicious activity across your bank, credit, and savings accounts, including unauthorized charges and account changes .",
+      "nortonUrl": "https://lifelock.norton.com/products/lifelock-advanced",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "No such product among the 14 products inventoried on apple.com in the 12 Nov 2026 full official-site inventory (product list and absent-categories list both checked).",
+      "key": "webcam",
+      "name": "Webcam protection",
+      "nortonProducts": [
+        "Norton SafeCam (in Norton 360 plans)"
+      ],
+      "nortonQuote": "SafeCam alerts you to attempts to access your Windows PC webcam and gives you the option to block those who are not authorized to access it.",
+      "nortonUrl": "https://us.norton.com/feature/safecam",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "No such product among the 14 products inventoried on apple.com in the 12 Nov 2026 full official-site inventory (product list and absent-categories list both checked).",
+      "key": "ai_scam",
+      "name": "AI scam protection (scam checker, deepfake & scam protection)",
+      "nortonProducts": [
+        "Norton Genie",
+        "Norton Deepfake Protection",
+        "Norton Scam Protection / Scam Protection Pro"
+      ],
+      "nortonQuote": "Norton Genie is an industry-leading AI-powered scam detection tool that helps you identify these types of threats, which can lead to financial fraud and identity theft.",
+      "nortonUrl": "https://support.norton.com/sp/en/us/home/current/solutions/v20230717145233467",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "No such product among the 14 products inventoried on apple.com in the 12 Nov 2026 full official-site inventory (product list and absent-categories list both checked).",
+      "key": "child_identity",
+      "name": "Child identity protection (child SSN monitoring & credit file detection)",
+      "nortonProducts": [
+        "LifeLock Junior",
+        "LifeLock Family Plans"
+      ],
+      "nortonQuote": "The existence of credit information for a child can be a sign of identity theft. LifeLock monitors your child's Social Security number to detect credit information associated with your child's identity.",
+      "nortonUrl": "https://lifelock.norton.com/products/lifelock-junior",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "No such product among the 14 products inventoried on apple.com in the 12 Nov 2026 full official-site inventory (product list and absent-categories list both checked).",
+      "key": "pc_utilities",
+      "name": "PC utilities & tune-up (driver updater, cleanup, optimization)",
+      "nortonProducts": [
+        "Norton Utilities Ultimate",
+        "Norton Driver Updater",
+        "Norton Computer Tune Up",
+        "Norton Cleaner"
+      ],
+      "nortonQuote": "Norton Driver Updater software automatically detects outdated, corrupt, vulnerable, or missing Windows PC drivers and suggests the best choices from more than 140 million available drivers.",
+      "nortonUrl": "https://us.norton.com/products/norton-driver-updater",
+      "overlapNote": null
+    }
+  ],
+  "productsTotal": 14,
+  "detail": {
+    "brokerList": {
+      "categories": [],
+      "kind": "none",
+      "label": "No broker removal service",
+      "note": "This company states no data-broker scan or removal service on its official site, so it publishes no broker list — every broker in Norton's list is marked ✗ for it.",
+      "url": null
+    }
+  }
+}

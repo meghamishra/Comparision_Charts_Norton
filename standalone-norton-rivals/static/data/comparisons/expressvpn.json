@@ -1,0 +1,588 @@
+{
+  "id": "expressvpn",
+  "name": "ExpressVPN",
+  "kind": "Suite",
+  "domain": "expressvpn.com",
+  "checkedAt": "2026-11-06T14:40:15.888Z",
+  "priceAnnual": 54,
+  "priceLabel": "Advanced $4.50/mo on 28-month plan (≈$54.00/yr equivalent) — the first tier with data removal",
+  "priceNote": "Order-page prices vary by promotion on ExpressVPN's own site: the 28-month plan (2 years + 4 months) currently shows Basic $3/mo (billed $84), Advanced $4.50/mo (billed $126), Express Pro $7.50/mo (billed $210). Renewals: Basic $99.95/yr, Advanced $119.95/yr, Pro $199.95/yr. Basic has NO removal — Identity Defender (with data removal) is Advanced / Express Pro only, US customers only.",
+  "brokerCount": null,
+  "brokerCountLabel": "Not stated on official site — ExpressVPN states no broker total for Identity Defender",
+  "rescanDays": null,
+  "rescanLabel": "\"Constant monitoring\" — 'stay up-to-date on where you're appearing with constant monitoring'; no day count stated",
+  "features": [
+    {
+      "group": "Privacy",
+      "icon": "🔍",
+      "key": "scan",
+      "label": "Broker scan",
+      "norton": "Yes — scans supported people-search & data broker sites and shows which have your data",
+      "note": null,
+      "rival": "Yes — Identity Defender scans data broker sites (Advanced & Express Pro only, US customers only)"
+    },
+    {
+      "group": "Privacy",
+      "icon": "🤖",
+      "key": "auto",
+      "label": "Automated removal included",
+      "norton": "No — included Privacy Monitor is manual opt-out. Automated removal only with Privacy Monitor Assistant add-on, $109.99/yr or $12.99/mo",
+      "note": null,
+      "rival": "Yes — 'automated data removal' via Identity Defender, Advanced / Pro only, US only (Advanced: 12-month and 2-year plans only — not the monthly Advanced plan)"
+    },
+    {
+      "group": "Privacy",
+      "icon": "🔢",
+      "key": "count",
+      "label": "Broker count stated",
+      "norton": "Page by page on norton.com — the Privacy Monitor Assistant product page (us.norton.com/products/privacy-monitor-assistant) says 'over 2,000' data broker sites; the Privacy Monitor feature page (us.norton.com/feature/privacy-monitor) says 'over 200'; the support list names sites individually with no total. Used in this comparison: 'over 2,000' from the Assistant product page on the main site — the Assistant is the removal product. No staging page is used as a source anywhere in this comparison",
+      "note": null,
+      "rival": "Covers data brokers & people-search sites via Identity Defender — no total count stated on official site"
+    },
+    {
+      "group": "Privacy",
+      "icon": "🔄",
+      "key": "rescan",
+      "label": "Rescan speed",
+      "norton": "Every 90 days (Privacy Monitor Assistant); Privacy Monitor scan re-run every 3 months",
+      "note": null,
+      "rival": "\"Constant monitoring\" — 'stay up-to-date on where you're appearing with constant monitoring'; no interval stated"
+    },
+    {
+      "group": "Privacy",
+      "icon": "✉️",
+      "key": "custom",
+      "label": "Custom removal requests",
+      "norton": "Offered via Reputation Defender executive/corporate products only (quote-led, 'when possible', no published price, no consumer product): ExecutivePrivacy — “Custom removal requests, when possible”; Total Radius — “Custom Data Removals”; VIP Services — “Deep Web privacy protection, including custom removal requests”. No Norton consumer product offers custom removals — Privacy Monitor Assistant covers its supported broker list only",
+      "note": null,
+      "rival": "Not stated on official site"
+    },
+    {
+      "group": "Privacy",
+      "icon": "🌐",
+      "key": "google",
+      "label": "Google results removal",
+      "norton": "Yes — via Reputation Defender (separate purchase, reputationdefender.com): “Push negative content or misleading search results down to pages where virtually nobody will ever see them”; its FAQ: “in certain cases online content in your search results can be permanently deleted”. Reputation Defender suppresses negative content in search results and deletes content where possible — it does not make de-indexing requests to Google",
+      "note": null,
+      "rival": "Not stated on official site"
+    },
+    {
+      "group": "Privacy",
+      "icon": "📸",
+      "key": "proof",
+      "label": "Removal proof",
+      "norton": "Results list + opt-out tracking; email once a batch of opt-outs has been sent. Screenshots: Not stated on official site",
+      "note": null,
+      "rival": "Not stated on official site"
+    },
+    {
+      "group": "AntiTrack",
+      "icon": "🛡️",
+      "key": "tracker",
+      "label": "Tracker & cookie blocking",
+      "norton": "Yes — Tracker & Cookie Blocking (support). Full ad blocking: Not stated on official site ('limit targeted ads')",
+      "note": null,
+      "rival": "Yes on all tiers — 'Advanced protection' blocks ads, trackers, malicious sites, and adult sites (Basic, Advanced, and Express Pro)"
+    },
+    {
+      "group": "AntiTrack",
+      "icon": "👆",
+      "key": "fingerprint",
+      "label": "Fingerprint protection",
+      "norton": "\"Disguise your digital fingerprint automatically each time you browse\" — support: anti-fingerprinting will 'return dummy data' to websites",
+      "note": null,
+      "rival": "Not stated on official site"
+    },
+    {
+      "group": "AntiTrack",
+      "icon": "📧",
+      "key": "email",
+      "label": "Email aliases + tracker blocking",
+      "norton": "Yes — create unlimited email aliases (AntiTrack Private Email) and block hidden email trackers",
+      "note": null,
+      "rival": "Aliases: Yes — ExpressMailGuard email relay on all tiers (Basic included, with limits; more aliases on Advanced / Pro). Email tracker blocking: Not stated on official site"
+    },
+    {
+      "group": "AntiTrack",
+      "icon": "📱",
+      "key": "appOs",
+      "label": "App / OS-level protection",
+      "norton": "Yes — Windows OS Tracker Blocking: blocks tracking activities and targeted ads by the Windows operating system (support)",
+      "note": null,
+      "rival": "Not stated on official site"
+    },
+    {
+      "group": "AntiTrack",
+      "icon": "📊",
+      "key": "dashboard",
+      "label": "Tracking dashboard",
+      "norton": "Yes — Tracking Dashboard shows real-time blocked trackers, ranked by level of concern / risk",
+      "note": null,
+      "rival": "Not stated on official site"
+    }
+  ],
+  "tiers": [
+    {
+      "highlight": "VPN (10 devices) · 'Lite protection' — ads + malicious sites only",
+      "name": "ExpressVPN Basic",
+      "note": "NO Identity Defender and NO data removal at this tier; tracker blocking is not stated for Basic.",
+      "priceAnnual": 35.88,
+      "priceLabel": "$2.99/mo on 28-month plan (≈$35.88/yr equivalent)",
+      "removal": "no",
+      "renewalLabel": "Renews $99.95/yr · 15-month plan $4.99/mo",
+      "scan": "no",
+      "suite": "in",
+      "tracking": "part"
+    },
+    {
+      "highlight": "First tier with Identity Defender: automated data removal (US only) · 5 ID alerts · $3M identity insurance · ExpressMailGuard aliases",
+      "name": "ExpressVPN Advanced",
+      "note": "Removal is for US customers only.",
+      "priceAnnual": 53.88,
+      "priceLabel": "$4.49/mo on 28-month plan (≈$53.88/yr equivalent)",
+      "removal": "in",
+      "renewalLabel": "Renews $119.95/yr · 15-month plan $5.99/mo",
+      "scan": "in",
+      "suite": "in",
+      "tracking": "in"
+    },
+    {
+      "highlight": "Everything in Advanced · 11 ID alerts · $5M insurance · adds home / auto title, court records, 401(k) monitoring (US only)",
+      "name": "ExpressVPN Pro",
+      "note": null,
+      "priceAnnual": 89.88,
+      "priceLabel": "$7.49/mo on 28-month plan (≈$89.88/yr equivalent)",
+      "removal": "in",
+      "renewalLabel": "Renews $199.95/yr · 15-month plan $8.99/mo",
+      "scan": "in",
+      "suite": "in",
+      "tracking": "in"
+    }
+  ],
+  "refs": [
+    {
+      "label": "ExpressVPN Identity Defender",
+      "proves": "US only, Advanced / Pro only, automated data removal, $3M (Advanced) / $5M (Pro) identity insurance",
+      "url": "https://www.expressvpn.com/features/id-defender"
+    },
+    {
+      "label": "ExpressVPN support: subscription tiers",
+      "proves": "Three tiers — Basic / Advanced / Express Pro — and the per-tier Identity Defender table (5 vs 12 types of monitoring; $3m vs $5m ID theft insurance)",
+      "url": "https://www.expressvpn.com/support/manage-account/available-subscriptions/"
+    }
+  ],
+  "gaps": [
+    {
+      "biz": false,
+      "detail": "Norton states no general AI assistant. (Norton Genie is a scam/deepfake assistant, Neo's AI Assistant works inside the Neo browser, Family Assistant organises families and Revamp builds social presence — all narrow-purpose, a different job.)",
+      "eco": false,
+      "name": "ExpressAI (privacy-first AI assistant)",
+      "nortonEvidence": [],
+      "rivalHowSold": "Included in all tiers (credits vary: Basic 50/day, Advanced 100/day, Pro 500/day)",
+      "rivalPrice": null,
+      "rivalQuote": "ExpressAI: A privacy-by-design AI assistant with access to advanced models like GPT OSS and DeepSeek R1. Conversations are encrypted: they can't be accessed by the provider or used for AI training.",
+      "rivalUrl": "https://www.expressvpn.com/support/manage-account/available-subscriptions/",
+      "state": "gap"
+    },
+    {
+      "biz": false,
+      "detail": "Norton states no eSIM product. (Checked Norton Secure VPN, Norton Neo and 360 for Mobile — no eSIM stated.)",
+      "eco": false,
+      "name": "holiday.com eSIM",
+      "nortonEvidence": [],
+      "rivalHowSold": "Included in Advanced (3 days) and Express Pro (5 days); 3 GB data, 150+ destinations",
+      "rivalPrice": null,
+      "rivalQuote": "holiday.com eSIM: eSIMs for over 200+ countries with mobile data on demand. Included with Advanced and Express Pro (included data varies by tier).",
+      "rivalUrl": "https://www.expressvpn.com/support/manage-account/available-subscriptions/",
+      "state": "gap"
+    },
+    {
+      "biz": false,
+      "detail": "Norton states no dedicated IP option for its VPN. (Checked Norton Secure VPN features — Kill Switch, IP Rotation, Double VPN, Mimic protocol — and Norton Neo's built-in VPN; no dedicated IP stated.)",
+      "eco": false,
+      "name": "Dedicated IP",
+      "nortonEvidence": [],
+      "rivalHowSold": "Add-on for Basic/Advanced; included in Express Pro",
+      "rivalPrice": null,
+      "rivalQuote": "Dedicated IP: Available as add-on (Basic, Advanced). Included (Express Pro).",
+      "rivalUrl": "https://www.expressvpn.com/support/manage-account/available-subscriptions/",
+      "state": "gap"
+    }
+  ],
+  "partials": [
+    {
+      "biz": false,
+      "detail": "Norton offers automated removal via Privacy Monitor Assistant ($109.99/yr add-on/standalone, agents handle removals from over 2,000 broker sites) - not included in any Norton 360 with LifeLock suite; ExpressVPN includes Identity Defender data removal in its Advanced/Pro tiers.",
+      "eco": false,
+      "name": "Identity Defender — Data Removal",
+      "nortonEvidence": [
+        {
+          "note": "$109.99/yr or $12.99/mo; add-on to 360/LifeLock plans or standalone; agents handle removal requests.",
+          "product": "Privacy Monitor Assistant",
+          "quote": "Take control of your data with Privacy Monitor Assistant, which removes your personal information from over 2,000 data broker sites and databases. We'll do the work for you.",
+          "url": "https://us.norton.com/products/privacy-monitor-assistant"
+        }
+      ],
+      "rivalHowSold": "Included in Advanced (12-month and 2-year plans only, NOT the monthly Advanced plan) and Express Pro; US customers only",
+      "rivalPrice": null,
+      "rivalQuote": "Scan data broker websites and easily submit removal requests with Data Removal. Stop your private details from being easily found on people-search sites and stay up-to-date on where you're appearing with constant monitoring.",
+      "rivalUrl": "https://www.expressvpn.com/features/id-defender",
+      "state": "partial"
+    },
+    {
+      "biz": false,
+      "detail": "Norton blocks ads/trackers via the free Private Browser - not built into the VPN; malicious-site blocking is offered via Safe Web and adult-site blocking via Parental Control.",
+      "eco": false,
+      "name": "Advanced Protection (block ads, trackers, malicious sites, adult sites)",
+      "nortonEvidence": [
+        {
+          "note": "Separate purchase, not in any Norton 360 tier.",
+          "product": "Norton — tracker blocking",
+          "quote": "Help prevent websites and data collection companies from tracking your every move online.",
+          "url": "https://us.norton.com/products/norton-antitrack"
+        },
+        {
+          "note": null,
+          "product": "Norton Private Browser (free)",
+          "quote": "Block ads and trackers and get anti-fingerprinting protection to help keep your actions unprofiled.",
+          "url": "https://us.norton.com/products/norton-private-browser"
+        },
+        {
+          "note": null,
+          "product": "Norton Private Browser (Web Shield)",
+          "quote": "Stop online attacks by blocking phishing, malware, and fake and/or dangerous websites, URLs, downloads, and scams.",
+          "url": "https://us.norton.com/products/norton-private-browser"
+        },
+        {
+          "note": "Parental Control is listed under Device Security in all three 360 with LifeLock tiers.",
+          "product": "Norton Family",
+          "quote": "Let your children explore the web freely with tools that help you block unsuitable websites while keeping you in the know about which sites they're visiting.",
+          "url": "https://us.norton.com/products/norton-family"
+        },
+        {
+          "note": null,
+          "product": "Norton Family",
+          "quote": "Stay on top of how much time your children spend on their devices. Foster healthier habits by scheduling specific times of the day or week each device can be used and how many hours a day can be spent on each device.",
+          "url": "https://us.norton.com/products/norton-family"
+        }
+      ],
+      "rivalHowSold": "Included in all tiers",
+      "rivalPrice": null,
+      "rivalQuote": "Advanced Protection: Block ads, trackers, malicious sites, and adult sites",
+      "rivalUrl": "https://www.expressvpn.com/order",
+      "state": "partial"
+    },
+    {
+      "biz": false,
+      "detail": "Norton Password Manager stores passwords and has 2FA for vault login; passkeys and a 2FA authenticator are stated for ExpressKeys but not stated for Norton.",
+      "eco": false,
+      "name": "ExpressKeys",
+      "nortonEvidence": [
+        {
+          "note": "Free standalone; included in Norton 360 tiers and VPN Ultimate; blog feature list: 'Passwordless vault unlock, safety dashboard, password generator'; no email aliases; passkeys/2FA authenticator not stated.",
+          "product": "Norton Password Manager",
+          "quote": "Securely create, store, and manage passwords.",
+          "url": "https://us.norton.com/feature/password-manager"
+        },
+        {
+          "note": null,
+          "product": "Norton Password Manager",
+          "quote": "Two-Factor Authentication helps stop cybercriminals from accessing your info by adding another layer of security when you log in to Password Manager to make sure it's really you.",
+          "url": "https://us.norton.com/feature/password-manager"
+        }
+      ],
+      "rivalHowSold": "Included in Advanced and Express Pro",
+      "rivalPrice": null,
+      "rivalQuote": "ExpressKeys: A privacy-first password manager protected with zero-knowledge encryption. Included with Advanced and Express Pro. / Securely stores unlimited passwords, payment details, and more.",
+      "rivalUrl": "https://www.expressvpn.com/support/manage-account/available-subscriptions/",
+      "state": "partial"
+    },
+    {
+      "biz": false,
+      "detail": "Norton offers unlimited email aliases via a separate Norton add-on (Windows/Mac only); ExpressVPN includes ExpressMailGuard in its tiers.",
+      "eco": false,
+      "name": "ExpressMailGuard (email relay / aliases)",
+      "nortonEvidence": [
+        {
+          "note": "Windows/Mac only; part of a paid Norton add-on.",
+          "product": "Norton — email aliases add-on",
+          "quote": "Create unlimited email aliases and block hidden email trackers, all without changing your current provider (Windows, Mac).",
+          "url": "https://us.norton.com/products/norton-antitrack"
+        }
+      ],
+      "rivalHowSold": "Included in all tiers (features vary by tier)",
+      "rivalPrice": null,
+      "rivalQuote": "ExpressMailGuard: A secure email relay service for protection against data breaches, spam, and phishing attacks. Included with Basic, Advanced, and Express Pro (features vary by tier).",
+      "rivalUrl": "https://www.expressvpn.com/support/manage-account/available-subscriptions/",
+      "state": "partial"
+    },
+    {
+      "biz": false,
+      "detail": "LifeLock alerts on sex offenders in all tiers (Core/Advanced/Total), which covers the offender-alert half of Neighborhood Watch; a neighbourhood safety-information review is not stated.",
+      "eco": false,
+      "name": "Identity Defender — Neighborhood Watch",
+      "nortonEvidence": [
+        {
+          "note": null,
+          "product": "LifeLock Core",
+          "quote": "Yes. You'll receive USPS address change alerts, arrest and court record alerts, and sex offender alerts.",
+          "url": "https://lifelock.norton.com/products/lifelock-core"
+        }
+      ],
+      "rivalHowSold": "Included in Express Pro only",
+      "rivalPrice": null,
+      "rivalQuote": "Keep your loved ones safe by reviewing safety information about your area and getting offender alerts in real time.",
+      "rivalUrl": "https://www.expressvpn.com/features/id-defender",
+      "state": "partial"
+    },
+    {
+      "biz": false,
+      "detail": "Norton offers Home Title Monitoring (LifeLock Total / 360 Ultimate Plus, plus standalone Home Title Protect $99.99) and 401(k) & Investment Account Alerts (top tiers), court-record alerts and USPS change-of-address alerts (all LifeLock tiers), and suspicious-charge alerts (all tiers) with bank account takeover alerts (Total); auto title monitoring is not stated, and high-risk-transaction monitoring is not stated as such.",
+      "eco": false,
+      "name": "Identity Defender — Pro-only monitors (home/auto title, court records, 401k, high-risk transactions)",
+      "nortonEvidence": [
+        {
+          "note": null,
+          "product": "LifeLock Ultimate Plus",
+          "quote": "Home Title Monitoring",
+          "url": "https://us.norton.com/products/norton-360"
+        },
+        {
+          "note": null,
+          "product": "LifeLock Ultimate Plus",
+          "quote": "401(k) & Investment Account Alerts for each adult",
+          "url": "https://us.norton.com/products/norton-360"
+        },
+        {
+          "note": null,
+          "product": "LifeLock Core",
+          "quote": "Yes. You'll receive USPS address change alerts, arrest and court record alerts, and sex offender alerts.",
+          "url": "https://lifelock.norton.com/products/lifelock-core"
+        },
+        {
+          "note": null,
+          "product": "LifeLock Home Title Protect",
+          "quote": "Receive alerts for changes to your property ownership records.",
+          "url": "https://lifelock.norton.com/home-title-protect"
+        },
+        {
+          "note": null,
+          "product": "LifeLock Total",
+          "quote": "LifeLock Total adds protection against advanced and high-impact fraud, including bank account takeovers, 401(k) and investment fraud, home title fraud, phone number takeovers (SIM swap fraud), and unauthorized checking or savings account applications.",
+          "url": "https://lifelock.norton.com/products/lifelock-total"
+        }
+      ],
+      "rivalHowSold": "Included in Express Pro (home/auto title, court records, 401k, high-risk transactions); Advanced + Pro (change of address, SSN)",
+      "rivalPrice": null,
+      "rivalQuote": "Express Pro: Dark web monitoring, ID Theft Insurance up to $5 million, Change of address alerts, SSN monitoring, Data removal, Credit alerts and report, Home title monitoring, Auto title monitoring, Court record monitoring, Neighborhood watch, 401k monitoring, Caller Identification",
+      "rivalUrl": "https://www.expressvpn.com/support/manage-account/available-subscriptions/",
+      "state": "partial"
+    },
+    {
+      "biz": false,
+      "detail": "Norton VPN is offered; post-quantum protection is not stated for Norton.",
+      "eco": false,
+      "name": "Lightway protocol + Post-quantum protection",
+      "nortonEvidence": [
+        {
+          "note": "Standalone Standard 5 devices $39.99 first yr / $79.99 renewal; Ultimate 10 devices $59.99 / $129.99; included in all Norton 360 tiers, uncapped traffic, audited no-log policy.",
+          "product": "Norton VPN",
+          "quote": "Helps block your online activities from being tracked",
+          "url": "https://us.norton.com/products/norton-vpn"
+        }
+      ],
+      "rivalHowSold": "Included in all tiers",
+      "rivalPrice": null,
+      "rivalQuote": "Post-quantum protection. Cutting-edge VPN protocol, Lightway.",
+      "rivalUrl": "https://www.expressvpn.com/order",
+      "state": "partial"
+    }
+  ],
+  "nortonOnly": [
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of expressvpn.com: its absent-categories list records 'antivirus_malware'.",
+      "key": "antivirus",
+      "name": "Antivirus & malware protection",
+      "nortonProducts": [
+        "Norton 360",
+        "Norton AntiVirus Plus",
+        "Norton Mobile Security"
+      ],
+      "nortonQuote": "Antivirus, malware, ransomware, and hacking protection",
+      "nortonUrl": "https://us.norton.com/products/norton-360-standard",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of expressvpn.com: its absent-categories list records 'credit_lock_freeze'.",
+      "key": "credit_lock",
+      "name": "Credit lock (TransUnion file)",
+      "nortonProducts": [
+        "LifeLock Core",
+        "LifeLock Advanced",
+        "LifeLock Total"
+      ],
+      "nortonQuote": "Allows you to lock your credit file and helps block many new payday loans in your name, with alerts if someone tries to access it.",
+      "nortonUrl": "https://lifelock.norton.com/products/lifelock-core",
+      "overlapNote": "Norton offers a TransUnion credit lock plus a guided Freeze Center; Norton does not place credit freezes itself. A company is counted as offering this job if it offers any credit lock or freeze product."
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of expressvpn.com: its absent-categories list records 'fingerprint_protection'.",
+      "key": "fingerprint",
+      "name": "Fingerprint protection",
+      "nortonProducts": [
+        "Norton AntiTrack",
+        "Norton Private Browser"
+      ],
+      "nortonQuote": "Disguise your digital fingerprint automatically each time you browse so you can't be identified.",
+      "nortonUrl": "https://us.norton.com/products/norton-antitrack",
+      "overlapNote": "Was in the dashboard's old AntiTrack feature group until 2026-11-13; NOT one of the current 7 privacy features."
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of expressvpn.com: its absent-categories list records 'secure_browser'.",
+      "key": "secure_browser",
+      "name": "Secure browser",
+      "nortonProducts": [
+        "Norton Private Browser",
+        "Norton Neo"
+      ],
+      "nortonQuote": "Block ads and trackers and get anti-fingerprinting protection to help keep your actions unprofiled.",
+      "nortonUrl": "https://us.norton.com/products/norton-private-browser",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of expressvpn.com: its absent-categories list records 'social_media_monitoring'.",
+      "key": "social_monitoring",
+      "name": "Social media monitoring",
+      "nortonProducts": [
+        "LifeLock Core",
+        "LifeLock Advanced",
+        "LifeLock Total"
+      ],
+      "nortonQuote": "We monitor your linked accounts on the most popular social media sites and notify you if we think your account may be compromised.",
+      "nortonUrl": "https://www.norton.com/BenefitPremier",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of expressvpn.com: its absent-categories list records 'wifi_network_protection (no Wi-Fi-specific feature named on the pages read; VPN is the mechanism)'.",
+      "key": "wifi_protection",
+      "name": "Wi-Fi / network protection",
+      "nortonProducts": [
+        "Norton 360 for Mobile",
+        "Norton Secure VPN"
+      ],
+      "nortonQuote": "Wi-Fi Security to help detect and alert you when a network you join is dangerous.",
+      "nortonUrl": "https://us.norton.com/products/norton-mobile-security",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of expressvpn.com: its absent-categories list records 'cloud_backup_storage'.",
+      "key": "cloud_backup",
+      "name": "Cloud backup",
+      "nortonProducts": [
+        "Norton Cloud Backup",
+        "Norton 360"
+      ],
+      "nortonQuote": "Store important files, photos, and documents in the cloud, and easily recover them if your device is lost, stolen, or crashes.",
+      "nortonUrl": "https://us.norton.com/feature/backup",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of expressvpn.com: its absent-categories list records 'google_search_removal (advice only — ExpressVPN blog advises using Google's removal tools)'.",
+      "key": "google_removal",
+      "name": "Google search-result removal / suppression",
+      "nortonProducts": [
+        "Reputation Defender - Defender (Online Content Suppression)",
+        "Reputation Defender - VIP Services / Special Projects"
+      ],
+      "nortonQuote": "Push negative content or misleading search results down to pages where virtually nobody will ever see them.",
+      "nortonUrl": "https://www.reputationdefender.com/search-results",
+      "overlapNote": "OVERLAPS the dashboard privacy feature 'Google results removal' (key 'google'). If the pie's only-Norton segment switches to these product-level items, do NOT also count the privacy-feature version of this job."
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of expressvpn.com: its absent-categories list records 'reputation_management'.",
+      "key": "reputation_mgmt",
+      "name": "Reputation management (review management, reputation score, personal branding)",
+      "nortonProducts": [
+        "Reputation Defender - Defender Local",
+        "Reputation Defender - Reputation Report Card",
+        "Reputation Defender - ReputationGrower"
+      ],
+      "nortonQuote": "Our AI-powered system does an online search based on your name, city, and profession, then sorts them according to the impact on your reputation. By looking at which results appear and how prominently, we are able to assign you a reputation grade.",
+      "nortonUrl": "https://www.reputationdefender.com/report-card",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "No such product among the 17 products inventoried on expressvpn.com in the 12 Nov 2026 full official-site inventory (product list and absent-categories list both checked).",
+      "key": "webcam",
+      "name": "Webcam protection",
+      "nortonProducts": [
+        "Norton SafeCam (in Norton 360 plans)"
+      ],
+      "nortonQuote": "SafeCam alerts you to attempts to access your Windows PC webcam and gives you the option to block those who are not authorized to access it.",
+      "nortonUrl": "https://us.norton.com/feature/safecam",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "No such product among the 17 products inventoried on expressvpn.com in the 12 Nov 2026 full official-site inventory (product list and absent-categories list both checked).",
+      "key": "ai_scam",
+      "name": "AI scam protection (scam checker, deepfake & scam protection)",
+      "nortonProducts": [
+        "Norton Genie",
+        "Norton Deepfake Protection",
+        "Norton Scam Protection / Scam Protection Pro"
+      ],
+      "nortonQuote": "Norton Genie is an industry-leading AI-powered scam detection tool that helps you identify these types of threats, which can lead to financial fraud and identity theft.",
+      "nortonUrl": "https://support.norton.com/sp/en/us/home/current/solutions/v20230717145233467",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "No such product among the 17 products inventoried on expressvpn.com in the 12 Nov 2026 full official-site inventory (product list and absent-categories list both checked).",
+      "key": "child_identity",
+      "name": "Child identity protection (child SSN monitoring & credit file detection)",
+      "nortonProducts": [
+        "LifeLock Junior",
+        "LifeLock Family Plans"
+      ],
+      "nortonQuote": "The existence of credit information for a child can be a sign of identity theft. LifeLock monitors your child's Social Security number to detect credit information associated with your child's identity.",
+      "nortonUrl": "https://lifelock.norton.com/products/lifelock-junior",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "No such product among the 17 products inventoried on expressvpn.com in the 12 Nov 2026 full official-site inventory (product list and absent-categories list both checked).",
+      "key": "pc_utilities",
+      "name": "PC utilities & tune-up (driver updater, cleanup, optimization)",
+      "nortonProducts": [
+        "Norton Utilities Ultimate",
+        "Norton Driver Updater",
+        "Norton Computer Tune Up",
+        "Norton Cleaner"
+      ],
+      "nortonQuote": "Norton Driver Updater software automatically detects outdated, corrupt, vulnerable, or missing Windows PC drivers and suggests the best choices from more than 140 million available drivers.",
+      "nortonUrl": "https://us.norton.com/products/norton-driver-updater",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "No such product among the 17 products inventoried on expressvpn.com in the 12 Nov 2026 full official-site inventory (product list and absent-categories list both checked).",
+      "key": "tech_support",
+      "name": "On-demand tech support & virus-removal service",
+      "nortonProducts": [
+        "Norton Ultimate Help Desk",
+        "Norton Premium Services",
+        "Norton Spyware & Virus Removal"
+      ],
+      "nortonQuote": "Norton Premium Services can help you, with: 24/7 access to Norton experts; Remote assistance support online or by phone; Virus removal and more.",
+      "nortonUrl": "https://us.norton.com/nortonservices",
+      "overlapNote": null
+    }
+  ],
+  "productsTotal": 17,
+  "detail": {
+    "brokerList": {
+      "categories": [],
+      "kind": "count",
+      "label": "No named list and no count published",
+      "note": "ExpressVPN publishes neither a named broker list nor a total for Identity Defender on its official site. A name-by-name table for it therefore cannot be generated, and no broker names are invented for it.",
+      "url": null
+    }
+  }
+}
