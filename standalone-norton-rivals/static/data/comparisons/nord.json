@@ -1,0 +1,477 @@
+{
+  "id": "nord",
+  "name": "Nord Security (NordVPN + Coveron)",
+  "kind": "Suite",
+  "domain": "nordvpn.com",
+  "checkedAt": "2026-11-25T22:58:07.502Z",
+  "priceAnnual": 134.85,
+  "priceLabel": "Prime $134.85 for the first 15 months ($8.99/mo; renews $296.28/yr) — 27-month Prime is $6.99/mo ($188.73 total)",
+  "priceNote": "Basic $3.49/mo, Complete $3.99/mo on 27-month term. Identity cover via Coveron (US only): $1M theft insurance + $100K cyber extortion.",
+  "brokerCount": 420,
+  "brokerCountLabel": "\"420+\" via Incogni",
+  "rescanDays": 60,
+  "rescanLabel": "Via Incogni: every 60 days (public) / 90 days (private)",
+  "features": [
+    {
+      "group": "Privacy",
+      "icon": "🔍",
+      "key": "scan",
+      "label": "Broker scan",
+      "norton": "Yes — scans supported people-search & data broker sites and shows which have your data",
+      "note": null,
+      "rival": "Yes — via Incogni"
+    },
+    {
+      "group": "Privacy",
+      "icon": "🤖",
+      "key": "auto",
+      "label": "Automated removal included",
+      "norton": "No — included Privacy Monitor is manual opt-out. Automated removal only with Privacy Monitor Assistant add-on, $109.99/yr or $12.99/mo",
+      "note": "Page by page — nordvpn.com/offer/pricing/ (Nord's pricing page) lists Incogni as 'add at checkout / add-on' on all tiers. nordvpn.com/blog/how-much-does-nordvpn-cost/ (Nord's cost blog) shows Incogni included in Prime only in its table. Used in this comparison: the pricing page (Incogni = add-on), because the pricing page is where the plan is bought.",
+      "rival": "Yes — via Incogni"
+    },
+    {
+      "group": "Privacy",
+      "icon": "🔢",
+      "key": "count",
+      "label": "Broker count stated",
+      "norton": "Page by page on norton.com — the Privacy Monitor Assistant product page (us.norton.com/products/privacy-monitor-assistant) says 'over 2,000' data broker sites; the Privacy Monitor feature page (us.norton.com/feature/privacy-monitor) says 'over 200'; the support list names sites individually with no total. Used in this comparison: 'over 2,000' from the Assistant product page on the main site — the Assistant is the removal product. No staging page is used as a source anywhere in this comparison",
+      "note": null,
+      "rival": "\"420+\" via Incogni"
+    },
+    {
+      "group": "Privacy",
+      "icon": "🔄",
+      "key": "rescan",
+      "label": "Rescan speed",
+      "norton": "Every 90 days (Privacy Monitor Assistant); Privacy Monitor scan re-run every 3 months",
+      "note": null,
+      "rival": "Via Incogni: 60 / 90 days"
+    },
+    {
+      "group": "Privacy",
+      "icon": "✉️",
+      "key": "custom",
+      "label": "Custom removal requests",
+      "norton": "Offered via Reputation Defender executive/corporate products only (quote-led, 'when possible', no published price, no consumer product): ExecutivePrivacy — “Custom removal requests, when possible”; Total Radius — “Custom Data Removals”; VIP Services — “Deep Web privacy protection, including custom removal requests”. No Norton consumer product offers custom removals — Privacy Monitor Assistant covers its supported broker list only",
+      "note": "Nord sells Incogni as a checkout add-on, but which Incogni tier applies is not stated on nordvpn.com — so custom removals are NOT counted as a named Nord product (gap research, 12 Nov 2026). The named custom-removal companies are 7: Incogni, Optery, DeleteMe, Kanary, PrivacyDuck, OneRep, Privacy Bee.",
+      "rival": "Not stated on official site"
+    },
+    {
+      "group": "Privacy",
+      "icon": "🌐",
+      "key": "google",
+      "label": "Google results removal",
+      "norton": "Yes — via Reputation Defender (separate purchase, reputationdefender.com): “Push negative content or misleading search results down to pages where virtually nobody will ever see them”; its FAQ: “in certain cases online content in your search results can be permanently deleted”. Reputation Defender suppresses negative content in search results and deletes content where possible — it does not make de-indexing requests to Google",
+      "note": null,
+      "rival": "Not stated on official site"
+    },
+    {
+      "group": "Privacy",
+      "icon": "📸",
+      "key": "proof",
+      "label": "Removal proof",
+      "norton": "Results list + opt-out tracking; email once a batch of opt-outs has been sent. Screenshots: Not stated on official site",
+      "note": null,
+      "rival": "Via Incogni dashboard"
+    },
+    {
+      "group": "AntiTrack",
+      "icon": "🛡️",
+      "key": "tracker",
+      "label": "Tracker & cookie blocking",
+      "norton": "Yes — Tracker & Cookie Blocking (support). Full ad blocking: Not stated on official site ('limit targeted ads')",
+      "note": null,
+      "rival": "Yes — 'ad and tracker blocker' (desktop only); Threat Protection 'blocks tracking cookies'"
+    },
+    {
+      "group": "AntiTrack",
+      "icon": "👆",
+      "key": "fingerprint",
+      "label": "Fingerprint protection",
+      "norton": "\"Disguise your digital fingerprint automatically each time you browse\" — support: anti-fingerprinting will 'return dummy data' to websites",
+      "note": null,
+      "rival": "Not stated on official site"
+    },
+    {
+      "group": "AntiTrack",
+      "icon": "📧",
+      "key": "email",
+      "label": "Email aliases + tracker blocking",
+      "norton": "Yes — create unlimited email aliases (AntiTrack Private Email) and block hidden email trackers",
+      "note": null,
+      "rival": "Aliases: Not stated on official site. Email protection = link scanning for phishing/malware — tracker blocking Not stated on official site"
+    },
+    {
+      "group": "AntiTrack",
+      "icon": "📱",
+      "key": "appOs",
+      "label": "App / OS-level protection",
+      "norton": "Yes — Windows OS Tracker Blocking: blocks tracking activities and targeted ads by the Windows operating system (support)",
+      "note": null,
+      "rival": "Not stated on official site"
+    },
+    {
+      "group": "AntiTrack",
+      "icon": "📊",
+      "key": "dashboard",
+      "label": "Tracking dashboard",
+      "norton": "Yes — Tracking Dashboard shows real-time blocked trackers, ranked by level of concern / risk",
+      "note": null,
+      "rival": "Not stated on official site"
+    }
+  ],
+  "tiers": [
+    {
+      "highlight": "VPN only — removal (Incogni) is an add-on at checkout, not included",
+      "name": "Nord Basic",
+      "note": null,
+      "priceAnnual": 41.88,
+      "priceLabel": "$3.49/mo on 27-month term ($94.23 for the first 27 months)",
+      "removal": "addon",
+      "renewalLabel": "Renews $139.08/yr",
+      "scan": "addon",
+      "suite": "in",
+      "tracking": "in"
+    },
+    {
+      "highlight": "VPN + password manager + data breach scanner — Incogni still an add-on",
+      "name": "Nord Complete",
+      "note": "Price page by page — nordvpn.com/offer/pricing/: Complete $3.99/mo on a 27-month term ($107.73 total; used in this comparison). Nord's cheap-VPN blog table: Complete $4.49/mo ($121.23 total). A legacy 'Plus' tier still appears in Nord's 2025 plans explainer but is not sold at checkout.",
+      "priceAnnual": 47.88,
+      "priceLabel": "$3.99/mo on 27-month term ($107.73 for the first 27 months)",
+      "removal": "addon",
+      "renewalLabel": "Renews $219.48/yr",
+      "scan": "addon",
+      "suite": "in",
+      "tracking": "in"
+    },
+    {
+      "highlight": "Incogni included per Nord's own blog table",
+      "name": "Nord Prime",
+      "note": "Page by page — nordvpn.com/offer/pricing/ lists Incogni as 'add at checkout' on all tiers, Prime included. Nord's cost blog table shows Incogni included in Prime only. Used in this comparison: the pricing page (add-on) for Basic/Complete; this Prime row follows the blog table's 'included' wording — the two Nord pages state it differently, and both are shown here rather than merged.",
+      "priceAnnual": 134.85,
+      "priceLabel": "$134.85 for the first 15 months ($8.99/mo)",
+      "removal": "in",
+      "renewalLabel": "Renews $296.28/yr",
+      "scan": "in",
+      "suite": "in",
+      "tracking": "in"
+    }
+  ],
+  "refs": [
+    {
+      "label": "NordVPN pricing",
+      "proves": "Basic/Complete/Prime prices, ad/tracker blocker, $1M/$100K cover, Incogni add-on wording",
+      "url": "https://nordvpn.com/offer/pricing/"
+    },
+    {
+      "label": "NordVPN cost blog",
+      "proves": "Nord's blog table shows Incogni included in Prime only — different from nordvpn.com/offer/pricing/, which lists Incogni as an add-on at checkout on all tiers (the pricing page is the version used in this comparison)",
+      "url": "https://nordvpn.com/blog/how-much-does-nordvpn-cost/"
+    },
+    {
+      "label": "Nord Prime plan",
+      "proves": "Coveron in Prime, $134.85 for the first 15 months, renews $296.28/yr",
+      "url": "https://nordvpn.com/offer/plan/us-nordvpn-prime-1-year/"
+    }
+  ],
+  "gaps": [
+    {
+      "biz": false,
+      "detail": "Norton states no cyber-extortion insurance. Checked: LifeLock identity theft insurance, stolen funds reimbursement and scam reimbursement (Advanced $5,000, Total $10,000) - none covers cyber extortion/ransom.",
+      "eco": false,
+      "name": "Cyber extortion insurance (Coveron)",
+      "nortonEvidence": [],
+      "rivalHowSold": "Included in Prime only (via Coveron, US only)",
+      "rivalPrice": null,
+      "rivalQuote": "Up to $100,000 in coverage provided in cyber extortion insurance. NordVPN is not a licensed insurance producer. Benefits under the Master Policy are issued and covered by HSB Specialty Insurance Company.",
+      "rivalUrl": "https://nordvpn.com/offer/pricing/",
+      "state": "gap"
+    },
+    {
+      "biz": false,
+      "detail": "Norton states no dedicated IP option for its VPN. Checked: Norton Secure VPN (Standard/Ultimate) - the catalog lists IP Rotation and Double VPN, no dedicated IP.",
+      "eco": false,
+      "name": "Dedicated IP",
+      "nortonEvidence": [],
+      "rivalHowSold": "Add-on at checkout on all tiers",
+      "rivalPrice": null,
+      "rivalQuote": "Dedicated IP. Provides you with a unique IP address that only you can use, improving security and helping you avoid CAPTCHAs. This service is optional, and you can easily add it during checkout.",
+      "rivalUrl": "https://nordvpn.com/offer/pricing/",
+      "state": "gap"
+    }
+  ],
+  "partials": [
+    {
+      "biz": false,
+      "detail": "Norton Cloud Backup stores secure copies of files (2 GB-500 GB by tier, Windows only) - backup, not a general encrypted cloud drive; 1 TB and zero-knowledge end-to-end encryption are not stated.",
+      "eco": false,
+      "name": "NordLocker (1 TB encrypted cloud storage)",
+      "nortonEvidence": [
+        {
+          "note": "Included with Norton 360 plans only (not standalone); Windows only; 2 GB-500 GB by tier.",
+          "product": "Norton Cloud Backup",
+          "quote": "Store important files, photos, and documents in the cloud, and easily recover them if your device is lost, stolen, or crashes.",
+          "url": "https://us.norton.com/feature/backup"
+        }
+      ],
+      "rivalHowSold": "Included in Complete and Prime",
+      "rivalPrice": null,
+      "rivalQuote": "1 TB of encrypted cloud storage. Secures all types of files with end-to-end encryption and keeps them handy in a private, zero-knowledge cloud.",
+      "rivalUrl": "https://nordvpn.com/offer/pricing/",
+      "state": "partial"
+    },
+    {
+      "biz": false,
+      "detail": "Tier packaging, not a product gap: the jobs in Nord's regional tiers are offered by Norton, except the UK GBP 5,000 scam-loss/identity-theft recovery cover (Norton offers scam reimbursement of $5,000-$10,000 on US LifeLock/360 top tiers, but no UK GBP-denominated cover is stated) and the included dedicated IP, which is not stated for Norton.",
+      "eco": false,
+      "name": "Ultra / Ultimate Max / Complete Max (regional tiers)",
+      "nortonEvidence": [
+        {
+          "note": null,
+          "product": "Norton VPN",
+          "quote": "Helps block your online activities from being tracked",
+          "url": "https://us.norton.com/products/norton-vpn"
+        },
+        {
+          "note": null,
+          "product": "Norton 360 with LifeLock Ultimate Plus",
+          "quote": "Up to $3,000,000 coverage",
+          "url": "https://us.norton.com/products/norton-360"
+        },
+        {
+          "note": null,
+          "product": "Norton 360 with LifeLock Ultimate Plus (Scam Protection Pro)",
+          "quote": "Scam Protection Pro with 10k reimbursement",
+          "url": "https://us.norton.com/products/norton-360"
+        }
+      ],
+      "rivalHowSold": "Separate regional tiers (not sold in the US)",
+      "rivalPrice": null,
+      "rivalQuote": "Ultra. The Ultra plan is NordVPN's top-tier plan in Canada and most parts of the EU. It includes every benefit you get with Complete and adds Incogni. / Ultimate Max. In those countries, it builds on the Complete plan by including additional features, such as scam loss and ID theft recovery (up to £5,000 each) and a dedicated IP.",
+      "rivalUrl": "https://nordvpn.com/blog/nordvpn-bundle-explained/",
+      "state": "partial"
+    },
+    {
+      "biz": false,
+      "detail": "NEW — Nord added a Digital footprint check to its apps in Nov 2026 (iOS 17 Nov, Windows 19 Nov, macOS 24 Nov) and documents the full feature in a Nord support article: for ONE monitored email address it combines public information and leaked data into a single report — an exposure score, summary, key risks, an action plan, and a list of detected accounts and profiles — re-runnable every 30 days, for Dark Web Monitor Pro users on Complete and higher-tier plans. Norton offers the parts separately — Privacy Monitor scans data broker / people-search sites, LifeLock plans monitor the dark web, and full Privacy Monitor Assistant's Online Account Cleaner finds old accounts tied to your email — but no Norton page states one combined digital footprint report, an exposure score, or a footprint check for a monitored email.",
+      "eco": false,
+      "name": "Digital footprint (Dark Web Monitor Pro)",
+      "nortonEvidence": [
+        {
+          "note": "The exposure-scan part on its own: Privacy Monitor lists the data broker / people-search sites where your info appears, re-scanned every 3 months. No exposure score and no combined footprint report is stated (page re-opened and verified 25 Nov 2026).",
+          "product": "Privacy Monitor",
+          "quote": "Once you click on Privacy Monitor, we will scan popular data broker sites for your personal info. You can then request to opt out with the data broker.",
+          "url": "https://us.norton.com/feature/privacy-monitor"
+        },
+        {
+          "note": "The leaked-data part on its own: continuous monitoring and alerts — not a periodic footprint report for one monitored email.",
+          "product": "LifeLock — Dark Web Monitoring",
+          "quote": "Yes. LifeLock Core continuously monitors dark web marketplaces and notifies you if your personal information is found. You'll also receive breach alerts if a major data breach may have exposed your information.",
+          "url": "https://lifelock.norton.com/products/lifelock-core"
+        },
+        {
+          "note": "The closest Norton analogue to Nord's detected-accounts list — but it is an inbox scan inside the $109.99/yr PMA add-on, not a footprint report across online platforms, public records and dark web sources, and it carries no exposure score.",
+          "product": "Online Account Cleaner (full Privacy Monitor Assistant only)",
+          "quote": "Scans your email inbox to detect account-sign-up patterns and helps you find old, unused, or risky online accounts tied to your email address.",
+          "url": "https://support.norton.com/sp/en/us/home/current/solutions/v20260414094751989"
+        }
+      ],
+      "rivalHowSold": "Dark Web Monitor Pro — Complete and higher-tier plans (one monitored email; a new check every 30 days; Basic plan gets one try)",
+      "rivalPrice": null,
+      "rivalQuote": "Digital footprint is a Monitor feature and part of Dark Web Monitor's functionality. It lets you periodically check your online presence. / The analysis evaluates the findings to prepare an exposure score, summary, key risks, and a corresponding action plan. / Digital footprint displays a list of detected accounts and profiles, related activities, exposure analysis, and tailored recommendations.",
+      "rivalUrl": "https://support.nordvpn.com/hc/en-us/articles/52900643167633-What-is-the-Digital-footprint-feature",
+      "state": "partial"
+    }
+  ],
+  "nortonOnly": [
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of nordvpn.com: its absent-categories list records 'parental_controls'.",
+      "key": "parental_controls",
+      "name": "Parental controls",
+      "nortonProducts": [
+        "Norton Family",
+        "Norton 360 Deluxe"
+      ],
+      "nortonQuote": "Let your children explore the web freely with tools that help you block unsuitable websites while keeping you in the know about which sites they're visiting.",
+      "nortonUrl": "https://us.norton.com/products/norton-family",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of nordvpn.com: its absent-categories list records 'fingerprint_protection'.",
+      "key": "fingerprint",
+      "name": "Fingerprint protection",
+      "nortonProducts": [
+        "Norton AntiTrack",
+        "Norton Private Browser"
+      ],
+      "nortonQuote": "Disguise your digital fingerprint automatically each time you browse so you can't be identified.",
+      "nortonUrl": "https://us.norton.com/products/norton-antitrack",
+      "overlapNote": "Was in the dashboard's old AntiTrack feature group until 2026-11-13; NOT one of the current 7 privacy features."
+    },
+    {
+      "absenceBasis": "Nord's only email product in the 12 Nov inventory is 'Unlimited email protection (link scanning)' — link scanning, not aliases or email-tracker blocking; nordvpn.com lists no email-alias product (NordPass has no alias feature stated). The inventory filed that product under email_protection_aliases; this matrix does not count link scanning as the aliases job.",
+      "key": "email_aliases",
+      "name": "Email aliases & email tracker blocking",
+      "nortonProducts": [
+        "Norton AntiTrack (Private Email)"
+      ],
+      "nortonQuote": "Create unlimited email aliases and block hidden email trackers, all without changing your current provider (Windows, Mac).",
+      "nortonUrl": "https://us.norton.com/products/norton-antitrack",
+      "overlapNote": "Was in the dashboard's old AntiTrack feature group ('Email aliases + tracker blocking') until 2026-11-13; NOT one of the current 7 privacy features."
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of nordvpn.com: its absent-categories list records 'secure_browser'.",
+      "key": "secure_browser",
+      "name": "Secure browser",
+      "nortonProducts": [
+        "Norton Private Browser",
+        "Norton Neo"
+      ],
+      "nortonQuote": "Block ads and trackers and get anti-fingerprinting protection to help keep your actions unprofiled.",
+      "nortonUrl": "https://us.norton.com/products/norton-private-browser",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of nordvpn.com: its absent-categories list records 'social_media_monitoring'.",
+      "key": "social_monitoring",
+      "name": "Social media monitoring",
+      "nortonProducts": [
+        "LifeLock Core",
+        "LifeLock Advanced",
+        "LifeLock Total"
+      ],
+      "nortonQuote": "We monitor your linked accounts on the most popular social media sites and notify you if we think your account may be compromised.",
+      "nortonUrl": "https://www.norton.com/BenefitPremier",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of nordvpn.com: its absent-categories list records 'wifi_network_protection (no standalone Wi-Fi product named on the pages read; VPN is the mechanism)'.",
+      "key": "wifi_protection",
+      "name": "Wi-Fi / network protection",
+      "nortonProducts": [
+        "Norton 360 for Mobile",
+        "Norton Secure VPN"
+      ],
+      "nortonQuote": "Wi-Fi Security to help detect and alert you when a network you join is dangerous.",
+      "nortonUrl": "https://us.norton.com/products/norton-mobile-security",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of nordvpn.com: its absent-categories list records 'google_search_removal (advice only — Nord's blog tells users to use Google's own 'Results about you' tool and recommends third-party Incogni)'.",
+      "key": "google_removal",
+      "name": "Google search-result removal / suppression",
+      "nortonProducts": [
+        "Reputation Defender - Defender (Online Content Suppression)",
+        "Reputation Defender - VIP Services / Special Projects"
+      ],
+      "nortonQuote": "Push negative content or misleading search results down to pages where virtually nobody will ever see them.",
+      "nortonUrl": "https://www.reputationdefender.com/search-results",
+      "overlapNote": "OVERLAPS the dashboard privacy feature 'Google results removal' (key 'google'). If the pie's only-Norton segment switches to these product-level items, do NOT also count the privacy-feature version of this job."
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of nordvpn.com: its absent-categories list records 'reputation_management'.",
+      "key": "reputation_mgmt",
+      "name": "Reputation management (review management, reputation score, personal branding)",
+      "nortonProducts": [
+        "Reputation Defender - Defender Local",
+        "Reputation Defender - Reputation Report Card",
+        "Reputation Defender - ReputationGrower"
+      ],
+      "nortonQuote": "Our AI-powered system does an online search based on your name, city, and profession, then sorts them according to the impact on your reputation. By looking at which results appear and how prominently, we are able to assign you a reputation grade.",
+      "nortonUrl": "https://www.reputationdefender.com/report-card",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "No such product among the 21 products inventoried on nordvpn.com in the 12 Nov 2026 full official-site inventory (product list and absent-categories list both checked).",
+      "key": "home_title",
+      "name": "Home title monitoring",
+      "nortonProducts": [
+        "LifeLock Home Title Protect",
+        "LifeLock Total"
+      ],
+      "nortonQuote": "Home Title Monitoring covers your primary home, second home, rental properties, and other properties where you are listed as an owner.",
+      "nortonUrl": "https://lifelock.norton.com/home-title-protect",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "No such product among the 21 products inventoried on nordvpn.com in the 12 Nov 2026 full official-site inventory (product list and absent-categories list both checked).",
+      "key": "investment_alerts",
+      "name": "Investment / 401(k) account monitoring",
+      "nortonProducts": [
+        "LifeLock Total"
+      ],
+      "nortonQuote": "Investment and 401(k) activity alerts warn you of potentially identity-fraudulent cash withdrawals and balance transfers.",
+      "nortonUrl": "https://support.norton.com/sp/en/us/home/current/solutions/v20250925172133820",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "No such product among the 21 products inventoried on nordvpn.com in the 12 Nov 2026 full official-site inventory (product list and absent-categories list both checked).",
+      "key": "webcam",
+      "name": "Webcam protection",
+      "nortonProducts": [
+        "Norton SafeCam (in Norton 360 plans)"
+      ],
+      "nortonQuote": "SafeCam alerts you to attempts to access your Windows PC webcam and gives you the option to block those who are not authorized to access it.",
+      "nortonUrl": "https://us.norton.com/feature/safecam",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "No such product among the 21 products inventoried on nordvpn.com in the 12 Nov 2026 full official-site inventory (product list and absent-categories list both checked).",
+      "key": "child_identity",
+      "name": "Child identity protection (child SSN monitoring & credit file detection)",
+      "nortonProducts": [
+        "LifeLock Junior",
+        "LifeLock Family Plans"
+      ],
+      "nortonQuote": "The existence of credit information for a child can be a sign of identity theft. LifeLock monitors your child's Social Security number to detect credit information associated with your child's identity.",
+      "nortonUrl": "https://lifelock.norton.com/products/lifelock-junior",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "No such product among the 21 products inventoried on nordvpn.com in the 12 Nov 2026 full official-site inventory (product list and absent-categories list both checked).",
+      "key": "pc_utilities",
+      "name": "PC utilities & tune-up (driver updater, cleanup, optimization)",
+      "nortonProducts": [
+        "Norton Utilities Ultimate",
+        "Norton Driver Updater",
+        "Norton Computer Tune Up",
+        "Norton Cleaner"
+      ],
+      "nortonQuote": "Norton Driver Updater software automatically detects outdated, corrupt, vulnerable, or missing Windows PC drivers and suggests the best choices from more than 140 million available drivers.",
+      "nortonUrl": "https://us.norton.com/products/norton-driver-updater",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "No such product among the 21 products inventoried on nordvpn.com in the 12 Nov 2026 full official-site inventory (product list and absent-categories list both checked).",
+      "key": "tech_support",
+      "name": "On-demand tech support & virus-removal service",
+      "nortonProducts": [
+        "Norton Ultimate Help Desk",
+        "Norton Premium Services",
+        "Norton Spyware & Virus Removal"
+      ],
+      "nortonQuote": "Norton Premium Services can help you, with: 24/7 access to Norton experts; Remote assistance support online or by phone; Virus removal and more.",
+      "nortonUrl": "https://us.norton.com/nortonservices",
+      "overlapNote": null
+    }
+  ],
+  "productsTotal": 22,
+  "detail": {
+    "brokerList": {
+      "categories": [
+        "Marketing",
+        "Recruitment",
+        "Risk mitigation",
+        "People search",
+        "Financial",
+        "Health"
+      ],
+      "kind": "named",
+      "label": "Covered-brokers list via Incogni — parsed into the table",
+      "note": "Removal for this company is provided via Incogni, so Incogni's official parsed list (420 brokers, 3 Nov 2026) is the list compared here.",
+      "url": "https://blog.incogni.com/data-brokers-incogni-covers/"
+    }
+  }
+}

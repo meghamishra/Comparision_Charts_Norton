@@ -1,0 +1,563 @@
+{
+  "id": "duckduckgo",
+  "name": "DuckDuckGo",
+  "kind": "Suite",
+  "domain": "duckduckgo.com",
+  "checkedAt": "2026-11-25T22:58:07.502Z",
+  "priceAnnual": 99.99,
+  "priceLabel": "Plus $9.99/mo or $99.99/yr; Pro $19.99/mo or $199.99/yr (US, +tax)",
+  "priceNote": "Browser, search, Email Protection and App Tracking Protection are free. Removal runs on your device, not on remote servers.",
+  "brokerCount": null,
+  "brokerCountLabel": "Not stated on official site — the official list page names sites individually with no total; 'The exact number of sites may change over time as we add or remove data broker sites from this list'",
+  "rescanDays": 10,
+  "rescanLabel": "\"Check every 10 days\" — fastest official rescan in this comparison",
+  "features": [
+    {
+      "group": "Privacy",
+      "icon": "🔍",
+      "key": "scan",
+      "label": "Broker scan",
+      "norton": "Yes — scans supported people-search & data broker sites and shows which have your data",
+      "note": null,
+      "rival": "Yes — Personal Information Removal, submitted from your device"
+    },
+    {
+      "group": "Privacy",
+      "icon": "🤖",
+      "key": "auto",
+      "label": "Automated removal included",
+      "norton": "No — included Privacy Monitor is manual opt-out. Automated removal only with Privacy Monitor Assistant add-on, $109.99/yr or $12.99/mo",
+      "note": null,
+      "rival": "Yes — submits opt-outs for you, included in Plus/Pro"
+    },
+    {
+      "group": "Privacy",
+      "icon": "🔢",
+      "key": "count",
+      "label": "Broker count stated",
+      "norton": "Page by page on norton.com — the Privacy Monitor Assistant product page (us.norton.com/products/privacy-monitor-assistant) says 'over 2,000' data broker sites; the Privacy Monitor feature page (us.norton.com/feature/privacy-monitor) says 'over 200'; the support list names sites individually with no total. Used in this comparison: 'over 2,000' from the Assistant product page on the main site — the Assistant is the removal product. No staging page is used as a source anywhere in this comparison",
+      "note": "Norton's Privacy Monitor Assistant product page (us.norton.com/products/privacy-monitor-assistant) says 'over 2,000' data broker sites; the Privacy Monitor feature page (us.norton.com/feature/privacy-monitor) says 'They target over 200 data broker sites and databases.'; the support list (support.norton.com) names sites individually with no total. DuckDuckGo prints no total broker count on its official pages.",
+      "rival": "Not stated on official site — named list only, no total stated"
+    },
+    {
+      "group": "Privacy",
+      "icon": "🔄",
+      "key": "rescan",
+      "label": "Rescan speed",
+      "norton": "Every 90 days (Privacy Monitor Assistant); Privacy Monitor scan re-run every 3 months",
+      "note": null,
+      "rival": "\"Check every 10 days\""
+    },
+    {
+      "group": "Privacy",
+      "icon": "✉️",
+      "key": "custom",
+      "label": "Custom removal requests",
+      "norton": "Offered via Reputation Defender executive/corporate products only (quote-led, 'when possible', no published price, no consumer product): ExecutivePrivacy — “Custom removal requests, when possible”; Total Radius — “Custom Data Removals”; VIP Services — “Deep Web privacy protection, including custom removal requests”. No Norton consumer product offers custom removals — Privacy Monitor Assistant covers its supported broker list only",
+      "note": null,
+      "rival": "Not stated on official site"
+    },
+    {
+      "group": "Privacy",
+      "icon": "🌐",
+      "key": "google",
+      "label": "Google results removal",
+      "norton": "Yes — via Reputation Defender (separate purchase, reputationdefender.com): “Push negative content or misleading search results down to pages where virtually nobody will ever see them”; its FAQ: “in certain cases online content in your search results can be permanently deleted”. Reputation Defender suppresses negative content in search results and deletes content where possible — it does not make de-indexing requests to Google",
+      "note": null,
+      "rival": "Not stated on official site"
+    },
+    {
+      "group": "Privacy",
+      "icon": "📸",
+      "key": "proof",
+      "label": "Removal proof",
+      "norton": "Results list + opt-out tracking; email once a batch of opt-outs has been sent. Screenshots: Not stated on official site",
+      "note": null,
+      "rival": "Dashboard notes for closed records — formal report: Not stated on official site. Screenshots: Not stated on official site"
+    },
+    {
+      "group": "AntiTrack",
+      "icon": "🛡️",
+      "key": "tracker",
+      "label": "Tracker & cookie blocking",
+      "norton": "Yes — Tracker & Cookie Blocking (support). Full ad blocking: Not stated on official site ('limit targeted ads')",
+      "note": null,
+      "rival": "Yes — blocks 3rd-party trackers. Detailed cookie wording: Not stated on official site"
+    },
+    {
+      "group": "AntiTrack",
+      "icon": "👆",
+      "key": "fingerprint",
+      "label": "Fingerprint protection",
+      "norton": "\"Disguise your digital fingerprint automatically each time you browse\" — support: anti-fingerprinting will 'return dummy data' to websites",
+      "note": null,
+      "rival": "Yes — “we block many fingerprinting scripts before they can even load… we override many of the browser APIs used for fingerprinting to make them return either no information or alternative information that's less useful for fingerprinting” (duckduckgo.com/duckduckgo-help-pages/privacy/web-tracking-protections, verified 12 Nov 2026)"
+    },
+    {
+      "group": "AntiTrack",
+      "icon": "📧",
+      "key": "email",
+      "label": "Email aliases + tracker blocking",
+      "norton": "Yes — create unlimited email aliases (AntiTrack Private Email) and block hidden email trackers",
+      "note": null,
+      "rival": "Yes, free — Email Protection creates unlimited unique private addresses and 'removes multiple types of hidden email trackers'"
+    },
+    {
+      "group": "AntiTrack",
+      "icon": "📱",
+      "key": "appOs",
+      "label": "App / OS-level protection",
+      "norton": "Yes — Windows OS Tracker Blocking: blocks tracking activities and targeted ads by the Windows operating system (support)",
+      "note": null,
+      "rival": "Yes, free — App Tracking Protection (Android) 'helps block 3rd-party trackers in your apps, even when you're not using them'"
+    },
+    {
+      "group": "AntiTrack",
+      "icon": "📊",
+      "key": "dashboard",
+      "label": "Tracking dashboard",
+      "norton": "Yes — Tracking Dashboard shows real-time blocked trackers, ranked by level of concern / risk",
+      "note": null,
+      "rival": "Not stated on official site"
+    }
+  ],
+  "tiers": [
+    {
+      "highlight": "Browser + search + Email Protection + App Tracking Protection — all free",
+      "name": "DuckDuckGo Free",
+      "note": "No broker scan or removal at this tier.",
+      "priceAnnual": 0,
+      "priceLabel": "$0 — free",
+      "removal": "no",
+      "renewalLabel": null,
+      "scan": "no",
+      "suite": "no",
+      "tracking": "in"
+    },
+    {
+      "highlight": "Adds on-device broker removal (10-day checks) + VPN",
+      "name": "DuckDuckGo Plus",
+      "note": null,
+      "priceAnnual": 99.99,
+      "priceLabel": "$9.99/mo or $99.99/yr",
+      "removal": "in",
+      "renewalLabel": null,
+      "scan": "in",
+      "suite": "no",
+      "tracking": "in"
+    },
+    {
+      "highlight": "Top tier — removal included, as Plus",
+      "name": "DuckDuckGo Pro",
+      "note": null,
+      "priceAnnual": 199.99,
+      "priceLabel": "$19.99/mo or $199.99/yr",
+      "removal": "in",
+      "renewalLabel": null,
+      "scan": "in",
+      "suite": "no",
+      "tracking": "in"
+    }
+  ],
+  "refs": [
+    {
+      "label": "DuckDuckGo Pro / subscription",
+      "proves": "Plus/Pro prices, on-device Personal Information Removal",
+      "url": "https://duckduckgo.com/pro"
+    },
+    {
+      "label": "DuckDuckGo: supported data brokers list",
+      "proves": "The official named list page — no total count stated",
+      "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/personal-information-removal/list-of-supported-data-brokers"
+    },
+    {
+      "label": "DuckDuckGo opt-out guides (10-day checks)",
+      "proves": "'Check every 10 days' rescan wording",
+      "url": "https://duckduckgo.com/duckduckgo-help-pages/resources/opt-out-guides"
+    },
+    {
+      "label": "DuckDuckGo Email Protection",
+      "proves": "Free, removes hidden email trackers, unlimited addresses",
+      "url": "https://duckduckgo.com/duckduckgo-help-pages/email-protection/what-is-duckduckgo-email-protection"
+    },
+    {
+      "label": "DuckDuckGo App Tracking Protection",
+      "proves": "Free Android app-level tracker blocking",
+      "url": "https://help.duckduckgo.com/duckduckgo-help-pages/p-app-tracking-protection/what-is-app-tracking-protection"
+    }
+  ],
+  "gaps": [
+    {
+      "biz": false,
+      "detail": "Norton states no private search engine. Checked: Norton Neo (mentions 'Universal Search' with no no-tracking claim) and Norton Private Browser (search-agnostic - 'Choose your search engine from among the most popular providers, including Bing and Google').",
+      "eco": false,
+      "name": "DuckDuckGo Private Search",
+      "nortonEvidence": [],
+      "rivalHowSold": "Free",
+      "rivalPrice": "Free",
+      "rivalQuote": "Our built-in search engine is like Google but never tracks your searches.",
+      "rivalUrl": "https://duckduckgo.com/duckduckgo-help-pages/company/how-does-duckduckgo-protect-privacy",
+      "state": "gap"
+    },
+    {
+      "biz": false,
+      "detail": "Norton states no cookie pop-up handling. Checked: Norton Private Browser and Norton Neo - no cookie pop-up or consent handling is stated on any of their pages.",
+      "eco": false,
+      "name": "Cookie Pop-up Protection",
+      "nortonEvidence": [],
+      "rivalHowSold": "Free (built into browser and extensions)",
+      "rivalPrice": "Free",
+      "rivalQuote": "Cookie Pop-up Protection, which automatically selects the most private option from the cookie consent pop-ups it finds and then hides them.",
+      "rivalUrl": "https://duckduckgo.com/duckduckgo-help-pages/company/how-does-duckduckgo-protect-privacy",
+      "state": "gap"
+    },
+    {
+      "biz": false,
+      "detail": "Norton states no general private AI chat. Checked: Norton Genie (a scam/deepfake assistant, a different job) and Norton Neo's AI Assistant (an in-browser assistant for finding information - no no-storage/no-training claim stated).",
+      "eco": false,
+      "name": "Duck.ai (private AI chat)",
+      "nortonEvidence": [],
+      "rivalHowSold": "Free (standard models); Plus/Pro (advanced models)",
+      "rivalPrice": "Plus $9.99/mo or $99.99/yr; Pro $19.99/mo or $199.99/yr",
+      "rivalQuote": "Duck.ai does not record or store any of your chats, and your conversations are not used to train chat models by DuckDuckGo or the underlying model provider.",
+      "rivalUrl": "https://duckduckgo.com/pro",
+      "state": "gap"
+    },
+    {
+      "biz": false,
+      "detail": "Norton states no Global Privacy Control signal support. Checked: Norton Private Browser and Norton Neo - GPC appears on none of their pages.",
+      "eco": false,
+      "name": "Global Privacy Control (GPC)",
+      "nortonEvidence": [],
+      "rivalHowSold": "Free (built into browser and extensions)",
+      "rivalPrice": "Free",
+      "rivalQuote": "Global Privacy Control (GPC) to help you express your opt-out rights automatically by telling websites (through a header and/or JavaScript-based signal) not to sell or share your personal information.",
+      "rivalUrl": "https://duckduckgo.com/duckduckgo-help-pages/company/how-does-duckduckgo-protect-privacy",
+      "state": "gap"
+    }
+  ],
+  "partials": [
+    {
+      "biz": false,
+      "detail": "Norton offers automated removal via Privacy Monitor Assistant ($109.99/yr add-on/standalone, agents handle removals from over 2,000 broker sites) - not included in any Norton 360 with LifeLock suite; LifeLock Core includes automatic removal from 60 sites only. DuckDuckGo includes it in Plus/Pro. Mechanism differs: DuckDuckGo runs on-device (your info stays on your device); PMA is agent-led.",
+      "eco": false,
+      "name": "Personal Information Removal",
+      "nortonEvidence": [
+        {
+          "note": "$109.99/yr or $12.99/mo; add-on to 360/LifeLock plans or standalone; agents handle removal requests.",
+          "product": "Privacy Monitor Assistant",
+          "quote": "Take control of your data with Privacy Monitor Assistant, which removes your personal information from over 2,000 data broker sites and databases. We'll do the work for you.",
+          "url": "https://us.norton.com/products/privacy-monitor-assistant"
+        },
+        {
+          "note": "Automatic data broker removal (60 sites, 90-day rescan) included in LifeLock Core; distinct from full PMA.",
+          "product": "LifeLock Core",
+          "quote": "Once you add your details, we scan 60 data broker sites for your personal information and automatically remove your data.",
+          "url": "https://lifelock.norton.com/products/lifelock-core"
+        }
+      ],
+      "rivalHowSold": "Included in Plus and Pro subscriptions (US residents only)",
+      "rivalPrice": "Plus $9.99/mo or $99.99/yr; Pro $19.99/mo or $199.99/yr",
+      "rivalQuote": "It scans for your info on data broker sites around the web, requests its removal on sites that support removal requests, and receives and handles confirmation emails for you. It then scans these sites on a regular schedule to help minimize the risk of your information reappearing. Unlike other services, every step of the automated removal process happens entirely on your device, not remote servers.",
+      "rivalUrl": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/personal-information-removal/getting-started/",
+      "state": "partial"
+    },
+    {
+      "biz": false,
+      "detail": "Norton offers OS-level tracker blocking only on Windows; Android in-app tracker blocking is not stated.",
+      "eco": false,
+      "name": "App Tracking Protection",
+      "nortonEvidence": [
+        {
+          "note": "Windows only, on by default.",
+          "product": "Norton — Windows OS tracker blocking",
+          "quote": "The Windows OS Tracker blocking feature in Norton AntiTrack helps you keep your online activities private by blocking tracking and targeted advertising from the Windows operating system.",
+          "url": "https://support.norton.com/sp/en/us/norton-antitrack/current/solutions/v20230512131947273"
+        }
+      ],
+      "rivalHowSold": "Free, Android only",
+      "rivalPrice": "Free",
+      "rivalQuote": "App Tracking Protection, currently available in our Android browser, that helps block 3rd-party trackers in your other apps, even when you're not using them.",
+      "rivalUrl": "https://duckduckgo.com/duckduckgo-help-pages/company/how-does-duckduckgo-protect-privacy",
+      "state": "partial"
+    },
+    {
+      "biz": false,
+      "detail": "Norton offers unlimited email aliases via a separate Norton add-on (Windows/Mac only); DuckDuckGo Email Protection is free with unlimited aliases, cross-platform.",
+      "eco": false,
+      "name": "Email Protection",
+      "nortonEvidence": [
+        {
+          "note": "Windows/Mac only; part of a paid Norton add-on.",
+          "product": "Norton — email aliases add-on",
+          "quote": "Create unlimited email aliases and block hidden email trackers, all without changing your current provider (Windows, Mac).",
+          "url": "https://us.norton.com/products/norton-antitrack"
+        }
+      ],
+      "rivalHowSold": "Free",
+      "rivalPrice": "Free",
+      "rivalQuote": "DuckDuckGo Email Protection is a free email forwarding service that removes multiple types of hidden email trackers and lets you create unlimited unique private email addresses on the fly.",
+      "rivalUrl": "https://duckduckgo.com/duckduckgo-help-pages/email-protection/what-is-duckduckgo-email-protection",
+      "state": "partial"
+    },
+    {
+      "biz": false,
+      "detail": "Same data cleared, different format. DuckDuckGo's Fire Button burns recent on-device browsing data in one click — that one click is its defining feature. Norton's free Private Browser Privacy Cleaner clears the same data (browsing history, cached images, cookies), but as a multi-step flow, in the Norton Private Browser FAQ's own wording: open Norton Private Browser and go to the Security & Privacy Center, tap Advanced Settings, tap Clear next to 'Clear all Cookies & data', then tap Clear to confirm. One click vs several steps — PARTIAL (user-approved flip, 12 Nov 2026).",
+      "eco": false,
+      "name": "Fire Button",
+      "nortonEvidence": [
+        {
+          "note": "Free, built into the browser. The same FAQ page gives the multi-step flow: 'Open Norton Private Browser and go to the Security & Privacy Center. Tap Advanced Settings and then tap Clear next to Clear all Cookies & data.' — then 'Tap Clear to confirm.' Not one click.",
+          "product": "Norton Private Browser",
+          "quote": "Privacy Cleaner clears your browsing history and other data stored in your browsers, such as cached images and cookies.",
+          "url": "https://support.norton.com/sp/en/us/norton-private-browser/current/solutions/v20241104142953351"
+        }
+      ],
+      "rivalHowSold": "Free (built into browser)",
+      "rivalPrice": "Free",
+      "rivalQuote": "The Fire Button, which allows you to easily burn recent on-device browsing data in one click.",
+      "rivalUrl": "https://duckduckgo.com/duckduckgo-help-pages/company/how-does-duckduckgo-protect-privacy",
+      "state": "partial"
+    }
+  ],
+  "nortonOnly": [
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of duckduckgo.com: its absent-categories list records 'antivirus_malware'.",
+      "key": "antivirus",
+      "name": "Antivirus & malware protection",
+      "nortonProducts": [
+        "Norton 360",
+        "Norton AntiVirus Plus",
+        "Norton Mobile Security"
+      ],
+      "nortonQuote": "Antivirus, malware, ransomware, and hacking protection",
+      "nortonUrl": "https://us.norton.com/products/norton-360-standard",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of duckduckgo.com: its absent-categories list records 'password_manager'.",
+      "key": "password_manager",
+      "name": "Password manager",
+      "nortonProducts": [
+        "Norton Password Manager"
+      ],
+      "nortonQuote": "Create and store passwords, bank card info, and other online credentials for free* in our encrypted online vault.",
+      "nortonUrl": "https://us.norton.com/feature/password-manager",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of duckduckgo.com: its absent-categories list records 'credit_monitoring'.",
+      "key": "credit_monitoring",
+      "name": "Credit monitoring (up to 3 bureaus)",
+      "nortonProducts": [
+        "LifeLock Core",
+        "LifeLock Advanced",
+        "LifeLock Total"
+      ],
+      "nortonQuote": "Yes. LifeLock Advanced includes three-bureau credit monitoring, annual three-bureau credit reports, and monthly one-bureau reports.",
+      "nortonUrl": "https://lifelock.norton.com/products/lifelock-advanced",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of duckduckgo.com: its absent-categories list records 'credit_lock_freeze'.",
+      "key": "credit_lock",
+      "name": "Credit lock (TransUnion file)",
+      "nortonProducts": [
+        "LifeLock Core",
+        "LifeLock Advanced",
+        "LifeLock Total"
+      ],
+      "nortonQuote": "Allows you to lock your credit file and helps block many new payday loans in your name, with alerts if someone tries to access it.",
+      "nortonUrl": "https://lifelock.norton.com/products/lifelock-core",
+      "overlapNote": "Norton offers a TransUnion credit lock plus a guided Freeze Center; Norton does not place credit freezes itself. A company is counted as offering this job if it offers any credit lock or freeze product."
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of duckduckgo.com: its absent-categories list records 'dark_web_monitoring'.",
+      "key": "dark_web",
+      "name": "Dark web monitoring",
+      "nortonProducts": [
+        "LifeLock Core",
+        "LifeLock Advanced",
+        "LifeLock Total",
+        "Norton 360"
+      ],
+      "nortonQuote": "Yes. LifeLock Core continuously monitors dark web marketplaces and notifies you if your personal information is found. You'll also receive breach alerts if a major data breach may have exposed your information.",
+      "nortonUrl": "https://lifelock.norton.com/products/lifelock-core",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of duckduckgo.com: its absent-categories list records 'parental_controls'.",
+      "key": "parental_controls",
+      "name": "Parental controls",
+      "nortonProducts": [
+        "Norton Family",
+        "Norton 360 Deluxe"
+      ],
+      "nortonQuote": "Let your children explore the web freely with tools that help you block unsuitable websites while keeping you in the know about which sites they're visiting.",
+      "nortonUrl": "https://us.norton.com/products/norton-family",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of duckduckgo.com: its absent-categories list records 'social_media_monitoring'.",
+      "key": "social_monitoring",
+      "name": "Social media monitoring",
+      "nortonProducts": [
+        "LifeLock Core",
+        "LifeLock Advanced",
+        "LifeLock Total"
+      ],
+      "nortonQuote": "We monitor your linked accounts on the most popular social media sites and notify you if we think your account may be compromised.",
+      "nortonUrl": "https://www.norton.com/BenefitPremier",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of duckduckgo.com: its absent-categories list records 'cloud_backup_storage'.",
+      "key": "cloud_backup",
+      "name": "Cloud backup",
+      "nortonProducts": [
+        "Norton Cloud Backup",
+        "Norton 360"
+      ],
+      "nortonQuote": "Store important files, photos, and documents in the cloud, and easily recover them if your device is lost, stolen, or crashes.",
+      "nortonUrl": "https://us.norton.com/feature/backup",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of duckduckgo.com: its absent-categories list records 'google_search_removal (Personal Information Removal is broker-only)'.",
+      "key": "google_removal",
+      "name": "Google search-result removal / suppression",
+      "nortonProducts": [
+        "Reputation Defender - Defender (Online Content Suppression)",
+        "Reputation Defender - VIP Services / Special Projects"
+      ],
+      "nortonQuote": "Push negative content or misleading search results down to pages where virtually nobody will ever see them.",
+      "nortonUrl": "https://www.reputationdefender.com/search-results",
+      "overlapNote": "OVERLAPS the dashboard privacy feature 'Google results removal' (key 'google'). If the pie's only-Norton segment switches to these product-level items, do NOT also count the privacy-feature version of this job."
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of duckduckgo.com: its absent-categories list records 'reputation_management'.",
+      "key": "reputation_mgmt",
+      "name": "Reputation management (review management, reputation score, personal branding)",
+      "nortonProducts": [
+        "Reputation Defender - Defender Local",
+        "Reputation Defender - Reputation Report Card",
+        "Reputation Defender - ReputationGrower"
+      ],
+      "nortonQuote": "Our AI-powered system does an online search based on your name, city, and profession, then sorts them according to the impact on your reputation. By looking at which results appear and how prominently, we are able to assign you a reputation grade.",
+      "nortonUrl": "https://www.reputationdefender.com/report-card",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "No such product among the 18 products inventoried on duckduckgo.com in the 12 Nov 2026 full official-site inventory (product list and absent-categories list both checked).",
+      "key": "home_title",
+      "name": "Home title monitoring",
+      "nortonProducts": [
+        "LifeLock Home Title Protect",
+        "LifeLock Total"
+      ],
+      "nortonQuote": "Home Title Monitoring covers your primary home, second home, rental properties, and other properties where you are listed as an owner.",
+      "nortonUrl": "https://lifelock.norton.com/home-title-protect",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "No such product among the 18 products inventoried on duckduckgo.com in the 12 Nov 2026 full official-site inventory (product list and absent-categories list both checked).",
+      "key": "investment_alerts",
+      "name": "Investment / 401(k) account monitoring",
+      "nortonProducts": [
+        "LifeLock Total"
+      ],
+      "nortonQuote": "Investment and 401(k) activity alerts warn you of potentially identity-fraudulent cash withdrawals and balance transfers.",
+      "nortonUrl": "https://support.norton.com/sp/en/us/home/current/solutions/v20250925172133820",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "No such product among the 18 products inventoried on duckduckgo.com in the 12 Nov 2026 full official-site inventory (product list and absent-categories list both checked).",
+      "key": "bank_alerts",
+      "name": "Bank & financial account transaction alerts",
+      "nortonProducts": [
+        "LifeLock Core",
+        "LifeLock Advanced",
+        "LifeLock Total"
+      ],
+      "nortonQuote": "Credit, Checking and Savings Activity Alerts: 5 Accounts. Notifies you of suspicious activity across your bank, credit, and savings accounts, including unauthorized charges and account changes .",
+      "nortonUrl": "https://lifelock.norton.com/products/lifelock-advanced",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "No such product among the 18 products inventoried on duckduckgo.com in the 12 Nov 2026 full official-site inventory (product list and absent-categories list both checked).",
+      "key": "webcam",
+      "name": "Webcam protection",
+      "nortonProducts": [
+        "Norton SafeCam (in Norton 360 plans)"
+      ],
+      "nortonQuote": "SafeCam alerts you to attempts to access your Windows PC webcam and gives you the option to block those who are not authorized to access it.",
+      "nortonUrl": "https://us.norton.com/feature/safecam",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "No such product among the 18 products inventoried on duckduckgo.com in the 12 Nov 2026 full official-site inventory (product list and absent-categories list both checked).",
+      "key": "ai_scam",
+      "name": "AI scam protection (scam checker, deepfake & scam protection)",
+      "nortonProducts": [
+        "Norton Genie",
+        "Norton Deepfake Protection",
+        "Norton Scam Protection / Scam Protection Pro"
+      ],
+      "nortonQuote": "Norton Genie is an industry-leading AI-powered scam detection tool that helps you identify these types of threats, which can lead to financial fraud and identity theft.",
+      "nortonUrl": "https://support.norton.com/sp/en/us/home/current/solutions/v20230717145233467",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "No such product among the 18 products inventoried on duckduckgo.com in the 12 Nov 2026 full official-site inventory (product list and absent-categories list both checked).",
+      "key": "child_identity",
+      "name": "Child identity protection (child SSN monitoring & credit file detection)",
+      "nortonProducts": [
+        "LifeLock Junior",
+        "LifeLock Family Plans"
+      ],
+      "nortonQuote": "The existence of credit information for a child can be a sign of identity theft. LifeLock monitors your child's Social Security number to detect credit information associated with your child's identity.",
+      "nortonUrl": "https://lifelock.norton.com/products/lifelock-junior",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "No such product among the 18 products inventoried on duckduckgo.com in the 12 Nov 2026 full official-site inventory (product list and absent-categories list both checked).",
+      "key": "pc_utilities",
+      "name": "PC utilities & tune-up (driver updater, cleanup, optimization)",
+      "nortonProducts": [
+        "Norton Utilities Ultimate",
+        "Norton Driver Updater",
+        "Norton Computer Tune Up",
+        "Norton Cleaner"
+      ],
+      "nortonQuote": "Norton Driver Updater software automatically detects outdated, corrupt, vulnerable, or missing Windows PC drivers and suggests the best choices from more than 140 million available drivers.",
+      "nortonUrl": "https://us.norton.com/products/norton-driver-updater",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "No such product among the 18 products inventoried on duckduckgo.com in the 12 Nov 2026 full official-site inventory (product list and absent-categories list both checked).",
+      "key": "tech_support",
+      "name": "On-demand tech support & virus-removal service",
+      "nortonProducts": [
+        "Norton Ultimate Help Desk",
+        "Norton Premium Services",
+        "Norton Spyware & Virus Removal"
+      ],
+      "nortonQuote": "Norton Premium Services can help you, with: 24/7 access to Norton experts; Remote assistance support online or by phone; Virus removal and more.",
+      "nortonUrl": "https://us.norton.com/nortonservices",
+      "overlapNote": null
+    }
+  ],
+  "productsTotal": 18,
+  "detail": {
+    "brokerList": {
+      "categories": [
+        "People search",
+        "Background check"
+      ],
+      "kind": "named",
+      "label": "DuckDuckGo's official supported-sites list",
+      "note": "54 sites as listed on DuckDuckGo's official help page; no total count is printed there.",
+      "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/personal-information-removal/list-of-supported-data-brokers"
+    }
+  }
+}

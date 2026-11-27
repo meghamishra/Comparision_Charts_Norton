@@ -1,0 +1,681 @@
+{
+  "id": "optery",
+  "name": "Optery",
+  "kind": "Specialist",
+  "domain": "optery.com",
+  "checkedAt": "2026-11-25T22:58:07.502Z",
+  "priceAnnual": 39,
+  "priceLabel": "Core $3.99/mo billed monthly or $39 billed yearly ($3.25/mo) — entry paid tier",
+  "priceNote": "Free Basic $0; Extended $14.99/mo or $149/yr; Ultimate $24.99/mo or $249/yr. Broker totals are on optery.com/pricing/ (checked 25 Nov 2026) — Core is '375+'; Ultimate automated removals '615+', and '930+' sites total including unlimited custom removal requests.",
+  "brokerCount": 375,
+  "brokerCountLabel": "\"375+\" for Core — optery.com/pricing/ (150+ without Expanded Reach), checked 25 Nov 2026. Used in this comparison: 375+ (Core). Also on optery.com/pricing/: Extended '550+'; Ultimate automated removals '615+' (390+ without Expanded Reach), and '930+' sites total including unlimited custom removal requests",
+  "rescanDays": 30,
+  "rescanLabel": "Paid: at least once every 30 days (monthly). Free Basic: quarterly",
+  "features": [
+    {
+      "group": "Privacy",
+      "icon": "🔍",
+      "key": "scan",
+      "label": "Broker scan",
+      "norton": "Yes — scans supported people-search & data broker sites and shows which have your data",
+      "note": null,
+      "rival": "Yes"
+    },
+    {
+      "group": "Privacy",
+      "icon": "🤖",
+      "key": "auto",
+      "label": "Automated removal included",
+      "norton": "No — included Privacy Monitor is manual opt-out. Automated removal only with Privacy Monitor Assistant add-on, $109.99/yr or $12.99/mo",
+      "note": "Privacy Monitor Assistant Lite (automatic removal to a smaller broker set every 90 days, no agent) is included only with some newer LifeLock and partner plans — not with retail Norton 360 with LifeLock Select Plus / Ultimate Plus.",
+      "rival": "Yes"
+    },
+    {
+      "group": "Privacy",
+      "icon": "🔢",
+      "key": "count",
+      "label": "Broker count stated",
+      "norton": "Page by page on norton.com — the Privacy Monitor Assistant product page (us.norton.com/products/privacy-monitor-assistant) says 'over 2,000' data broker sites; the Privacy Monitor feature page (us.norton.com/feature/privacy-monitor) says 'over 200'; the support list names sites individually with no total. Used in this comparison: 'over 2,000' from the Assistant product page on the main site — the Assistant is the removal product. No staging page is used as a source anywhere in this comparison",
+      "note": "Page by page — every figure is from optery.com/pricing/, checked 25 Nov 2026: Core '375+' (used in this comparison; 150+ without Expanded Reach) • Extended '550+' • Ultimate 'Automated removals from 615+ Sites (or 390+ Sites without enabling Expanded Reach)' • Ultimate total '930+' including custom removals ('Unlimited Custom Removal Requests for 930+ Sites total (eligible after 30 days)'). The 11 Nov 2026 check of the same page read Extended '555+', Ultimate 620+ automated / 935+ total, and the 6 Nov 2026 check read Core '380+', Ultimate 625+ automated / 940+ total — Optery's counts move as its broker list changes, so the current page text is the headline here.",
+      "rival": "Core '375+' on optery.com/pricing/. Ultimate: '615+' automated removals, '930+' sites total including unlimited custom removal requests — both on optery.com/pricing/"
+    },
+    {
+      "group": "Privacy",
+      "icon": "🔄",
+      "key": "rescan",
+      "label": "Rescan speed",
+      "norton": "Every 90 days (Privacy Monitor Assistant); Privacy Monitor scan re-run every 3 months",
+      "note": null,
+      "rival": "Monthly on paid tiers; quarterly on Free Basic"
+    },
+    {
+      "group": "Privacy",
+      "icon": "✉️",
+      "key": "custom",
+      "label": "Custom removal requests",
+      "norton": "Offered via Reputation Defender executive/corporate products only (quote-led, 'when possible', no published price, no consumer product): ExecutivePrivacy — “Custom removal requests, when possible”; Total Radius — “Custom Data Removals”; VIP Services — “Deep Web privacy protection, including custom removal requests”. No Norton consumer product offers custom removals — Privacy Monitor Assistant covers its supported broker list only",
+      "note": null,
+      "rival": "Yes — Ultimate only: unlimited custom removals"
+    },
+    {
+      "group": "Privacy",
+      "icon": "🌐",
+      "key": "google",
+      "label": "Google results removal",
+      "norton": "Yes — via Reputation Defender (separate purchase, reputationdefender.com): “Push negative content or misleading search results down to pages where virtually nobody will ever see them”; its FAQ: “in certain cases online content in your search results can be permanently deleted”. Reputation Defender suppresses negative content in search results and deletes content where possible — it does not make de-indexing requests to Google",
+      "note": null,
+      "rival": "Yes — Exposure Report scans Google and Bing results; outdated-content submission to Google/Bing/DuckDuckGo/Yahoo (Ultimate/business)"
+    },
+    {
+      "group": "Privacy",
+      "icon": "📸",
+      "key": "proof",
+      "label": "Removal proof",
+      "norton": "Results list + opt-out tracking; email once a batch of opt-outs has been sent. Screenshots: Not stated on official site",
+      "note": null,
+      "rival": "Yes — BEFORE-AND-AFTER SCREENSHOTS in Removals Reports (~every 90 days, Extended/Ultimate). Unique in this comparison"
+    },
+    {
+      "group": "AntiTrack",
+      "icon": "🛡️",
+      "key": "tracker",
+      "label": "Tracker & cookie blocking",
+      "norton": "Yes — Tracker & Cookie Blocking (support). Full ad blocking: Not stated on official site ('limit targeted ads')",
+      "note": null,
+      "rival": "Not stated on official site"
+    },
+    {
+      "group": "AntiTrack",
+      "icon": "👆",
+      "key": "fingerprint",
+      "label": "Fingerprint protection",
+      "norton": "\"Disguise your digital fingerprint automatically each time you browse\" — support: anti-fingerprinting will 'return dummy data' to websites",
+      "note": null,
+      "rival": "Not stated on official site"
+    },
+    {
+      "group": "AntiTrack",
+      "icon": "📧",
+      "key": "email",
+      "label": "Email aliases + tracker blocking",
+      "norton": "Yes — create unlimited email aliases (AntiTrack Private Email) and block hidden email trackers",
+      "note": null,
+      "rival": "Not stated on official site"
+    },
+    {
+      "group": "AntiTrack",
+      "icon": "📱",
+      "key": "appOs",
+      "label": "App / OS-level protection",
+      "norton": "Yes — Windows OS Tracker Blocking: blocks tracking activities and targeted ads by the Windows operating system (support)",
+      "note": null,
+      "rival": "Not stated on official site"
+    },
+    {
+      "group": "AntiTrack",
+      "icon": "📊",
+      "key": "dashboard",
+      "label": "Tracking dashboard",
+      "norton": "Yes — Tracking Dashboard shows real-time blocked trackers, ranked by level of concern / risk",
+      "note": null,
+      "rival": "No tracking dashboard — removal/exposure reports only"
+    }
+  ],
+  "tiers": [
+    {
+      "highlight": "Free tier exists · quarterly scans",
+      "name": "Optery Free Basic",
+      "note": null,
+      "priceAnnual": 0,
+      "priceLabel": "$0 — free",
+      "removal": "in",
+      "renewalLabel": null,
+      "scan": "in",
+      "suite": "no",
+      "tracking": "no"
+    },
+    {
+      "highlight": "375+ brokers · monthly scans",
+      "name": "Optery Core",
+      "note": null,
+      "priceAnnual": 39,
+      "priceLabel": "$3.99/mo or $39/yr",
+      "removal": "in",
+      "renewalLabel": null,
+      "scan": "in",
+      "suite": "no",
+      "tracking": "no"
+    },
+    {
+      "highlight": "Adds before/after screenshot removal reports",
+      "name": "Optery Extended",
+      "note": null,
+      "priceAnnual": 149,
+      "priceLabel": "$14.99/mo or $149/yr",
+      "removal": "in",
+      "renewalLabel": null,
+      "scan": "in",
+      "suite": "no",
+      "tracking": "no"
+    },
+    {
+      "highlight": "Adds unlimited custom removals",
+      "name": "Optery Ultimate",
+      "note": "Ultimate totals from optery.com/pricing/ (checked 25 Nov 2026): '615+' automated removals (390+ without Expanded Reach) and '930+' sites total including unlimited custom removal requests. This comparison's headline uses Core's '375+'.",
+      "priceAnnual": 249,
+      "priceLabel": "$24.99/mo or $249/yr",
+      "removal": "in",
+      "renewalLabel": null,
+      "scan": "in",
+      "suite": "no",
+      "tracking": "no"
+    }
+  ],
+  "refs": [
+    {
+      "label": "Optery vs Cloaked (own prices, screenshots)",
+      "proves": "Optery's own tier prices and screenshot reports",
+      "url": "https://www.optery.com/optery-vs-cloaked/"
+    },
+    {
+      "label": "Optery help: scan frequency",
+      "proves": "Monthly paid / quarterly free cadence (updated 2026-07-15)",
+      "url": "https://help.optery.com/en/article/how-often-does-optery-run-scans-and-opt-outs-z8xpc2/"
+    },
+    {
+      "label": "Optery business pricing",
+      "proves": "Google/Bing exposure scan, outdated-content tools, screenshot proof",
+      "url": "https://www.optery.com/business-pricing/"
+    }
+  ],
+  "gaps": [
+    {
+      "biz": false,
+      "detail": "Norton states no home-blurring on Google Maps or Apple Maps. Checked: Reputation Defender Total Radius (removes physical addresses from online records — address removal, not Maps blurring), PMA, Privacy Monitor, LifeLock.",
+      "eco": false,
+      "name": "Blur home on Google Maps & Apple Maps",
+      "nortonEvidence": [],
+      "rivalHowSold": "Included in Ultimate Pro (business)",
+      "rivalPrice": "Included in Ultimate Pro (business)",
+      "rivalQuote": "Blur your home on Google Maps and Apple Maps",
+      "rivalUrl": "https://www.optery.com/business-pricing/",
+      "state": "gap"
+    }
+  ],
+  "partials": [
+    {
+      "biz": false,
+      "detail": "Norton offers a free one-time personal data exposure scan (LifeLock, no account required), but Optery's free tier rescans quarterly; Norton's quarterly rescans (Privacy Monitor, about every 90 days) require a paid plan.",
+      "eco": false,
+      "name": "Free Basic tier + Exposure Report",
+      "nortonEvidence": [
+        {
+          "note": "Free, no account required (LifeLock homepage: 'Check if your personal information is at risk. In seconds. Free. No account required.').",
+          "product": "LifeLock free personal data exposure scan",
+          "quote": "you can also run a free one-time, deep-dive personal data exposure scan right now by following these simple steps: 1. Enter your email: Type your email address into our free personal data exposure scanner and click 'Run your free scan.' 2. Share identifying details: Input your full name, city, and state to enable a more complete exposure scan.",
+          "url": "https://lifelock.norton.com/learn/internet-security/dark-web-scan"
+        },
+        {
+          "note": "Included in Norton 360 Deluxe/Premium and all Norton 360 with LifeLock tiers; scan + manual opt-out instructions.",
+          "product": "Privacy Monitor",
+          "quote": "Once you click on Privacy Monitor, we will scan popular data broker sites for your personal info. You can then request to opt out with the data broker.",
+          "url": "https://us.norton.com/feature/privacy-monitor"
+        },
+        {
+          "note": null,
+          "product": "Privacy Monitor",
+          "quote": "Privacy Monitor scan: About once every 90 days (once per quarter) to catch new or reappearing exposures.",
+          "url": "https://support.norton.com/sp/en/us/home/current/solutions/v20260414094751989"
+        }
+      ],
+      "rivalHowSold": "Free Basic tier",
+      "rivalPrice": "$0",
+      "rivalQuote": "Sign up Free to receive your personalized Exposure Report.",
+      "rivalUrl": "https://www.optery.com/",
+      "state": "partial"
+    },
+    {
+      "biz": false,
+      "detail": "Norton offers custom removal requests only via executive/corporate Reputation Defender: ExecutivePrivacy “Custom removal requests, when possible”; Total Radius “Custom Data Removals — By default we cover hundreds of online data removal scenarios—but if you do find something new, our team will determine the best way to mitigate it for you.”; VIP Services “Deep Web privacy protection, including custom removal requests and social media scanning”. All three are quote-led with no published price, and no Norton consumer product offers custom removals — PMA is scan-driven and supported-list-only (“Supported sites only: Privacy Monitor and Privacy Monitor Assistant only cover supported data brokers.”). Optery sells custom removals as a consumer feature. (User scope decision 12 Nov 2026: corporate/executive RD counts as Norton offering it.)",
+      "eco": false,
+      "name": "Custom Removals (Ultimate)",
+      "nortonEvidence": [
+        {
+          "note": null,
+          "product": "Reputation Defender - ExecutivePrivacy (US)",
+          "quote": "Custom removal requests, when possible",
+          "url": "https://www.reputationdefender.com/privacy"
+        },
+        {
+          "note": null,
+          "product": "Reputation Defender - Total Radius",
+          "quote": "By default we cover hundreds of online data removal scenarios—but if you do find something new, our team will determine the best way to mitigate it for you.",
+          "url": "https://www.reputationdefender.com/executive-protection"
+        },
+        {
+          "note": null,
+          "product": "Reputation Defender - VIP Services / Special Projects",
+          "quote": "Deep Web privacy protection, including custom removal requests and social media scanning",
+          "url": "https://www.reputationdefender.com/solutions"
+        }
+      ],
+      "rivalHowSold": "Included in Ultimate",
+      "rivalPrice": "Included in Ultimate ($24.99/mo or $249/yr)",
+      "rivalQuote": "Unlimited Custom Removals for data brokers we don't cover (Ultimate plan customers)",
+      "rivalUrl": "https://www.optery.com/",
+      "state": "partial"
+    },
+    {
+      "biz": false,
+      "detail": "Privacy Monitor shows which sites have your data and alerts you to new matches, and PMA agents handle and follow up removal requests; screenshot verification of removals is not stated.",
+      "eco": false,
+      "name": "Exposure & Removals Reports with screenshot verification",
+      "nortonEvidence": [
+        {
+          "note": "Included in Norton 360 Deluxe/Premium and all Norton 360 with LifeLock tiers; scan + manual opt-out instructions.",
+          "product": "Privacy Monitor",
+          "quote": "Once you click on Privacy Monitor, we will scan popular data broker sites for your personal info. You can then request to opt out with the data broker.",
+          "url": "https://us.norton.com/feature/privacy-monitor"
+        },
+        {
+          "note": null,
+          "product": "Privacy Monitor",
+          "quote": "Shows which sites have your data and what's exposed (for example your name, address, phone number).",
+          "url": "https://support.norton.com/sp/en/us/home/current/solutions/v20260414094751989"
+        },
+        {
+          "note": null,
+          "product": "Privacy Monitor",
+          "quote": "Alerts you to new matches of your personal information so you can check and take action again.",
+          "url": "https://support.norton.com/sp/en/us/home/current/solutions/v20260414094751989"
+        },
+        {
+          "note": null,
+          "product": "Privacy Monitor Assistant",
+          "quote": "Our support agents will handle removal requests and follow up with data brokers for you.",
+          "url": "https://us.norton.com/products/privacy-monitor-assistant"
+        }
+      ],
+      "rivalHowSold": "Included in Extended / Ultimate",
+      "rivalPrice": "Included in Extended ($14.99/mo or $149/yr) / Ultimate ($24.99/mo or $249/yr)",
+      "rivalQuote": "Optery's Exposure Reports and Removals Reports provide live screenshots proving to you where we found and removed your profiles.",
+      "rivalUrl": "https://www.optery.com/pricing/",
+      "state": "partial"
+    },
+    {
+      "biz": true,
+      "detail": "Norton offers corporate PII removal for executive teams via Reputation Defender Total Radius (PII removals, enterprise dashboard, named account manager), but it is executive-focused and demo-led, not employee-wide managed removal at scale; Norton Small Business has no data-broker removal and benefit plans are consumer distribution.",
+      "eco": false,
+      "name": "Optery for Business",
+      "nortonEvidence": [
+        {
+          "note": "Corporate/executive product; demo-led, no price published.",
+          "product": "Reputation Defender - Total Radius",
+          "quote": "PII removals make it harder for would-be attackers to locate you or your team.",
+          "url": "https://www.reputationdefender.com/executive-protection"
+        },
+        {
+          "note": null,
+          "product": "Reputation Defender - Total Radius",
+          "quote": "Everything you need to monitor, manage, and report on the digital threat landscape for your team is accessible through our intuitive dashboard.",
+          "url": "https://www.reputationdefender.com/executive-protection"
+        },
+        {
+          "note": null,
+          "product": "Reputation Defender - Total Radius",
+          "quote": "A named account manager with expertise in mitigating privacy and reputation threats is available to answer questions, provide guidance, and carry out remediation activities on your behalf.",
+          "url": "https://www.reputationdefender.com/executive-protection"
+        }
+      ],
+      "rivalHowSold": "Separate business product (quote/demo)",
+      "rivalPrice": null,
+      "rivalQuote": "Automatically find and remove exposed employee personal data from hundreds of data broker and people-search sites, at scale, with flexible plans for organizations of any size.",
+      "rivalUrl": "https://www.optery.com/business-pricing/",
+      "state": "partial"
+    },
+    {
+      "biz": false,
+      "detail": "Family plans are offered via LifeLock family variants; AI reports, custom scans, an API and SSO are not stated.",
+      "eco": false,
+      "name": "Family Plans, AI reports, Custom Scans, API, SSO",
+      "nortonEvidence": [
+        {
+          "note": null,
+          "product": "LifeLock Family Plans",
+          "quote": "Family plans cover two adults, with the option to add children on plans that include kids. Everyone on the plan gets their own identity monitoring and restoration support, under one membership instead of separate subscriptions for each person.",
+          "url": "https://lifelock.norton.com/family-plans"
+        }
+      ],
+      "rivalHowSold": "Included across plans (features vary by tier)",
+      "rivalPrice": null,
+      "rivalQuote": "Optery's functionality is years ahead of the competition, including AI Generated Reports, Custom Scans, Custom Removals, Family Plans, Exposure & Removals Reports with Screenshot Verification, Real-time Dashboard Status Updates, Humans + Machines Removals, Self-Service SSO / SCIM / SAML Integrations Options, Public API, Activity History, Limited Power of Attorney, ID Verification, and more.",
+      "rivalUrl": "https://www.optery.com/pricing/",
+      "state": "partial"
+    }
+  ],
+  "nortonOnly": [
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of optery.com: its absent-categories list records 'antivirus_malware'.",
+      "key": "antivirus",
+      "name": "Antivirus & malware protection",
+      "nortonProducts": [
+        "Norton 360",
+        "Norton AntiVirus Plus",
+        "Norton Mobile Security"
+      ],
+      "nortonQuote": "Antivirus, malware, ransomware, and hacking protection",
+      "nortonUrl": "https://us.norton.com/products/norton-360-standard",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of optery.com: its absent-categories list records 'vpn'.",
+      "key": "vpn",
+      "name": "VPN",
+      "nortonProducts": [
+        "Norton Secure VPN",
+        "Norton 360"
+      ],
+      "nortonQuote": "Norton VPN uses bank-grade encryption to make your data unreadable to unauthorized parties.",
+      "nortonUrl": "https://us.norton.com/products/norton-vpn",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of optery.com: its absent-categories list records 'password_manager'.",
+      "key": "password_manager",
+      "name": "Password manager",
+      "nortonProducts": [
+        "Norton Password Manager"
+      ],
+      "nortonQuote": "Create and store passwords, bank card info, and other online credentials for free* in our encrypted online vault.",
+      "nortonUrl": "https://us.norton.com/feature/password-manager",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of optery.com: its absent-categories list records 'identity_theft_protection'.",
+      "key": "identity_protection",
+      "name": "Identity theft protection (identity monitoring, alerts & restoration specialists)",
+      "nortonProducts": [
+        "LifeLock Core",
+        "LifeLock Advanced",
+        "LifeLock Total"
+      ],
+      "nortonQuote": "If your identity is compromised, an Identity Restoration Specialist will personally handle your case and help restore your identity.",
+      "nortonUrl": "https://lifelock.norton.com/products/lifelock-junior",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of optery.com: its absent-categories list records 'identity_theft_insurance'.",
+      "key": "identity_insurance",
+      "name": "Identity theft insurance",
+      "nortonProducts": [
+        "LifeLock Core",
+        "LifeLock Advanced",
+        "LifeLock Total"
+      ],
+      "nortonQuote": "LifeLock Core covers up to $1,050,000.",
+      "nortonUrl": "https://lifelock.norton.com/learn/identity-theft-resources/million-dollar-protection",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of optery.com: its absent-categories list records 'credit_monitoring'.",
+      "key": "credit_monitoring",
+      "name": "Credit monitoring (up to 3 bureaus)",
+      "nortonProducts": [
+        "LifeLock Core",
+        "LifeLock Advanced",
+        "LifeLock Total"
+      ],
+      "nortonQuote": "Yes. LifeLock Advanced includes three-bureau credit monitoring, annual three-bureau credit reports, and monthly one-bureau reports.",
+      "nortonUrl": "https://lifelock.norton.com/products/lifelock-advanced",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of optery.com: its absent-categories list records 'credit_lock_freeze'.",
+      "key": "credit_lock",
+      "name": "Credit lock (TransUnion file)",
+      "nortonProducts": [
+        "LifeLock Core",
+        "LifeLock Advanced",
+        "LifeLock Total"
+      ],
+      "nortonQuote": "Allows you to lock your credit file and helps block many new payday loans in your name, with alerts if someone tries to access it.",
+      "nortonUrl": "https://lifelock.norton.com/products/lifelock-core",
+      "overlapNote": "Norton offers a TransUnion credit lock plus a guided Freeze Center; Norton does not place credit freezes itself. A company is counted as offering this job if it offers any credit lock or freeze product."
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of optery.com: its absent-categories list records 'dark_web_monitoring'.",
+      "key": "dark_web",
+      "name": "Dark web monitoring",
+      "nortonProducts": [
+        "LifeLock Core",
+        "LifeLock Advanced",
+        "LifeLock Total",
+        "Norton 360"
+      ],
+      "nortonQuote": "Yes. LifeLock Core continuously monitors dark web marketplaces and notifies you if your personal information is found. You'll also receive breach alerts if a major data breach may have exposed your information.",
+      "nortonUrl": "https://lifelock.norton.com/products/lifelock-core",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of optery.com: its absent-categories list records 'parental_controls'.",
+      "key": "parental_controls",
+      "name": "Parental controls",
+      "nortonProducts": [
+        "Norton Family",
+        "Norton 360 Deluxe"
+      ],
+      "nortonQuote": "Let your children explore the web freely with tools that help you block unsuitable websites while keeping you in the know about which sites they're visiting.",
+      "nortonUrl": "https://us.norton.com/products/norton-family",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of optery.com: its absent-categories list records 'tracker_ad_blocking'.",
+      "key": "tracker_blocking",
+      "name": "Tracker & ad blocking",
+      "nortonProducts": [
+        "Norton AntiTrack",
+        "Norton Private Browser"
+      ],
+      "nortonQuote": "Help prevent websites and data collection companies from tracking your every move online.",
+      "nortonUrl": "https://us.norton.com/products/norton-antitrack",
+      "overlapNote": "Was in the dashboard's old AntiTrack feature group until the user removed the AntiTrack comparison on 2026-11-13; it is NOT one of the current 7 privacy features."
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of optery.com: its absent-categories list records 'fingerprint_protection'.",
+      "key": "fingerprint",
+      "name": "Fingerprint protection",
+      "nortonProducts": [
+        "Norton AntiTrack",
+        "Norton Private Browser"
+      ],
+      "nortonQuote": "Disguise your digital fingerprint automatically each time you browse so you can't be identified.",
+      "nortonUrl": "https://us.norton.com/products/norton-antitrack",
+      "overlapNote": "Was in the dashboard's old AntiTrack feature group until 2026-11-13; NOT one of the current 7 privacy features."
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of optery.com: its absent-categories list records 'email_protection_aliases'.",
+      "key": "email_aliases",
+      "name": "Email aliases & email tracker blocking",
+      "nortonProducts": [
+        "Norton AntiTrack (Private Email)"
+      ],
+      "nortonQuote": "Create unlimited email aliases and block hidden email trackers, all without changing your current provider (Windows, Mac).",
+      "nortonUrl": "https://us.norton.com/products/norton-antitrack",
+      "overlapNote": "Was in the dashboard's old AntiTrack feature group ('Email aliases + tracker blocking') until 2026-11-13; NOT one of the current 7 privacy features."
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of optery.com: its absent-categories list records 'secure_browser'.",
+      "key": "secure_browser",
+      "name": "Secure browser",
+      "nortonProducts": [
+        "Norton Private Browser",
+        "Norton Neo"
+      ],
+      "nortonQuote": "Block ads and trackers and get anti-fingerprinting protection to help keep your actions unprofiled.",
+      "nortonUrl": "https://us.norton.com/products/norton-private-browser",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of optery.com: its absent-categories list records 'social_media_monitoring'.",
+      "key": "social_monitoring",
+      "name": "Social media monitoring",
+      "nortonProducts": [
+        "LifeLock Core",
+        "LifeLock Advanced",
+        "LifeLock Total"
+      ],
+      "nortonQuote": "We monitor your linked accounts on the most popular social media sites and notify you if we think your account may be compromised.",
+      "nortonUrl": "https://www.norton.com/BenefitPremier",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of optery.com: its absent-categories list records 'wifi_network_protection'.",
+      "key": "wifi_protection",
+      "name": "Wi-Fi / network protection",
+      "nortonProducts": [
+        "Norton 360 for Mobile",
+        "Norton Secure VPN"
+      ],
+      "nortonQuote": "Wi-Fi Security to help detect and alert you when a network you join is dangerous.",
+      "nortonUrl": "https://us.norton.com/products/norton-mobile-security",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of optery.com: its absent-categories list records 'cloud_backup_storage'.",
+      "key": "cloud_backup",
+      "name": "Cloud backup",
+      "nortonProducts": [
+        "Norton Cloud Backup",
+        "Norton 360"
+      ],
+      "nortonQuote": "Store important files, photos, and documents in the cloud, and easily recover them if your device is lost, stolen, or crashes.",
+      "nortonUrl": "https://us.norton.com/feature/backup",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of optery.com: its absent-categories list records 'reputation_management'.",
+      "key": "reputation_mgmt",
+      "name": "Reputation management (review management, reputation score, personal branding)",
+      "nortonProducts": [
+        "Reputation Defender - Defender Local",
+        "Reputation Defender - Reputation Report Card",
+        "Reputation Defender - ReputationGrower"
+      ],
+      "nortonQuote": "Our AI-powered system does an online search based on your name, city, and profession, then sorts them according to the impact on your reputation. By looking at which results appear and how prominently, we are able to assign you a reputation grade.",
+      "nortonUrl": "https://www.reputationdefender.com/report-card",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "No such product among the 10 products inventoried on optery.com (12 Nov 2026), and the company's absent-categories list was checked; spot-verified live on the optery.com homepage on 13 Nov 2026 — the site presents removal-focused offerings only, no product of this type.",
+      "key": "home_title",
+      "name": "Home title monitoring",
+      "nortonProducts": [
+        "LifeLock Home Title Protect",
+        "LifeLock Total"
+      ],
+      "nortonQuote": "Home Title Monitoring covers your primary home, second home, rental properties, and other properties where you are listed as an owner.",
+      "nortonUrl": "https://lifelock.norton.com/home-title-protect",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "No such product among the 10 products inventoried on optery.com (12 Nov 2026), and the company's absent-categories list was checked; spot-verified live on the optery.com homepage on 13 Nov 2026 — the site presents removal-focused offerings only, no product of this type.",
+      "key": "investment_alerts",
+      "name": "Investment / 401(k) account monitoring",
+      "nortonProducts": [
+        "LifeLock Total"
+      ],
+      "nortonQuote": "Investment and 401(k) activity alerts warn you of potentially identity-fraudulent cash withdrawals and balance transfers.",
+      "nortonUrl": "https://support.norton.com/sp/en/us/home/current/solutions/v20250925172133820",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "No such product among the 10 products inventoried on optery.com (12 Nov 2026), and the company's absent-categories list was checked; spot-verified live on the optery.com homepage on 13 Nov 2026 — the site presents removal-focused offerings only, no product of this type.",
+      "key": "bank_alerts",
+      "name": "Bank & financial account transaction alerts",
+      "nortonProducts": [
+        "LifeLock Core",
+        "LifeLock Advanced",
+        "LifeLock Total"
+      ],
+      "nortonQuote": "Credit, Checking and Savings Activity Alerts: 5 Accounts. Notifies you of suspicious activity across your bank, credit, and savings accounts, including unauthorized charges and account changes .",
+      "nortonUrl": "https://lifelock.norton.com/products/lifelock-advanced",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "No such product among the 10 products inventoried on optery.com (12 Nov 2026), and the company's absent-categories list was checked; spot-verified live on the optery.com homepage on 13 Nov 2026 — the site presents removal-focused offerings only, no product of this type.",
+      "key": "webcam",
+      "name": "Webcam protection",
+      "nortonProducts": [
+        "Norton SafeCam (in Norton 360 plans)"
+      ],
+      "nortonQuote": "SafeCam alerts you to attempts to access your Windows PC webcam and gives you the option to block those who are not authorized to access it.",
+      "nortonUrl": "https://us.norton.com/feature/safecam",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "No such product among the 10 products inventoried on optery.com (12 Nov 2026), and the company's absent-categories list was checked; spot-verified live on the optery.com homepage on 13 Nov 2026 — the site presents removal-focused offerings only, no product of this type.",
+      "key": "ai_scam",
+      "name": "AI scam protection (scam checker, deepfake & scam protection)",
+      "nortonProducts": [
+        "Norton Genie",
+        "Norton Deepfake Protection",
+        "Norton Scam Protection / Scam Protection Pro"
+      ],
+      "nortonQuote": "Norton Genie is an industry-leading AI-powered scam detection tool that helps you identify these types of threats, which can lead to financial fraud and identity theft.",
+      "nortonUrl": "https://support.norton.com/sp/en/us/home/current/solutions/v20230717145233467",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "No such product among the 10 products inventoried on optery.com (12 Nov 2026), and the company's absent-categories list was checked; spot-verified live on the optery.com homepage on 13 Nov 2026 — the site presents removal-focused offerings only, no product of this type.",
+      "key": "child_identity",
+      "name": "Child identity protection (child SSN monitoring & credit file detection)",
+      "nortonProducts": [
+        "LifeLock Junior",
+        "LifeLock Family Plans"
+      ],
+      "nortonQuote": "The existence of credit information for a child can be a sign of identity theft. LifeLock monitors your child's Social Security number to detect credit information associated with your child's identity.",
+      "nortonUrl": "https://lifelock.norton.com/products/lifelock-junior",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "No such product among the 10 products inventoried on optery.com (12 Nov 2026), and the company's absent-categories list was checked; spot-verified live on the optery.com homepage on 13 Nov 2026 — the site presents removal-focused offerings only, no product of this type.",
+      "key": "pc_utilities",
+      "name": "PC utilities & tune-up (driver updater, cleanup, optimization)",
+      "nortonProducts": [
+        "Norton Utilities Ultimate",
+        "Norton Driver Updater",
+        "Norton Computer Tune Up",
+        "Norton Cleaner"
+      ],
+      "nortonQuote": "Norton Driver Updater software automatically detects outdated, corrupt, vulnerable, or missing Windows PC drivers and suggests the best choices from more than 140 million available drivers.",
+      "nortonUrl": "https://us.norton.com/products/norton-driver-updater",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "No such product among the 10 products inventoried on optery.com (12 Nov 2026), and the company's absent-categories list was checked; spot-verified live on the optery.com homepage on 13 Nov 2026 — the site presents removal-focused offerings only, no product of this type.",
+      "key": "tech_support",
+      "name": "On-demand tech support & virus-removal service",
+      "nortonProducts": [
+        "Norton Ultimate Help Desk",
+        "Norton Premium Services",
+        "Norton Spyware & Virus Removal"
+      ],
+      "nortonQuote": "Norton Premium Services can help you, with: 24/7 access to Norton experts; Remote assistance support online or by phone; Virus removal and more.",
+      "nortonUrl": "https://us.norton.com/nortonservices",
+      "overlapNote": null
+    }
+  ],
+  "productsTotal": 10,
+  "detail": {
+    "brokerList": {
+      "categories": [
+        "People Search Site",
+        "B2B Lead Generation"
+      ],
+      "kind": "named",
+      "label": "Optery's official data broker directory (Covered By: Extended) — parsed into the table",
+      "note": "Parsed 3 Nov 2026 from Optery's official directory filtered to Covered By = Extended — the directory itself counts 178 brokers under that filter, and those 178 names are the table. Optery's pricing page states larger totals for other tiers (Core '375+'; Extended '555+'; Ultimate '620+' automated removals and '935+' sites total including unlimited custom removal requests — all on optery.com/pricing/, checked 11 Nov 2026); no full name list for those tiers is published in the directory filter, so they are not parsed here.",
+      "url": "https://www.optery.com/data-brokers/?broker_page=1&covered-by=extended"
+    }
+  }
+}

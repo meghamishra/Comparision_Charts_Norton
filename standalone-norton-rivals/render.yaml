@@ -1,0 +1,11 @@
+# Render Blueprint — deploys this dashboard as one free web service.
+# Push this project to GitHub, then in the Render dashboard: New + ->
+# Web Service -> connect the repo. Render detects this file and fills
+# in the settings below automatically; press Deploy.
+services:
+  - type: web
+    name: norton-vs-rivals
+    env: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start

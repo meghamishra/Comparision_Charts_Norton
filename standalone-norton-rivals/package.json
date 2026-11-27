@@ -1,0 +1,1 @@
+{"description":"Standalone, self-hostable local version of the Norton LifeLock vs rivals privacy comparison dashboard.","engines":{"node":">=20"},"name":"standalone-norton-rivals","private":true,"scripts":{"scrape":"node scripts/scrape.js","start":"node server.js"},"version":"1.0.0"}

@@ -1,0 +1,160 @@
+{
+  "name": "Norton LifeLock",
+  "domain": "norton.com",
+  "checkedAt": "2026-11-25T22:58:07.502Z",
+  "refs": [
+    {
+      "label": "Norton AntiTrack product page",
+      "proves": "AntiTrack features, 'disguise' wording, unlimited aliases, dashboard, AntiTrack pricing — live-verified 12 Nov 2026 (device selector tested at all tiers: 1 Device $34.99 first yr, renews $49.99; 5 Devices $49.99 first yr, renews $59.99; 10 Devices $59.99 first yr, renews $69.99; no $29.99 price anywhere on the page)",
+      "url": "https://us.norton.com/products/norton-antitrack"
+    },
+    {
+      "label": "Norton support: Privacy Monitor vs Assistant",
+      "proves": "Current text of the rewritten page (checked 12 Nov 2026): “Privacy Monitor Assistant (PMA) is a paid service” — offered as an add-on / standalone / in certain benefit plans, not as part of retail Select Plus (whose plan page lists “Privacy Monitor”, no PMA); “Supported sites only: Privacy Monitor and Privacy Monitor Assistant only cover supported data brokers”. PMA Lite is a lighter automatic removal included only with some newer LifeLock & partner plans — smaller broker set, no agent, no Online Account Cleaner. The page no longer carries the older sentence that Select Plus includes Privacy Monitor only — that wording is not quoted as current text anywhere in this comparison",
+      "url": "https://support.norton.com/sp/en/us/home/current/solutions/v20260414094751989"
+    },
+    {
+      "label": "Norton support: AntiTrack anti-fingerprinting (“dummy data”)",
+      "proves": "The fingerprint “dummy data” wording lives on this support page, not on the AntiTrack product page: anti-fingerprinting returns dummy data to websites that request fingerprint information (checked 12 Nov 2026)",
+      "url": "https://support.norton.com/sp/en/us/norton-antitrack/current/solutions/v138652292"
+    },
+    {
+      "label": "Norton support: Windows OS Tracker Blocking",
+      "proves": "The Windows OS Tracker Blocking wording lives on this support page, not on the AntiTrack product page: AntiTrack blocks tracking activities and targeted ads by the Windows operating system (checked 12 Nov 2026)",
+      "url": "https://support.norton.com/sp/en/us/norton-antitrack/current/solutions/v20230512131947273"
+    },
+    {
+      "label": "Norton privacy solutions page",
+      "proves": "Privacy Monitor is a standard feature in LifeLock Standard/Advantage/Ultimate Plus and Norton 360 Deluxe / with LifeLock Select / Advantage / Ultimate Plus; 'Privacy Monitor Assistant is a standalone white-glove service available as a paid add-on'",
+      "url": "https://us.norton.com/products/privacy"
+    },
+    {
+      "label": "Norton support: supported broker list (names, no total)",
+      "proves": "Enumerated supported brokers individually — no total printed (DocID v20250423212359859)",
+      "url": "https://support.norton.com/sp/en/nz/home/current/solutions/v20250423212359859"
+    },
+    {
+      "label": "Norton 360 with LifeLock Ultimate Plus",
+      "proves": "LifeLock tier prices, up to $3M cover, bureau counts",
+      "url": "https://us.norton.com/products/norton-360-lifelock-ultimate-plus"
+    },
+    {
+      "label": "Norton Privacy Monitor feature page",
+      "proves": "Scan + request opt-out yourself; revisit every 3 months",
+      "url": "https://us.norton.com/feature/privacy-monitor"
+    },
+    {
+      "label": "Norton Privacy Monitor Assistant product page",
+      "proves": "PMA $109.99/yr or $12.99/mo, 'over 2,000' data broker sites, rescan every 90 days — on the main site (us.norton.com), checked 4 Nov 2026",
+      "url": "https://us.norton.com/products/privacy-monitor-assistant"
+    },
+    {
+      "label": "Norton support: opt-out guide (32 brokers with instructions)",
+      "proves": "Norton's opt-out guide names 32 brokers with step-by-step instructions (DocID v2023040613553951, read in full 12 Nov 2026). 7 of the 32 — CanadaPages, CheckPeople, ClustrMaps, PrivateReports, Public Data USA, Radaris, Truepeoplesearch — are NOT on the 367-name support list, so Norton's supported set in this comparison is the union of both Norton pages: 374 names, each row showing its page",
+      "url": "https://support.norton.com/sp/en/hk/home/current/solutions/v2023040613553951"
+    },
+    {
+      "label": "ReputationDefender: Defender — online content suppression",
+      "proves": "'Push negative content or misleading search results down to pages where virtually nobody will ever see them'; FAQ: content can in certain cases be 'permanently deleted'. Bronze / Silver / Gold tiers, 12 months. No price published — 'A reputation management specialist will review your situation with you over the phone and make a recommendation'",
+      "url": "https://www.reputationdefender.com/search-results"
+    },
+    {
+      "label": "ReputationDefender: VIP Services / Special Projects",
+      "proves": "'Reorder your search results to amplify true, positive materials and de-emphasize attacks or misleading items'; 'Change the suggested terms that people see when they start searching for you or your company'; 'Control which images and videos appear in your main search results, your knowledge graph, and in image and video searches'. No price published — Special Projects techniques 'are very resource-intensive and expensive'",
+      "url": "https://www.reputationdefender.com/vip-services"
+    },
+    {
+      "label": "ReputationDefender: Defender Local — online reviews",
+      "proves": "Defender Local review management: 'Monitor your reviews across the most important third-party review sites, including over one hundred industry-specific sites'; 'Receive alerts for new online reviews and respond directly from the platform'; business listings on hundreds of top listings sites. Prices as published: Local Essentials $2,000/yr, Local Premium $3,500/yr. FAQ: Defender Local does NOT delete negative reviews",
+      "url": "https://www.reputationdefender.com/online-reviews"
+    },
+    {
+      "label": "ReputationDefender: ReputationGrower — personal branding",
+      "proves": "'Your own personal website (e.g. johnsmith.com)', 'two professional biographies and a personal mission statement crafted by our expert writers'; 'Cloud-based dashboard to track your online presence in the search results'; 'Score your search results in real time'. $995 one-time — 'you do not need to pay us anything beyond the one-time engagement fee' (not an annual price)",
+      "url": "https://www.reputationdefender.com/personal-branding"
+    },
+    {
+      "label": "ReputationDefender: About — part of Gen Digital",
+      "proves": "'ReputationDefender is now part of Gen Digital Inc.'; 'The Norton, LifeLock by Norton, and Avira brands, products, and services are part of Gen Digital Inc.' Norton's support FAQ adds: 'ReputationDefender was acquired in September 2021'. No Norton page states ReputationDefender is included in any Norton 360 / LifeLock plan — it is sold separately via reputationdefender.com",
+      "url": "https://www.reputationdefender.com/uk/about"
+    },
+    {
+      "label": "ReputationDefender: ExecutivePrivacy — custom removal requests",
+      "proves": "ExecutivePrivacy (executive/corporate privacy): “Custom removal requests, when possible” — qualified, quote-led, no price published, no consumer product (checked 12 Nov 2026)",
+      "url": "https://www.reputationdefender.com/privacy"
+    },
+    {
+      "label": "ReputationDefender: Total Radius — custom data removals",
+      "proves": "Total Radius (executive protection): “Custom Data Removals — By default we cover hundreds of online data removal scenarios—but if you do find something new, our team will determine the best way to mitigate it for you”; also “PII removals make it harder for would-be attackers to locate you or your team” — the Norton-side basis for the business products reading partial / different (checked 12 Nov 2026)",
+      "url": "https://www.reputationdefender.com/executive-protection"
+    },
+    {
+      "label": "ReputationDefender: VIP Services — custom removal requests",
+      "proves": "VIP Services: “Deep Web privacy protection, including custom removal requests and social media scanning” — executive/corporate only, quote-led, no price published (checked 12 Nov 2026)",
+      "url": "https://www.reputationdefender.com/solutions"
+    }
+  ],
+  "stackNote": "Two separate purchases. Select Plus includes Privacy Monitor (scan + manual opt-out) only — NOT Privacy Monitor Assistant; automated removal is the $109.99/yr add-on (PMA Lite, a lighter automatic removal, is included only with some newer LifeLock/partner plans, not these retail suites). Select Plus renews $189.99/yr. Ultimate Plus suite alone is $299.99 first yr / $364.99 renewal — and it also includes Privacy Monitor only, before the same add-on.",
+  "stackSlices": [
+    {
+      "name": "Norton 360 with LifeLock Select Plus (1st yr)",
+      "value": 99.99
+    },
+    {
+      "name": "Privacy Monitor Assistant add-on",
+      "value": 109.99
+    }
+  ],
+  "stackTotal": 209.98,
+  "tiers": [
+    {
+      "highlight": "10 devices · 1-bureau credit monitoring · up to $25,000 stolen-funds reimbursement",
+      "name": "Norton 360 with LifeLock Select Plus",
+      "note": "Includes Privacy Monitor — scan + manual opt-out instructions. It does NOT include Privacy Monitor Assistant: automated removal is the paid add-on below.",
+      "priceAnnual": 99.99,
+      "priceLabel": "$99.99 first yr",
+      "removal": "addon",
+      "renewalLabel": "Renews $189.99/yr",
+      "scan": "in",
+      "suite": "in",
+      "tracking": "addon"
+    },
+    {
+      "highlight": "Unlimited devices · 3-bureau credit monitoring · up to $3M cover",
+      "name": "Norton 360 with LifeLock Ultimate Plus",
+      "note": "Also includes Privacy Monitor (manual) only — even the top suite tier does not bundle full Privacy Monitor Assistant. PMA stays a separate purchase.",
+      "priceAnnual": 299.99,
+      "priceLabel": "$299.99 first yr",
+      "removal": "addon",
+      "renewalLabel": "Renews $364.99/yr",
+      "scan": "in",
+      "suite": "in",
+      "tracking": "addon"
+    },
+    {
+      "highlight": "Norton agents submit opt-outs for you, about every 90 days · Online Account Cleaner included (full PMA only)",
+      "name": "Privacy Monitor Assistant (full) — add-on / standalone",
+      "note": "Sold as an add-on for plans that already include Privacy Monitor, or standalone (scan included). US / Canada / UK only.",
+      "priceAnnual": 109.99,
+      "priceLabel": "$109.99/yr or $12.99/mo",
+      "removal": "in",
+      "renewalLabel": null,
+      "scan": "in",
+      "suite": "no",
+      "tracking": "no"
+    },
+    {
+      "highlight": "Automatic removal for a smaller set of broker sites · no agent · no Online Account Cleaner",
+      "name": "Privacy Monitor Assistant Lite — included in SOME plans only",
+      "note": "Per Norton's support page, PMA Lite (also shown as 'Automatic Data Broker Removal') is included with some newer LifeLock and partner plans. It is NOT part of the retail Select Plus / Ultimate Plus suites above — so 'automated removal not included' applies to those retail tiers, not to every LifeLock plan.",
+      "priceAnnual": null,
+      "priceLabel": "No separate price — included where offered",
+      "removal": "part",
+      "renewalLabel": null,
+      "scan": "in",
+      "suite": "ns",
+      "tracking": "no"
+    }
+  ],
+  "namedBrokers": 374
+}

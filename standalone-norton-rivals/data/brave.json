@@ -1,0 +1,504 @@
+{
+  "id": "brave",
+  "name": "Brave Browser",
+  "kind": "Free browser",
+  "domain": "brave.com",
+  "checkedAt": "2026-11-25T22:58:07.502Z",
+  "priceAnnual": 0,
+  "priceLabel": "Free — $0.00",
+  "priceNote": "Shields is built into the free browser. No data-broker removal at any price.",
+  "brokerCount": null,
+  "brokerCountLabel": "No broker removal — not applicable",
+  "rescanDays": null,
+  "rescanLabel": "Not applicable — no broker removal",
+  "features": [
+    {
+      "group": "Privacy",
+      "icon": "🔍",
+      "key": "scan",
+      "label": "Broker scan",
+      "norton": "Yes — scans supported people-search & data broker sites and shows which have your data",
+      "note": null,
+      "rival": "No — Brave has no broker/people-search scan"
+    },
+    {
+      "group": "Privacy",
+      "icon": "🤖",
+      "key": "auto",
+      "label": "Automated removal included",
+      "norton": "No — included Privacy Monitor is manual opt-out. Automated removal only with Privacy Monitor Assistant add-on, $109.99/yr or $12.99/mo",
+      "note": "Privacy Monitor Assistant Lite — lighter automatic removal, fewer broker removals — is free with a qualifying Norton subscription per support.norton.com (Getting started with Privacy Monitor, Privacy Monitor Assistant, and Privacy Monitor Assistant Lite).",
+      "rival": "No"
+    },
+    {
+      "group": "Privacy",
+      "icon": "🔢",
+      "key": "count",
+      "label": "Broker count stated",
+      "norton": "Page by page on norton.com — the Privacy Monitor Assistant product page (us.norton.com/products/privacy-monitor-assistant) says 'over 2,000' data broker sites; the Privacy Monitor feature page (us.norton.com/feature/privacy-monitor) says 'over 200'; the support list names sites individually with no total. Used in this comparison: 'over 2,000' from the Assistant product page on the main site — the Assistant is the removal product. No staging page is used as a source anywhere in this comparison",
+      "note": null,
+      "rival": "No removal service"
+    },
+    {
+      "group": "Privacy",
+      "icon": "🔄",
+      "key": "rescan",
+      "label": "Rescan speed",
+      "norton": "Every 90 days (Privacy Monitor Assistant); Privacy Monitor scan re-run every 3 months",
+      "note": null,
+      "rival": "Not applicable"
+    },
+    {
+      "group": "Privacy",
+      "icon": "✉️",
+      "key": "custom",
+      "label": "Custom removal requests",
+      "norton": "Offered via Reputation Defender executive/corporate products only (quote-led, 'when possible', no published price, no consumer product): ExecutivePrivacy — “Custom removal requests, when possible”; Total Radius — “Custom Data Removals”; VIP Services — “Deep Web privacy protection, including custom removal requests”. No Norton consumer product offers custom removals — Privacy Monitor Assistant covers its supported broker list only",
+      "note": null,
+      "rival": "No"
+    },
+    {
+      "group": "Privacy",
+      "icon": "🌐",
+      "key": "google",
+      "label": "Google results removal",
+      "norton": "Yes — via Reputation Defender (separate purchase, reputationdefender.com): “Push negative content or misleading search results down to pages where virtually nobody will ever see them”; its FAQ: “in certain cases online content in your search results can be permanently deleted”. Reputation Defender suppresses negative content in search results and deletes content where possible — it does not make de-indexing requests to Google",
+      "note": null,
+      "rival": "No"
+    },
+    {
+      "group": "Privacy",
+      "icon": "📸",
+      "key": "proof",
+      "label": "Removal proof",
+      "norton": "Results list + opt-out tracking; email once a batch of opt-outs has been sent. Screenshots: Not stated on official site",
+      "note": null,
+      "rival": "Shields panel lists blocked trackers — not broker-removal proof"
+    },
+    {
+      "group": "AntiTrack",
+      "icon": "🛡️",
+      "key": "tracker",
+      "label": "Tracker & cookie blocking",
+      "norton": "Yes — Tracker & Cookie Blocking (support). Full ad blocking: Not stated on official site ('limit targeted ads')",
+      "note": null,
+      "rival": "Yes — blocks 3rd-party ads/trackers and cross-site cookies"
+    },
+    {
+      "group": "AntiTrack",
+      "icon": "👆",
+      "key": "fingerprint",
+      "label": "Fingerprint protection",
+      "norton": "\"Disguise your digital fingerprint automatically each time you browse\" — support: anti-fingerprinting will 'return dummy data' to websites",
+      "note": "The only other company whose fingerprint wording matches Norton's disguise/randomise level.",
+      "rival": "\"Fingerprint randomization\" — 'makes you look different to every site, each time you restart the browser'"
+    },
+    {
+      "group": "AntiTrack",
+      "icon": "📧",
+      "key": "email",
+      "label": "Email aliases + tracker blocking",
+      "norton": "Yes — create unlimited email aliases (AntiTrack Private Email) and block hidden email trackers",
+      "note": null,
+      "rival": "Not stated on official site on the Shields pages checked"
+    },
+    {
+      "group": "AntiTrack",
+      "icon": "📱",
+      "key": "appOs",
+      "label": "App / OS-level protection",
+      "norton": "Yes — Windows OS Tracker Blocking: blocks tracking activities and targeted ads by the Windows operating system (support)",
+      "note": null,
+      "rival": "Not stated on official site"
+    },
+    {
+      "group": "AntiTrack",
+      "icon": "📊",
+      "key": "dashboard",
+      "label": "Tracking dashboard",
+      "norton": "Yes — Tracking Dashboard shows real-time blocked trackers, ranked by level of concern / risk",
+      "note": null,
+      "rival": "Yes — Shields panel shows detailed list of blocked ads/trackers, scripts, fingerprinting attempts, cookies"
+    }
+  ],
+  "tiers": [
+    {
+      "highlight": "One free tier: Shields tracking + fingerprint protection in the browser",
+      "name": "Brave Browser — only tier",
+      "note": "There is no higher tier: broker scan/removal is not sold at any price.",
+      "priceAnnual": 0,
+      "priceLabel": "$0 — free",
+      "removal": "no",
+      "renewalLabel": null,
+      "scan": "no",
+      "suite": "no",
+      "tracking": "in"
+    }
+  ],
+  "refs": [
+    {
+      "label": "Brave Shields",
+      "proves": "Free $0.00, randomizing fingerprint wording, cookie blocking, Shields list",
+      "url": "https://brave.com/shields/"
+    }
+  ],
+  "gaps": [
+    {
+      "biz": false,
+      "detail": "Norton states no search engine. Checked: Norton Neo (Universal Search is a browser search feature, not a standalone search engine), Norton Private Browser (search-agnostic — choose Bing or Google), Norton 360, Genie.",
+      "eco": false,
+      "name": "Brave Search",
+      "nortonEvidence": [],
+      "rivalHowSold": "Free (default search in Brave; also at search.brave.com)",
+      "rivalPrice": "$0",
+      "rivalQuote": "Brave Search is the private, independent search engine that's default for most new users of the Brave browser.",
+      "rivalUrl": "https://brave.com/",
+      "state": "gap"
+    },
+    {
+      "biz": false,
+      "detail": "Norton states no search engine (and so no premium search subscription). Checked: Norton Neo (Universal Search is a browser search feature, not a standalone search engine), Norton Private Browser (search-agnostic — choose Bing or Google), Norton 360.",
+      "eco": false,
+      "name": "Brave Search Premium",
+      "nortonEvidence": [],
+      "rivalHowSold": "Separate subscription",
+      "rivalPrice": "$3.00/month or $29.99/year",
+      "rivalQuote": "A premium subscription supports the Brave Search mission, and brings ad-free results.",
+      "rivalUrl": "https://brave.com/premium/",
+      "state": "gap"
+    },
+    {
+      "biz": false,
+      "detail": "Norton states no video-calling product. Checked: Norton Ultimate Help Desk (helps set up third-party video-conferencing tools — support, not a calling product), Norton 360, Norton Family.",
+      "eco": true,
+      "name": "Brave Talk",
+      "nortonEvidence": [],
+      "rivalHowSold": "Free for small groups; Premium is a separate subscription (7-day free trial)",
+      "rivalPrice": "$7.00/month or $69.99/year (Premium)",
+      "rivalQuote": "Brave Talk brings unlimited, private video calls for small groups, right to your browser.",
+      "rivalUrl": "https://brave.com/premium/",
+      "state": "gap"
+    },
+    {
+      "biz": false,
+      "detail": "Norton states no crypto/Web3 wallet product. Checked: Norton Money (financial-wellness app: Plaid account linking, spending tracker, Equifax credit score — no crypto wallet), LifeLock, Password Manager (stores credentials, not crypto).",
+      "eco": false,
+      "name": "Brave Wallet",
+      "nortonEvidence": [],
+      "rivalHowSold": "Free, built into the browser",
+      "rivalPrice": "$0",
+      "rivalQuote": "Brave Wallet is the only secure Web3 wallet built directly into a private browser. Use of Brave Wallet is totally free.",
+      "rivalUrl": "http://brave.com/about/?ref=https",
+      "state": "gap"
+    },
+    {
+      "biz": false,
+      "detail": "Norton states no rewards programme. Checked: Norton 360, LifeLock, Norton Money, Private Browser, Neo.",
+      "eco": true,
+      "name": "Brave Rewards (BAT)",
+      "nortonEvidence": [],
+      "rivalHowSold": "Free, optional",
+      "rivalPrice": "$0",
+      "rivalQuote": "Brave Rewards gives you the option to view first-party, privacy-protecting ads while you browse (these ads are from the Brave Private Ads network). If you choose to view them, you earn BAT via the Brave Rewards program.",
+      "rivalUrl": "https://brave.com/",
+      "state": "gap"
+    },
+    {
+      "biz": false,
+      "detail": "Norton states no news feed product. Checked: Norton Neo (Split View shows news alongside browsing — a layout feature, not a news feed), Private Browser, Norton 360.",
+      "eco": true,
+      "name": "Brave News",
+      "nortonEvidence": [],
+      "rivalHowSold": "Free, built into the browser",
+      "rivalPrice": "$0",
+      "rivalQuote": "They'll simply be able to remove features like Leo, News, Rewards, VPN, Wallet, Web3 domains, and more.",
+      "rivalUrl": "https://brave.com/",
+      "state": "gap"
+    }
+  ],
+  "partials": [
+    {
+      "biz": false,
+      "detail": "Norton offers unlimited email aliases via a separate Norton add-on (Windows/Mac only); Brave Email Aliases are free.",
+      "eco": false,
+      "name": "Brave Email Aliases",
+      "nortonEvidence": [
+        {
+          "note": "Windows/Mac only; part of a paid Norton add-on.",
+          "product": "Norton — email aliases add-on",
+          "quote": "Create unlimited email aliases and block hidden email trackers, all without changing your current provider (Windows, Mac).",
+          "url": "https://us.norton.com/products/norton-antitrack"
+        }
+      ],
+      "rivalHowSold": "Free, built into the browser",
+      "rivalPrice": "$0",
+      "rivalQuote": "Brave Email Aliases allows you to sign up for services without revealing your real email address, by generating unique addresses that forward to your primary email inbox.",
+      "rivalUrl": "https://brave.com/privacy",
+      "state": "partial"
+    }
+  ],
+  "nortonOnly": [
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of brave.com: its absent-categories list records 'antivirus_malware'.",
+      "key": "antivirus",
+      "name": "Antivirus & malware protection",
+      "nortonProducts": [
+        "Norton 360",
+        "Norton AntiVirus Plus",
+        "Norton Mobile Security"
+      ],
+      "nortonQuote": "Antivirus, malware, ransomware, and hacking protection",
+      "nortonUrl": "https://us.norton.com/products/norton-360-standard",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of brave.com: its absent-categories list records 'identity_theft_protection'.",
+      "key": "identity_protection",
+      "name": "Identity theft protection (identity monitoring, alerts & restoration specialists)",
+      "nortonProducts": [
+        "LifeLock Core",
+        "LifeLock Advanced",
+        "LifeLock Total"
+      ],
+      "nortonQuote": "If your identity is compromised, an Identity Restoration Specialist will personally handle your case and help restore your identity.",
+      "nortonUrl": "https://lifelock.norton.com/products/lifelock-junior",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of brave.com: its absent-categories list records 'identity_theft_insurance'.",
+      "key": "identity_insurance",
+      "name": "Identity theft insurance",
+      "nortonProducts": [
+        "LifeLock Core",
+        "LifeLock Advanced",
+        "LifeLock Total"
+      ],
+      "nortonQuote": "LifeLock Core covers up to $1,050,000.",
+      "nortonUrl": "https://lifelock.norton.com/learn/identity-theft-resources/million-dollar-protection",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of brave.com: its absent-categories list records 'credit_monitoring'.",
+      "key": "credit_monitoring",
+      "name": "Credit monitoring (up to 3 bureaus)",
+      "nortonProducts": [
+        "LifeLock Core",
+        "LifeLock Advanced",
+        "LifeLock Total"
+      ],
+      "nortonQuote": "Yes. LifeLock Advanced includes three-bureau credit monitoring, annual three-bureau credit reports, and monthly one-bureau reports.",
+      "nortonUrl": "https://lifelock.norton.com/products/lifelock-advanced",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of brave.com: its absent-categories list records 'credit_lock_freeze'.",
+      "key": "credit_lock",
+      "name": "Credit lock (TransUnion file)",
+      "nortonProducts": [
+        "LifeLock Core",
+        "LifeLock Advanced",
+        "LifeLock Total"
+      ],
+      "nortonQuote": "Allows you to lock your credit file and helps block many new payday loans in your name, with alerts if someone tries to access it.",
+      "nortonUrl": "https://lifelock.norton.com/products/lifelock-core",
+      "overlapNote": "Norton offers a TransUnion credit lock plus a guided Freeze Center; Norton does not place credit freezes itself. A company is counted as offering this job if it offers any credit lock or freeze product."
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of brave.com: its absent-categories list records 'dark_web_monitoring'.",
+      "key": "dark_web",
+      "name": "Dark web monitoring",
+      "nortonProducts": [
+        "LifeLock Core",
+        "LifeLock Advanced",
+        "LifeLock Total",
+        "Norton 360"
+      ],
+      "nortonQuote": "Yes. LifeLock Core continuously monitors dark web marketplaces and notifies you if your personal information is found. You'll also receive breach alerts if a major data breach may have exposed your information.",
+      "nortonUrl": "https://lifelock.norton.com/products/lifelock-core",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of brave.com: its absent-categories list records 'parental_controls'.",
+      "key": "parental_controls",
+      "name": "Parental controls",
+      "nortonProducts": [
+        "Norton Family",
+        "Norton 360 Deluxe"
+      ],
+      "nortonQuote": "Let your children explore the web freely with tools that help you block unsuitable websites while keeping you in the know about which sites they're visiting.",
+      "nortonUrl": "https://us.norton.com/products/norton-family",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of brave.com: its absent-categories list records 'social_media_monitoring'.",
+      "key": "social_monitoring",
+      "name": "Social media monitoring",
+      "nortonProducts": [
+        "LifeLock Core",
+        "LifeLock Advanced",
+        "LifeLock Total"
+      ],
+      "nortonQuote": "We monitor your linked accounts on the most popular social media sites and notify you if we think your account may be compromised.",
+      "nortonUrl": "https://www.norton.com/BenefitPremier",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of brave.com: its absent-categories list records 'wifi_network_protection'.",
+      "key": "wifi_protection",
+      "name": "Wi-Fi / network protection",
+      "nortonProducts": [
+        "Norton 360 for Mobile",
+        "Norton Secure VPN"
+      ],
+      "nortonQuote": "Wi-Fi Security to help detect and alert you when a network you join is dangerous.",
+      "nortonUrl": "https://us.norton.com/products/norton-mobile-security",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of brave.com: its absent-categories list records 'cloud_backup_storage'.",
+      "key": "cloud_backup",
+      "name": "Cloud backup",
+      "nortonProducts": [
+        "Norton Cloud Backup",
+        "Norton 360"
+      ],
+      "nortonQuote": "Store important files, photos, and documents in the cloud, and easily recover them if your device is lost, stolen, or crashes.",
+      "nortonUrl": "https://us.norton.com/feature/backup",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of brave.com: its absent-categories list records 'google_search_removal'.",
+      "key": "google_removal",
+      "name": "Google search-result removal / suppression",
+      "nortonProducts": [
+        "Reputation Defender - Defender (Online Content Suppression)",
+        "Reputation Defender - VIP Services / Special Projects"
+      ],
+      "nortonQuote": "Push negative content or misleading search results down to pages where virtually nobody will ever see them.",
+      "nortonUrl": "https://www.reputationdefender.com/search-results",
+      "overlapNote": "OVERLAPS the dashboard privacy feature 'Google results removal' (key 'google'). If the pie's only-Norton segment switches to these product-level items, do NOT also count the privacy-feature version of this job."
+    },
+    {
+      "absenceBasis": "Absent per the 12 Nov 2026 inventory of brave.com: its absent-categories list records 'reputation_management'.",
+      "key": "reputation_mgmt",
+      "name": "Reputation management (review management, reputation score, personal branding)",
+      "nortonProducts": [
+        "Reputation Defender - Defender Local",
+        "Reputation Defender - Reputation Report Card",
+        "Reputation Defender - ReputationGrower"
+      ],
+      "nortonQuote": "Our AI-powered system does an online search based on your name, city, and profession, then sorts them according to the impact on your reputation. By looking at which results appear and how prominently, we are able to assign you a reputation grade.",
+      "nortonUrl": "https://www.reputationdefender.com/report-card",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "No such product among the 15 products inventoried on brave.com in the 12 Nov 2026 full official-site inventory (product list and absent-categories list both checked).",
+      "key": "home_title",
+      "name": "Home title monitoring",
+      "nortonProducts": [
+        "LifeLock Home Title Protect",
+        "LifeLock Total"
+      ],
+      "nortonQuote": "Home Title Monitoring covers your primary home, second home, rental properties, and other properties where you are listed as an owner.",
+      "nortonUrl": "https://lifelock.norton.com/home-title-protect",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "No such product among the 15 products inventoried on brave.com in the 12 Nov 2026 full official-site inventory (product list and absent-categories list both checked).",
+      "key": "investment_alerts",
+      "name": "Investment / 401(k) account monitoring",
+      "nortonProducts": [
+        "LifeLock Total"
+      ],
+      "nortonQuote": "Investment and 401(k) activity alerts warn you of potentially identity-fraudulent cash withdrawals and balance transfers.",
+      "nortonUrl": "https://support.norton.com/sp/en/us/home/current/solutions/v20250925172133820",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "No such product among the 15 products inventoried on brave.com in the 12 Nov 2026 full official-site inventory (product list and absent-categories list both checked).",
+      "key": "bank_alerts",
+      "name": "Bank & financial account transaction alerts",
+      "nortonProducts": [
+        "LifeLock Core",
+        "LifeLock Advanced",
+        "LifeLock Total"
+      ],
+      "nortonQuote": "Credit, Checking and Savings Activity Alerts: 5 Accounts. Notifies you of suspicious activity across your bank, credit, and savings accounts, including unauthorized charges and account changes .",
+      "nortonUrl": "https://lifelock.norton.com/products/lifelock-advanced",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "No such product among the 15 products inventoried on brave.com in the 12 Nov 2026 full official-site inventory (product list and absent-categories list both checked).",
+      "key": "webcam",
+      "name": "Webcam protection",
+      "nortonProducts": [
+        "Norton SafeCam (in Norton 360 plans)"
+      ],
+      "nortonQuote": "SafeCam alerts you to attempts to access your Windows PC webcam and gives you the option to block those who are not authorized to access it.",
+      "nortonUrl": "https://us.norton.com/feature/safecam",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "No such product among the 15 products inventoried on brave.com in the 12 Nov 2026 full official-site inventory (product list and absent-categories list both checked).",
+      "key": "ai_scam",
+      "name": "AI scam protection (scam checker, deepfake & scam protection)",
+      "nortonProducts": [
+        "Norton Genie",
+        "Norton Deepfake Protection",
+        "Norton Scam Protection / Scam Protection Pro"
+      ],
+      "nortonQuote": "Norton Genie is an industry-leading AI-powered scam detection tool that helps you identify these types of threats, which can lead to financial fraud and identity theft.",
+      "nortonUrl": "https://support.norton.com/sp/en/us/home/current/solutions/v20230717145233467",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "No such product among the 15 products inventoried on brave.com in the 12 Nov 2026 full official-site inventory (product list and absent-categories list both checked).",
+      "key": "child_identity",
+      "name": "Child identity protection (child SSN monitoring & credit file detection)",
+      "nortonProducts": [
+        "LifeLock Junior",
+        "LifeLock Family Plans"
+      ],
+      "nortonQuote": "The existence of credit information for a child can be a sign of identity theft. LifeLock monitors your child's Social Security number to detect credit information associated with your child's identity.",
+      "nortonUrl": "https://lifelock.norton.com/products/lifelock-junior",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "No such product among the 15 products inventoried on brave.com in the 12 Nov 2026 full official-site inventory (product list and absent-categories list both checked).",
+      "key": "pc_utilities",
+      "name": "PC utilities & tune-up (driver updater, cleanup, optimization)",
+      "nortonProducts": [
+        "Norton Utilities Ultimate",
+        "Norton Driver Updater",
+        "Norton Computer Tune Up",
+        "Norton Cleaner"
+      ],
+      "nortonQuote": "Norton Driver Updater software automatically detects outdated, corrupt, vulnerable, or missing Windows PC drivers and suggests the best choices from more than 140 million available drivers.",
+      "nortonUrl": "https://us.norton.com/products/norton-driver-updater",
+      "overlapNote": null
+    },
+    {
+      "absenceBasis": "No such product among the 15 products inventoried on brave.com in the 12 Nov 2026 full official-site inventory (product list and absent-categories list both checked).",
+      "key": "tech_support",
+      "name": "On-demand tech support & virus-removal service",
+      "nortonProducts": [
+        "Norton Ultimate Help Desk",
+        "Norton Premium Services",
+        "Norton Spyware & Virus Removal"
+      ],
+      "nortonQuote": "Norton Premium Services can help you, with: 24/7 access to Norton experts; Remote assistance support online or by phone; Virus removal and more.",
+      "nortonUrl": "https://us.norton.com/nortonservices",
+      "overlapNote": null
+    }
+  ],
+  "productsTotal": 15,
+  "detail": {
+    "brokerList": {
+      "categories": [],
+      "kind": "none",
+      "label": "No broker removal service",
+      "note": "This company states no data-broker scan or removal service on its official site, so it publishes no broker list — every broker in Norton's list is marked ✗ for it.",
+      "url": null
+    }
+  }
+}
